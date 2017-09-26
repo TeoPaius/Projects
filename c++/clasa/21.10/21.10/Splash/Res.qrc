@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/Animals">
-        <file>dog.jpeg</file>
-    </qresource>
-</RCC>

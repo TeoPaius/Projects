@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1431874686 source:f:\c++\ubb\ex\djk\main.cpp
-	<fstream>
-	<vector>
-	<set>
-
