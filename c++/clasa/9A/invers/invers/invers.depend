@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1350538103 source:d:\9a\invers\invers\invers.cpp
+	<fstream>
+
+1350540970 source:d:\9a\invers\invers\palindrom.cpp
+	<fstream>
+
+1350542339 source:d:\9a\invers\invers\palindrom functie.cpp
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1362142477 source:f:\c++\acasa\campion\prodmax\main.cpp
+	<fstream>
+	<cmath>
+

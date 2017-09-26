@@ -1,0 +1,34 @@
+Fork / exit / wait / waitpid(...)
+create / return / join
+
+fork()
+======
+When called, creates a copy of the current process called child process. Returns 0 in the child and the PID of the child in the parent.
+
+int p;
+p = fork();
+if (p < 0)
+{
+//error
+}
+if (p == 0)
+{
+//child process
+exit(?);
+}
+//parent
+wait(0); //waits for the child
+-----
+while(1)
+}
+fork();
+} //creates exponential number of processes
+------
+for (i = 0; i < 3; i++)
+{
+fork();
+printf("%d\n",i);
+}
+Will print 0 0 1 1 1 1 2 2 2 2 2 2 2 2
+Will the order be the same? -> no
+!\n at the end of the string!

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1386516595 source:f:\c++\strings\2\main.cpp
+	<fstream>
+	<cstring>
+
+1386516912 source:f:\c++\strings\inlocuire cuvant\main.cpp
+	<fstream>
+	<cstring>
+

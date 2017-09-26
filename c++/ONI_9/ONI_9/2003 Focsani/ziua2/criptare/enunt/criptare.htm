@@ -1,0 +1,139 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>criptare</title>
+<style><!--
+.Normal
+	{font-size:10.0pt;
+	font-family:"Times New Roman";}
+.MsoPlainText
+	{font-size:10.0pt;
+	font-family:"Courier New";}
+-->
+</style>
+</head>
+<body lang=EN-US class="Normal" bgcolor="#FFFFFF">
+<p class=MsoPlainText style='text-align:justify'><b><span style='font-size:
+15.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>criptare</span></b><span
+style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span></p>
+<p class=MsoPlainText style='text-align:justify'><span style='font-size:11.0pt;
+font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Gigel 
+  si Ionel vor sa-si trimita mesaje pe care nimeni sa nu le înteleaga. Au citit 
+  ei despre spioni si modalitati de a scrie mesaje si, în final, au imaginat un 
+  mod de criptare a unui mesaj care foloseste “cuvinte cheie” (le-a placut lor 
+  denumirea asta :-) ).</span></p>
+<p class=MsoPlainText style='text-align:justify'><span style='font-size:11.0pt;
+font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Alegându-si 
+  un cuvânt cheie format numai din litere distincte, ei numara literele acestuia 
+  si împart mesajul în grupe de lungime egala cu numarul de litere al cuvântului 
+  cheie, si le aseaza una sub alta. Desigur, se poate întâmpla ca ultima grupa 
+  sa fie incompleta, asa ca o completeaza cu spatii. Apoi numeroteaza literele 
+  cuvântului cheie în ordinea din alfabet. În final, rescriu mesajul astfel: coloana 
+  de sub litera numerotata cu 1, urmata de coloana de sub litera numerotata cu 
+  2, etc. înlocuind totodata si spatiile cu caracterul ‘*’ (asterisc).</span></p>
+<p class=MsoPlainText style='text-align:justify'><span style='font-size:11.0pt;
+font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Exemplu:</span></p>
+<p class=MsoPlainText style='text-align:justify'><span>      c</span>uvântul cheie   
+              <b><span style='"MS Mincho"'>criptam</span></b><span style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span><br>
+  <span>      </span>mesaj de criptat             I<span style='"MS Mincho"'>ncercam 
+  sa lucram cu coduri si criptari.</span><span
+style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span><br>
+  cuvântul cheie        <b><span style='"MS Mincho"'>criptam</span><span>      </span></b><span style='font-family:
+&quot;Times New Roman&quot;;&quot;Courier New&quot;'><font size="3">are 7 litere</font></span><br>
+  numerotare            <b><span style='"MS Mincho"'>2635714</span></b><span style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span><br>
+  împartire în grupe   <span
+style='"MS Mincho"'>Incerca<b>|</b>m sa lu<b>|</b>cram cu<b>|</b> coduri<b>|</b> 
+  si cri<b>|</b>ptari.</span><span style='font-size:
+11.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'></span><br>
+  codificare           <b><span style='"MS Mincho"'>2635714</span></b><b><span style='font-size:11.0pt;"MS Mincho"'></span></b><br>
+  <b><span>           </span>          </b><span style='"MS Mincho"'> Incerca</span><br>
+  <b><span>           </span>          </b><span style='"MS Mincho"'> m*sa*lu</span><br>
+  <b><span>           </span>          </b><span style='"MS Mincho"'>cram*cu</span><br>
+  <b><span>           </span>          </b><span style='"MS Mincho"'>*coduri</span><br>
+  <b><span>           </span>          </b><span style='"MS Mincho"'>*si*cri</span><br>
+  <b><span>           </span>          </b><span style='"MS Mincho"'>ptari.*</span><span
+style='font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span><br>
+  mesaj criptat       <span style='"MS Mincho"'> clcrr.Imc**pcsaoiaauuii*eamd*rn*rcstr**uci</span><span
+style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span><br>
+  <span>           </span>          col1  col2  col3  col4  col5  col6  col7</p>
+<p class=MsoPlainText style='text-align:justify'><b><span style='font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Cerinta</span></b></p>
+<p class=MsoPlainText style='text-align:justify'><span style='font-size:11.0pt;
+font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Dat 
+  un cuvânt cheie si un mesaj criptat, decodificati mesajul trimis de Gigel pentru 
+  Ionel.</span></p>
+<p class=MsoPlainText style='text-align:justify'><b><span style='font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Date 
+  de intrare</span></b><span
+style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span></p>
+<p class=MsoPlainText style='text-align:justify'><span style='font-size:11.0pt;
+font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Fi&#351;ierul 
+  de intrare </span><b><span
+style='font-size:11.0pt;"MS Mincho"'>criptare.in</span></b><span
+style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'> contine pe prima linie mesajul criptat iar pe linia 
+  a doua cuvântul cheie.</span></p>
+<p class=MsoPlainText style='text-align:justify'><b><span style='font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Date 
+  de iesire</span></b></p>
+<p class=MsoPlainText style='text-align:justify'><span style='font-size:11.0pt;
+font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Fisierul 
+  de intrare </span><b><span
+style='font-size:11.0pt;"MS Mincho"'>criptare.out</span></b><span
+style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'> contine pe prima linie mesajul decriptat.</span></p>
+<p class=MsoPlainText style='text-align:justify'><b><span style='font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Restrictii</span></b></p>
+<p class=MsoPlainText style='text-align:justify;'> <span
+style='font-size:11.0pt;font-family:Symbol;
+&quot;MS Mincho&quot;'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;<font face="Times New Roman, Times, serif" size="3">&nbsp;&nbsp;</font></span></span><font face="Times New Roman, Times, serif" size="3">lungimea 
+  mesajului este de minim 5 si maxim 1000 caractere</font><br>
+<span
+style='font-size:11.0pt;font-family:Symbol;
+&quot;MS Mincho&quot;'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style='font-size:11.0pt;font-family:"Times New Roman";"Courier New"'>cuvântul 
+  cheie are  minim 5 si maxim 20 caractere</span><br>
+<span
+style='font-size:11.0pt;font-family:Symbol;
+&quot;MS Mincho&quot;'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span><span style='font-size:11.0pt;font-family:"Times New Roman";"Courier New"'>cuvântul 
+  cheie con&#355;ine numai litere mici ale alfabetului </span></p>
+<p class=MsoPlainText style='text-align:justify'><b><span style='font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Exemplu</span></b><span
+style='font-size:12.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span></p>
+<table border=1 cellspacing=0 cellpadding=0>
+  <tr> 
+    <td width=350 valign=top class="Normal"> 
+      <p class=MsoPlainText style='text-align:justify'><b><span style='"MS Mincho"'>criptare.in</span></b></p>
+    </td>
+    <td width=330 valign=top class="Normal"> 
+      <p class=MsoPlainText style='text-align:justify'><b><span style='"MS Mincho"'>criptare.out</span></b></p>
+    </td>
+  </tr>
+  <tr> 
+    <td width=350 valign=top class="Normal"> 
+      <p class=MsoPlainText style='text-align:justify'><span style='"MS Mincho"'>clcrr.Imc**pcsaoiaauuii*eamd*rn*rcstr**uci</span><span
+style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'></span><br>
+        <span style='font-size:9.0pt;
+  &quot;MS Mincho&quot;'>criptam</span></p>
+    </td>
+    <td width=330 valign=top class="Normal"> 
+      <p class=MsoPlainText style='text-align:justify'><span style='font-size:9.0pt;
+  &quot;MS Mincho&quot;'>Incercam sa lucram cu coduri si criptari.</span></p>
+    </td>
+  </tr>
+</table>
+<p class=MsoPlainText style='text-align:justify'><b><span style='font-size:
+13.0pt;font-family:&quot;Times New Roman&quot;;&quot;MS Mincho&quot;;&quot;Courier New&quot;'>Timp 
+  maxim de executie/test</span></b><span style='font-size:11.0pt;font-family:&quot;Times New Roman&quot;;
+&quot;Courier New&quot;'>: 1 secunda</span></p>
+<p class=MsoPlainText style='text-align:justify'>&nbsp;</p>
+</body>
+</html>

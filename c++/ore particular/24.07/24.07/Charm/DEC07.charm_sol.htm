@@ -1,0 +1,195 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+ <title>USACO DEC07 charm Analysis</title> </head><body bgcolor="#ffffff">
+<center><img src="DEC07.charm_sol_files/cow1.jpg" width="742" height="118"></center>
+<h2>USACO DEC07 Problem 'charm' Analysis</h2>
+<h4>by Rob Kolstad</h4>
+<p>This is one of the classic "knapsack" problems: 'Items' with a
+'value' and 'size' can be stuffed an integer number of times into
+a container of some limited size with the goal of maximizing the
+value of the items inserted.
+
+</p><p>The classic solution pivots on a list of the best possible value
+that can be obtained for the set of items so far seen. The array's
+subscript is 'size'; it's value is "the best value that can be
+obtained for the items so far processed.
+
+</p><p>Initially, of course, the array's values are all zero. Adding
+the first element is easy: bestvalue[itemweight] = itemvalue.
+
+</p><p>Subsequent items are processed one-by-one as follows. The item's
+weight and value are (experimentally) added to each of the *existing*
+weight/value pairs in the bestvalue array (including the 0/0 element).
+If the new weight/value pair is better, it replaces the old weight
+value.
+
+</p><p>By way of example, consider the four items from the problem
+description:
+</p><pre>1 4
+2 6
+3 12
+2 7
+</pre>
+The maximum allowed weight is 6, so 6+1 elements are needed in the 'bestvalue'
+array:
+<pre>   0   0   0   0   0   0   0   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+
+The first element (weight 1, value 4) is easy to insert:
+<pre>   0   4   0   0   0   0   0   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+
+The second element (weight 2, value 6) requires two additions.  For
+purposes of explanation, we will first add it to the 0/0 element:
+<pre>   V-------V
+   0   4  *6*  0   0   0   0   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+
+and then to the weight=1 element, which currently has value 4:
+<pre>       V-------V
+   0   4   6 *10*  0   0   0   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+
+<p><b>Important point:</b>It is now clear that we can run into trouble
+if, for instance, our weight was 1.  In that case, we'd be modifying
+sequential elements -- elements whose new value should be based on
+the original 'best' matrix value and not the newly increased values.
+Thus, <b>we must either make a new (properly copied) best matrix
+so modifications are made properly OR we must modify the 'best'
+matrix from the larger elements to smaller</b>
+
+</p><p>The third element (weight 3, value 12) requires <b>four</b>
+additions (to weights 0, 1, 2, and 3). We will start at weight 3
+and proceed 'backwards':
+</p><pre>               V-----------V
+   0   4   6  10   0   0 *22*  &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+
+           V-----------V
+   0   4   6  10   0 *12* 22   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+
+       V-----------V
+   0   4   6  10 *16* 12  22   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+In the final case, we will <b>overwrite</b> a now inferior
+'best value' element:
+<pre>   V-----------V
+   0   4   6 *12* 16  12  22   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+
+<p>The fourth and final element (weight 2, value 7) will require
+potential augmentation of all 7 of the best values since all slots
+are now occupied.  Working backwards:
+</p><pre>                           V-------V
+   0   4   6  12  16  12  22   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+No modifications since the aggregate weight is too large.  Likewise:
+<pre>                       V-------V
+   0   4   6  12  16  12  22   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+Regular calculations and potential modifications then commence.
+The 6th item is overwritten since 16+7 &gt; 22 (and so on):
+<pre>                   V-------V
+   0   4   6  12  16  12 *23*  &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+
+               V-------V
+   0   4   6  12  16 *19* 23   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+For weight 2 + 2, the new value 6+7=13 is less than the current
+best value of 16, so no modification occurs:
+<pre>           V-------V
+   0   4   6  12  16  19  23   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+Likewise for weight 1 + 2 no modificastion occurs since
+4+7=11 &lt; 12:
+<pre>       V-------V
+   0   4   6  12  16  19  23   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+The final weight 0+2 has a new best value:
+<pre>   V-------V
+   0   4  *7* 12  16  19  23   &lt;-- best value
+   0   1   2   3   4   5   6   &lt;-- for this weight (subscript)
+</pre>
+
+<p>Having now processed all the input, the 'best value' array is
+complete. In this case element bestvalue[6]=23 is the largest of
+all the values. One can well imagine this would not be the case if,
+e.g., an item with weight 5 and value 1,000 existed.  That might
+make the largest value appear in some slot other than the final one
+(i.e., if the other weights were all &gt; 1). Thus we scan the best
+value array to find the largest element, which is the highest
+possible value that can be created within the size/weight constraints.
+
+</p><p>I coded this task using two arrays and inefficient copy operators:
+</p><pre>#include &lt;stdio.h&gt;
+
+#define MAX 12880
+int best[MAX+1], newbest[MAX+1], nb;
+
+main () {
+    FILE *fin = fopen ("charm.in", "r");
+    FILE *fout = fopen ("charm.out", "w");
+    int n, m, w, d, i, j, biggest;
+
+    fscanf (fin, "%d %d", &amp;n, &amp;m);
+    bzero (best, (m+1)*sizeof(int));
+    bzero (newbest, (m+1)*sizeof(int));
+    for (i = 0; i &lt; n; i++) {
+	fscanf (fin, "%d %d", &amp;w, &amp;d);
+	for (j = 0; j &lt;= m; j++) {
+	    if (j != 0 &amp;&amp; best[j] == 0 || j+w &gt; m) continue;
+	    nb = best[j] + d;
+	    if (nb &gt; newbest[j+w]) newbest[j+w] = nb;
+	}
+	bcopy (newbest, best, (m+1)*sizeof(int));
+	/*for (j = 0; j &lt;= m; j++) printf("%2d ", best[j]);
+	  printf (" -- %d %d\n", w, d);  /* debug */
+    }
+    biggest = best[0];
+    for (j = 1; j &lt;= m; j++) 
+	if (best[j] &gt; biggest) biggest = best[j];
+    fprintf (fout, "%d\n", biggest);
+    exit (0);
+}
+</pre>
+Richard Peng, who has coded tasks like this many times, has evolved
+a more sophisticated solution that requires but one array (processed
+in reverse order) and uses the cool '&gt;?=' operator for replacing
+'improved' elements. Note that his loops are generally 'correct by
+construction' -- no need to check for out-of-bounds indices since
+the loops are properly constrained.  Of course his solution is also
+just about as fast as we know how to solve a task like this:
+<pre>#include &lt;cstdio&gt;
+#include &lt;cstring&gt;
+
+int bes[12880], n, m, a, b, i, j;
+
+int main () {
+    freopen ("charm.in", "r", stdin);
+    freopen ("charm.out", "w", stdout);
+    scanf ("%d%d", &amp;n, &amp;m);
+    memset (bes, 0, sizeof (bes));
+    for (i=0; i&lt;n; i++){
+	scanf ("%d%d", &amp;a, &amp;b);
+	for (j=m; j&gt;=a; j--)
+	    bes[j]&gt;?=bes[j-a]+b;
+    }
+    printf ("%d\n", bes[m]);
+    return 0;
+}
+</pre>
+
+</body></html>

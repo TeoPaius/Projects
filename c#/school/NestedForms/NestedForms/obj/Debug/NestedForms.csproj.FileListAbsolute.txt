@@ -1,0 +1,10 @@
+F:\c#\school\NestedForms\NestedForms\bin\Debug\NestedForms.exe.config
+F:\c#\school\NestedForms\NestedForms\bin\Debug\NestedForms.exe
+F:\c#\school\NestedForms\NestedForms\bin\Debug\NestedForms.pdb
+F:\c#\school\NestedForms\NestedForms\obj\Debug\NestedForms.csprojResolveAssemblyReference.cache
+F:\c#\school\NestedForms\NestedForms\obj\Debug\NestedForms.Form1.resources
+F:\c#\school\NestedForms\NestedForms\obj\Debug\NestedForms.Properties.Resources.resources
+F:\c#\school\NestedForms\NestedForms\obj\Debug\NestedForms.csproj.GenerateResource.Cache
+F:\c#\school\NestedForms\NestedForms\obj\Debug\NestedForms.exe
+F:\c#\school\NestedForms\NestedForms\obj\Debug\NestedForms.pdb
+F:\c#\school\NestedForms\NestedForms\obj\Debug\NestedForms.Form2.resources

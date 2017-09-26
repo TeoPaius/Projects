@@ -1,0 +1,160 @@
+<html>
+<title>Lista lu' Fr&#226ncu</title>
+<body bgcolor="white" vlink="darkblue" link="darkblue" alink="darkblue">
+
+
+
+<!-- Spidersoft WebZIP Banner Ad Insert -->
+<!-- For removal instructions see:  http://www.spidersoft.com/webzip/help/noads.asp  -->
+
+<SCRIPT FOR=window EVENT=onload LANGUAGE="JScript">
+if (navigator.onLine){
+  initAd();
+}
+</SCRIPT>
+
+<script language="JScript">
+<!--
+
+function initAd() {
+  document.all.AdLayer.style.posTop = -200;
+  document.all.AdLayer.style.visibility = 'visible'
+  MoveLayer('AdLayer');
+}
+
+function MoveLayer(layerName) {
+  var x = 10;
+  var y = 10;
+  var diff = (document.body.scrollTop + y - document.all.AdLayer.style.posTop)*.40;
+  var y = document.body.scrollTop + y - diff;
+  eval("document.all." + layerName + ".style.posTop =  y");
+  eval("document.all." + layerName + ".style.posLeft = x");
+  setTimeout("MoveLayer('AdLayer');", 60);
+}
+
+if (navigator.onLine){
+  document.write("<div bgcolor=#000000 style='height=70px;'></div>");
+  document.write("<div id=AdLayer style='position:absolute; width:100%; height:80px; z-index:20; visibility:hidden;'>");
+  document.write("<IFRAME SRC='http://www.spidersoft.com/ads/bwz468_60.asp' width=100% height=60 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no></IFRAME>");
+  document.write("</div>");
+}
+ //-->
+</script>
+
+<!-- /Spidersoft WebZIP Banner Ad Insert -->
+
+
+
+<center>
+<table width=600 border=0 cellspacing=0 cellpadding=0>
+  <td rowspan=3 valign="top" align="right">
+    <img src="../../rom/but.gif" border=0 usemap="#dora"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+    <img src="../../rom/gol.gif"><br><img src="../../rom/gol.gif"><br>
+  </td>
+  <td height=100 valign="top" align="left" colspan=2><img src="../../rom/pro.gif"></td>
+  <tr><td height=100% width=400 valign="top">
+<font face="fixed" size=-1>
+<center><a href="enunt.html"><img src="../../rom/enunt.jpg" border=0></center><br>
+<center>
+  <a href="comisia.rar"><img src="../../rom/comisia.jpg" border=0></a>
+  <a href="surse.rar"><img src="../../rom/surse.jpg" border=0></a>
+  <a href="teste.rar"><img src="../../rom/teste.jpg" border=0></a>
+  <a href="clasam.html"><img src="../../rom/clasam.jpg" border=0></a>
+</center>
+<ul>
+<hr size=1 width=70%>
+<br>
+<pre>
+Este clar ca, pentru a merge in timp util, problema trebuie sa
+raspunda la fiecare din cele M intrebari in timp constant (O(1)).
+Asta inseamna ca vom preprocesa datele de intrare (arborele) pentru a
+le aduce la o forma convenabila.
+
+Observati ca o simpla parcurge in adancime a arborelui pentru fiecare
+query (intrebare) este o solutie ineficienta, deoarece complexitatea
+poate ajunge la O(N), in cazul in care arborele este degenerat (este
+un simplu lant).
+
+Solutia cea mai la indemana este ceea ce se cheama o "Parcurgere
+Euler" a arborelui. In cazul unei parcurgeri obisnuite (in adancime) a
+unui arbore, ce facem? Tiparim radacina arborelui si reapelam
+parcurgerea pentru fiecare fiu. In cazul parcurgerii Euler, scriem
+radacina, reapelam parcurgerea pentru fiecare fiu, apoi tiparim din
+nou radacina. Asadar, in urma parcurgerii Euler rezulta un sir de
+numere in care fiecare nod apare de doua ori.
+
+Se mai poate face observatia ca frunzele apar in sir de doua ori pe
+pozitii consecutive, intrucat intre prima si cea de-a doua aparitie nu
+se mai face nici un apel pentru nici un fiu. Este posibila deci
+imbunatatirea (care pentru problema 5 nu e de nici un folos) ca
+frunzele sa fie scrise numai o data.
+
+Pentru arborele din enunt, parcurgerea Euler este:
+
+       1
+    /  |  \
+  2    3    4
+  |       /   \
+  5     6       7
+
+Euler: 1 2 5 5 2 3 3 4 6 6 7 7 4 1
+
+Acum devine evident ca nodul X este ascendentul lui Y daca si numai
+daca cele doua aparitii ale lui X in vectorul Euler incadreaza cele
+doua aparitii ale lui Y. Privind mai sus, se observa de exemplu ca
+aparitiile lui 4 in vector incadreaza aparitiile lui 6 si 7, dar nu si
+pe ale lui 3 sau 5.
+
+Ce avem de facut deci ? Construim doi vectori, de pilda First si Last,
+cu cate N elemente, in care retinem indicii primei si al ultimei
+aparitii ale fiecarui nod. De exemplu, numarul 4 are First=8, Last=13.
+Rezulta pentru exemplul de mai sus:
+
+First = ( 1, 2, 6, 8, 3, 9,11)
+Last  = (14, 5, 7,13, 4,10,12)
+
+Acum putem raspunde in O(1) la orice intrebare, pentru ca X este
+ascendentul lui Y daca si numai daca First[X]&lt;First[Y] si
+Last[X]>Last[Y].
+
+Trebuie numai sa aveti grija sa obtineti vectorii first si Last in
+O(N), desi, dupa cum am spus, timpul de rulare enorm va permite si o
+solutie O(N^2). Ideal ar fi fost sa va cer sa tipariti un bit pentru
+fiecare raspuns. In acest caz, pentru M=1,000,000, fisierul de iesire
+ar fi avut numai 125kB. Dar asta este.
+
+In incheiere, remarc urmatoarea optimizare: Constructia vectorilor
+First si Last se poate face intr-un singur pas, fara a face un pas
+intermediar spre a construi vectorul Euler. Daca totusi vreti sa
+faceti asa, observati ca vectorul Euler are lungime 2N, intrucat
+fiecare nod apare de 2 ori.
+</pre></font>
+
+
+
+        </td>
+      <td width=50></td>
+  <tr><td colspan=2 valign="bottom"><img src="../../rom/jos.gif"></td>
+</table>
+</center>
+
+<map name="dora">
+  <area shape="rect" coords="50,90,100,110" href="../../rom/home.html">
+  <area shape="rect" coords="30,125,100,145" href="../../rom/probleme.html">
+  <area shape="rect" coords="30,160,100,180" href="../../rom/clasament.html">
+  <area shape="rect" coords="25,195,100,215" href="../../rom/regulament.html">
+  <area shape="rect" coords="15,230,100,250" href="../../rom/policy.html">
+  <area shape="rect" coords="5,265,100,285" href="../../cgi-bin/probleme/probleme.html">
+  <area shape="rect" coords="5,300,100,320" href="../../eng/home.html">
+</map>
+</body>
+</html>
+

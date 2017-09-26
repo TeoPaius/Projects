@@ -1,0 +1,9 @@
+F:\c#\OOP\Server\Server\bin\Debug\Server.exe.config
+F:\c#\OOP\Server\Server\bin\Debug\Server.exe
+F:\c#\OOP\Server\Server\bin\Debug\Server.pdb
+F:\c#\OOP\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\c#\OOP\Server\Server\obj\Debug\Server.Form1.resources
+F:\c#\OOP\Server\Server\obj\Debug\Server.Properties.Resources.resources
+F:\c#\OOP\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\c#\OOP\Server\Server\obj\Debug\Server.exe
+F:\c#\OOP\Server\Server\obj\Debug\Server.pdb

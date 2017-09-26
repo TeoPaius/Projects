@@ -1,0 +1,12 @@
+D:\XIIA\29.02\SqlRemote\SqlRemote\bin\Debug\SqlRemote.exe.config
+D:\XIIA\29.02\SqlRemote\SqlRemote\bin\Debug\SqlRemote.exe
+D:\XIIA\29.02\SqlRemote\SqlRemote\bin\Debug\SqlRemote.pdb
+D:\XIIA\29.02\SqlRemote\SqlRemote\obj\Debug\SqlRemote.csprojResolveAssemblyReference.cache
+D:\XIIA\29.02\SqlRemote\SqlRemote\obj\Debug\SqlRemote.Form1.resources
+D:\XIIA\29.02\SqlRemote\SqlRemote\obj\Debug\SqlRemote.Properties.Resources.resources
+D:\XIIA\29.02\SqlRemote\SqlRemote\obj\Debug\SqlRemote.csproj.GenerateResource.Cache
+D:\XIIA\29.02\SqlRemote\SqlRemote\obj\Debug\SqlRemote.exe
+D:\XIIA\29.02\SqlRemote\SqlRemote\obj\Debug\SqlRemote.pdb
+F:\c#\SqlRemote\SqlRemote\SqlRemote\bin\Debug\SqlRemote.exe.config
+F:\c#\SqlRemote\SqlRemote\SqlRemote\obj\Debug\SqlRemote.exe
+F:\c#\SqlRemote\SqlRemote\SqlRemote\obj\Debug\SqlRemote.pdb

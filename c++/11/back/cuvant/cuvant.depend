@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414322149 source:f:\c++\11\back\cuvant\main.cpp
+	<fstream>
+	<cstring>
+

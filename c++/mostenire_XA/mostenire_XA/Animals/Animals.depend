@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1402505671 source:f:\c++\mostenire_xa\mostenire_xa\animals\main.cpp
+	"include/Animals.h"
+	<iostream>
+
+1402505792 f:\c++\mostenire_xa\mostenire_xa\animals\include\animals.h
+	<string>
+
+1402505749 source:f:\c++\mostenire_xa\mostenire_xa\animals\src\animals.cpp
+	"..\include\Animals.h"
+	<iostream>
+

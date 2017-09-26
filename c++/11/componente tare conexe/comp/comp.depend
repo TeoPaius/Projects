@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413734222 source:f:\c++\11\componente tare conexe\comp\main.cpp
+	<fstream>
+	<vector>
+	<stack>
+

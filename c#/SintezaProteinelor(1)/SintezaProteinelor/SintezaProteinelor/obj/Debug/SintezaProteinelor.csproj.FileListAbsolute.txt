@@ -1,0 +1,21 @@
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\bin\Debug\SintezaProteinelor.exe.config
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.csprojResolveAssemblyReference.cache
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.Proteine.resources
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.Properties.Resources.resources
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.csproj.GenerateResource.Cache
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\bin\Debug\SintezaProteinelor.exe
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\bin\Debug\SintezaProteinelor.pdb
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.exe
+D:\XIIA\C#\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.pdb
+D:\C# Projects\a\SintezaProteinelor\SintezaProteinelor\bin\Debug\SintezaProteinelor.exe.config
+D:\C# Projects\a\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.exe
+D:\C# Projects\a\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.pdb
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\bin\Debug\SintezaProteinelor.exe.config
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.exe
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.pdb
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\bin\Debug\SintezaProteinelor.exe
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\bin\Debug\SintezaProteinelor.pdb
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.csprojResolveAssemblyReference.cache
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.Proteine.resources
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.Properties.Resources.resources
+F:\c#\SintezaProteinelor(1)\SintezaProteinelor\SintezaProteinelor\obj\Debug\SintezaProteinelor.csproj.GenerateResource.Cache

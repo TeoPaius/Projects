@@ -1,0 +1,40 @@
+ 
+seti
+
+Cercetatorii ce lucreaza la programul SETI au receptionat trei transmisii de date foarte ciudate, 
+date care ar putea veni din partea unor civilizatii extraterestre. Primul set de date este format 
+din 10 caractere distincte, date în ordinea lor lexicografica, ce formeaza alfabetul extraterestru. 
+A doua transmisie contine cuvinte din exact 4 caractere.
+
+Cerinta
+Cercetatorii trebuie sa ordoneze lexicografic cuvintele primite în a doua transmisie (conform 
+alfabetului extraterestru).
+
+Date de intrare
+Fisierul de intrare seti.in contine pe prima linie cele 10 caractere ale alfabetului, iar pe fiecare 
+din urmatoarele linii câte un cuvânt. 
+
+Date de iesire
+Fisierul de iesire seti.out va contine cuvintele ordonate, câte unul pe linie.
+
+Restrictii
+În fisier nu sunt mai mult de 200.000 de cuvinte, iar caracterele sunt literele mici ale alfabetului englez.
+Datele de intrare se presupun ca fiind corecte.
+
+Exemplu
+Pentru fisierul de intrare seti.in
+
+abcdefghij
+aaaa
+fgaa
+aabc
+iihf
+
+Se obtine fisierul de iesire seti.out
+
+aaaa
+aabc
+fgaa
+iihf
+
+Timp de executie/test: 1 secunda

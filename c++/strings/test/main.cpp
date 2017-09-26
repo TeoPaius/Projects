@@ -1,0 +1,40 @@
+#include <fstream>
+#include <cstring>
+using namespace std;
+ifstream is("2.in");
+ofstream os("2.out");
+
+char trg[100];
+char re[100];
+char s[100];
+char final[100];
+int cnt;
+int aux;
+char* p;
+char* x;
+int main()
+{
+    is >> trg;
+    is >> re;
+    is.get();
+    is.getline(s,100, EOF);
+    cnt = strlen(trg);
+
+    p = s;
+    x = s;
+    while(p)
+    {
+        p = strstr(x, trg);
+        strncat(final, x, p-x);
+        if(p)
+            strcat(final, re);
+        x = p+cnt;
+
+    }
+
+    os << final;
+
+    return 0;
+    is.close();
+    os.close();
+}

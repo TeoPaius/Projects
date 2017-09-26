@@ -1,0 +1,13 @@
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.Client.resources
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.LoginDialog.resources
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.SplashScreen.resources
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\obj\Debug\ChatClient.SignUpDialog.resources
+F:\c#\OOP\Team_Projects\ChatClient\ChatClient\bin\Debug\MySql.Data.dll

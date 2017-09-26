@@ -1,0 +1,6 @@
+F:\c#\OOP\Async\Server\Server\bin\Debug\Server.exe.config
+F:\c#\OOP\Async\Server\Server\bin\Debug\Server.exe
+F:\c#\OOP\Async\Server\Server\bin\Debug\Server.pdb
+F:\c#\OOP\Async\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\c#\OOP\Async\Server\Server\obj\Debug\Server.exe
+F:\c#\OOP\Async\Server\Server\obj\Debug\Server.pdb

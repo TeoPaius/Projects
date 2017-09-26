@@ -1,0 +1,4618 @@
+ID	Nume	Prenume	Judet
+0091111	Petcu	Ion-Cristian	Dolj
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091111/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091111/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091111/div.cpp:22:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091111/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.050	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0091112	Dudu	Adrian	Teleorman
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Nonzero exit status: 255
+8	0	0.000	Nonzero exit status: 255
+9	0	0.000	Nonzero exit status: 191
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.101	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.101	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091113	Dumitrescu	Victor	Iasi
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	10	0.000	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	30	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0091114	Cohal	Alexandru	Iasi
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091106	Traistaru	Cristian	Brasov
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+stud/0091106/auto.cpp:4: `main' must return `int'
+stud/0091106/auto.cpp: In function `int main(...)':
+stud/0091106/auto.cpp:20: name lookup of `j' changed for new ISO `for' scoping
+stud/0091106/auto.cpp:13:   using obsolete binding at `j'
+stud/0091106/auto.cpp:47:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+stud/0091106/teatru.cpp:5: `main' must return `int'
+stud/0091106/teatru.cpp: In function `int main(...)':
+stud/0091106/teatru.cpp:38: name lookup of `i' changed for new ISO `for' 
+   scoping
+stud/0091106/teatru.cpp:13:   using obsolete binding at `i'
+stud/0091106/teatru.cpp:40:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091107	Albu	Alexandru	Iasi
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.060	Wrong answer in: auto.out
+8	0	0.040	Wrong answer in: auto.out
+9	0	0.030	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.000	Killed by signal: 11
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	10	0.000	Okay!
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.000	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	10	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0091108	Chelaru	Traian-Andrei	Teleorman
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.080	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 80
+
+ID	Nume	Prenume	Judet
+0091109	Moldovan	Mihai	Bn
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091109/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091109/auto.cpp: In function `int main()':
+stud/0091109/auto.cpp:32: `endl' undeclared (first use this function)
+stud/0091109/auto.cpp:32: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0091109/auto.cpp:37:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091109/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091109/div.cpp:49:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091109/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091109/teatru.cpp: In function `int main()':
+stud/0091109/teatru.cpp:28: `endl' undeclared (first use this function)
+stud/0091109/teatru.cpp:28: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0091109/teatru.cpp:33:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091110	Vicol	Sergiu-Constantin	Iasi
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+/usr/lib/gcc-lib/i386-redhat-linux/3.2.2/../../../crt1.o(.text+0x18): In function `_start':
+../sysdeps/i386/elf/start.S:77: undefined reference to `main'
+collect2: ld returned 1 exit status
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+0091115	Mateescu	Maria	Iasi
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 80
+
+ID	Nume	Prenume	Judet
+0091100	Crintea	Octavian	Dâmbovita
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091100/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091100/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091100/div.cpp:15:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091100/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091100/teatru.cpp:34:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0091101	Cazacu	Alexandru-George	Dolj
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+stud/0091101/auto.cpp: In function `int main()':
+stud/0091101/auto.cpp:10: `T' undeclared (first use this function)
+stud/0091101/auto.cpp:10: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0091101/auto.cpp:12: `t' undeclared (first use this function)
+stud/0091101/auto.cpp:13: `n' undeclared (first use this function)
+stud/0091101/auto.cpp:15: `i' undeclared (first use this function)
+stud/0091101/auto.cpp:15: `m' undeclared (first use this function)
+stud/0091101/auto.cpp:16: `v' undeclared (first use this function)
+stud/0091101/auto.cpp:21: `j' undeclared (first use this function)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.030	Okay!
+2	10	0.020	Okay!
+3	10	0.000	Okay!
+4	0	0.301	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	70	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 170
+
+ID	Nume	Prenume	Judet
+0091102	Canta	Andrei	Maramures
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.010	Wrong answer in: auto.out
+8	0	0.040	Wrong answer in: auto.out
+9	0	0.010	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.290	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.050	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0091103	Mandache	Robert-Alexandru	Teleorman
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.030	Wrong answer in: auto.out
+8	0	0.010	Wrong answer in: auto.out
+9	0	0.010	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.101	Time limit exceeded!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0091104	Csorba	Lorand	Bn
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091104/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091104/teatru.cpp: In function `void rezolva()':
+stud/0091104/teatru.cpp:26: `endl' undeclared (first use this function)
+stud/0091104/teatru.cpp:26: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0091104/teatru.cpp:67:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091105	Orban	Szabolcs	Covasna
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.101	Time limit exceeded!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.050	Nonzero exit status: 216
+7	0	0.070	Nonzero exit status: 216
+8	0	0.040	Nonzero exit status: 216
+9	0	0.040	Nonzero exit status: 216
+10	0	0.080	Nonzero exit status: 216
+TOTAL	30	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0093004	Potinteu	Mihail	Alba
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.201	Time limit exceeded!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.270	Wrong answer in: div.out
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093007	Stan	Catalin	Alba
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093009	Danci	Emanuel	Arad
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+stud/0093009/auto.cpp:76:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+/usr/lib/gcc-lib/i386-redhat-linux/3.2.2/../../../crt1.o(.text+0x18): In function `_start':
+../sysdeps/i386/elf/start.S:77: undefined reference to `main'
+collect2: ld returned 1 exit status
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Killed by signal: 11
+4	0	0.010	Killed by signal: 11
+5	0	0.010	Killed by signal: 11
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093018	Iordache	Albert	Bihor
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+stud/0093018/div.cpp: In function `int main()':
+stud/0093018/div.cpp:8: warning: the address of `int feof(FILE*)', will always 
+   be `true'
+stud/0093018/div.cpp:13: `randomize' undeclared (first use this function)
+stud/0093018/div.cpp:13: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+/usr/include/stdlib.h:423: too many arguments to function `long int random()'
+stud/0093018/div.cpp:14: at this point in file
+/usr/include/stdlib.h:423: too many arguments to function `long int random()'
+stud/0093018/div.cpp:14: at this point in file
+stud/0093018/div.cpp:17:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+stud/0093018/teatru.cpp:49:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.040	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093015	Onutu	Catalin	Cluj
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093015/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093015/auto.cpp:69:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093015/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093015/div.cpp:22:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093015/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093015/teatru.cpp:3: `char cos[5505]' redeclared as different kind of 
+   symbol
+/usr/include/bits/mathcalls.h:64: previous declaration of `double cos(double)'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0093014	Bazu	Bogdan	Cluj
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093014/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093014/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093014/div.cpp:59:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.000	Wrong answer in: div.out
+TOTAL	10	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093014/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093014/teatru.cpp:58:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0093011	Balan	Catalin	Cluj
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: auto.out
+5	10	0.000	Okay!
+6	10	0.020	Okay!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 130
+
+ID	Nume	Prenume	Judet
+0093008	Teodorescu	Ioana	Giurgiu
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093008/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093008/auto.cpp:4: `main' must return `int'
+stud/0093008/auto.cpp: In function `int main(...)':
+stud/0093008/auto.cpp:6: `ios' undeclared (first use this function)
+stud/0093008/auto.cpp:6: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0093008/auto.cpp:6: parse error before `::' token
+stud/0093008/auto.cpp:7: parse error before `::' token
+stud/0093008/auto.cpp:8: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/0093008/auto.cpp:12: invalid operands of types `std::fstream ()(...)' and 
+   `int' to binary `operator>>'
+stud/0093008/auto.cpp:14: invalid operands of types `std::fstream ()(...)' and 
+   `int' to binary `operator>>'
+stud/0093008/auto.cpp:27: invalid operands of types `std::fstream ()(...)' and 
+   `int' to binary `operator<<'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093008/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093008/div.cpp:7: `main' must return `int'
+stud/0093008/div.cpp: In function `int main(...)':
+stud/0093008/div.cpp:8: `ios' undeclared (first use this function)
+stud/0093008/div.cpp:8: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0093008/div.cpp:8: parse error before `::' token
+stud/0093008/div.cpp:9: parse error before `::' token
+stud/0093008/div.cpp:13: invalid operands of types `std::fstream ()(...)' and `
+   unsigned int' to binary `operator>>'
+stud/0093008/div.cpp:15: invalid operands of types `std::fstream ()(...)' and `
+   const char[2]' to binary `operator<<'
+stud/0093008/div.cpp:33: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator<<'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093002	Stanescu	Ana-Maria	Hunedoara
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Nonzero exit status: 2
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.030	Wrong answer in: auto.out
+9	0	0.020	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Nonzero exit status: 216
+2	0	0.000	Nonzero exit status: 216
+3	0	0.000	Nonzero exit status: 216
+4	0	0.000	Nonzero exit status: 216
+5	0	0.000	Nonzero exit status: 216
+6	0	0.000	Nonzero exit status: 103
+7	0	0.000	Nonzero exit status: 216
+8	0	0.000	Nonzero exit status: 103
+9	0	0.000	Nonzero exit status: 216
+10	0	0.000	Nonzero exit status: 216
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093021	Ionescu	Maria	Olt
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093021/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+stud/0093021/div.cpp:1:19: fstream.: No such file or directory
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093021/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	10	0.000	Okay!
+5	0	0.020	Wrong answer in: teatru.out
+6	0	0.101	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.101	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	10	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093023	Balauru	Paul-Stefan	Olt
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093023/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093023/auto.cpp: In function `int main()':
+stud/0093023/auto.cpp:33: `cout' undeclared (first use this function)
+stud/0093023/auto.cpp:33: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0093023/auto.cpp:33: `endl' undeclared (first use this function)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093023/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: div.out
+1	0	0.000	Missing output file: div.out
+2	0	0.000	Missing output file: div.out
+3	0	0.000	Missing output file: div.out
+4	0	0.000	Missing output file: div.out
+5	0	0.000	Missing output file: div.out
+6	0	0.000	Missing output file: div.out
+7	0	0.000	Missing output file: div.out
+8	0	0.000	Missing output file: div.out
+9	0	0.000	Missing output file: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0093023/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093001	Voicu	Bianca-Ioana	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.010	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+0093003	Diaconu	Loredana-Mihaela	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.030	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.010	Wrong answer in: auto.out
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.000	Okay!
+7	0	0.000	Wrong answer in: teatru.out
+8	10	0.000	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0093006	Ghinea	Razvan	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	10	0.000	Okay!
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.090	Wrong answer in: auto.out
+4	0	0.130	Wrong answer in: auto.out
+5	0	0.110	Wrong answer in: auto.out
+6	0	0.160	Wrong answer in: auto.out
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.010	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.101	Time limit exceeded!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	30	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0093016	Mahu	Razvan	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0093028	Ionescu	Victor-Cristian	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.080	Okay!
+8	10	0.130	Okay!
+9	10	0.110	Okay!
+TOTAL	100	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.030	Okay!
+2	10	0.010	Okay!
+3	10	0.030	Okay!
+4	0	0.301	Time limit exceeded!
+5	0	0.020	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	70	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 270
+
+ID	Nume	Prenume	Judet
+0093019	Ioan	Daniel-Mihail	Prahova
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 106
+1	0	0.000	Nonzero exit status: 106
+2	0	0.000	Nonzero exit status: 106
+3	0	0.000	Nonzero exit status: 106
+4	0	0.000	Nonzero exit status: 106
+5	0	0.000	Nonzero exit status: 106
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Nonzero exit status: 106
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Nonzero exit status: 106
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.000	Nonzero exit status: 103
+4	0	0.000	Nonzero exit status: 103
+5	0	0.000	Nonzero exit status: 103
+6	0	0.000	Nonzero exit status: 103
+7	0	0.000	Nonzero exit status: 103
+8	0	0.000	Nonzero exit status: 103
+9	0	0.000	Nonzero exit status: 103
+10	0	0.000	Nonzero exit status: 103
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093030	Sandulescu	Georgiana-Alexandra	Prahova
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093005	Ortan	Sebastian	Salaj
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.040	Wrong answer in: teatru.out
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093010	Bruda	Claudiu-Marcel	Sibiu
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093010/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093010/auto.cpp:35:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.010	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093010/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093010/div.cpp:20:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093010/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0093013	Lupascu	Catalina	Suceava
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+stud/0093013/auto.cpp:29:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093013/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093013/div.cpp: In function `int main()':
+stud/0093013/div.cpp:14: warning: decimal constant is so large that it is 
+   unsigned
+stud/0093013/div.cpp:19:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+stud/0093013/teatru.cpp: In function `void rezolvare2()':
+stud/0093013/teatru.cpp:62: name lookup of `i' changed for new ISO `for' 
+   scoping
+stud/0093013/teatru.cpp:57:   using obsolete binding at `i'
+stud/0093013/teatru.cpp:133:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093017	Sarca	Adela	Timis
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093026	Glodeanu	Daniel	Valcea
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093024	Gusoi	Codrut 	Valcea
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093027	Nicodei-Groper	Eduard	Vrancea
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.040	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.010	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 150
+
+ID	Nume	Prenume	Judet
+0093020	Vasiliev	Iulian	Vrancea
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0093020/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.010	Wrong answer in: auto.out
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093020/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0093020/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.010	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.040	Wrong answer in: teatru.out
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093012	Voroneanu	Radu-Stefan	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.150	Wrong answer in: auto.out
+8	0	0.170	Wrong answer in: auto.out
+9	0	0.140	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	80	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 180
+
+ID	Nume	Prenume	Judet
+0093022	Tamas	Iulia	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 110
+
+ID	Nume	Prenume	Judet
+0093025	Purice	Andrei	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: auto.out
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.090	Okay!
+8	10	0.110	Okay!
+9	10	0.070	Okay!
+TOTAL	90	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.060	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 210
+
+ID	Nume	Prenume	Judet
+0093031	Petcu	Marius	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.020	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.010	Okay!
+4	10	0.000	Okay!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	80	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 130
+
+ID	Nume	Prenume	Judet
+0093032	Vlad	Costin	Prahova
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093033	Nedelcu	Tudor	Prahova
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.070	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 90
+
+ID	Nume	Prenume	Judet
+0093029	Vacaroiu	Andrei	Valcea
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.040	Wrong answer in: auto.out
+8	0	0.020	Wrong answer in: auto.out
+9	0	0.050	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0092005	Gavrila	Vlad-Alexandru	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.030	Okay!
+2	10	0.060	Okay!
+3	10	0.030	Okay!
+4	0	0.301	Time limit exceeded!
+5	0	0.060	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	10	0.020	Okay!
+8	10	0.000	Okay!
+9	0	0.301	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.040	Okay!
+4	10	0.080	Okay!
+5	10	0.040	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 230
+
+ID	Nume	Prenume	Judet
+0092006	Stan	Serban-Andrei	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.090	Okay!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.100	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.050	Okay!
+4	10	0.030	Okay!
+5	10	0.040	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 150
+
+ID	Nume	Prenume	Judet
+0092007	Taloi	Bogdan-Cristian	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Compiler output: <<<
+/tmp/ccYEYL3f.o(.text+0x58): In function `main':
+: the `gets' function is dangerous and should not be used.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 90
+
+ID	Nume	Prenume	Judet
+0092008	Zernoveanu	Radu	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 120
+
+ID	Nume	Prenume	Judet
+0092002	Pripoaie	Teodor-Anton	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.020	Okay!
+4	10	0.000	Okay!
+5	10	0.010	Okay!
+6	10	0.030	Okay!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problem: div
+Compiler output: <<<
+/tmp/cc4spnX2.o(.text+0x52): In function `scan':
+: the `gets' function is dangerous and should not be used.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.010	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	10	0.010	Okay!
+4	0	0.110	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	30	--	--
+
+### Problem: teatru
+Compiler output: <<<
+/tmp/ccYzKDkL.o(.text+0x52): In function `scan':
+: the `gets' function is dangerous and should not be used.
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 200
+
+ID	Nume	Prenume	Judet
+0092003	Plop	Teodor-Daniel	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.101	Time limit exceeded!
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092004	Vlad	Radu-Cristian	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+stud/0092004/auto.cpp: In function `int prim(long int)':
+stud/0092004/auto.cpp:57: warning: assignment to `long int' from `double'
+stud/0092004/auto.cpp:57: warning: argument to `long int' from `double'
+stud/0092004/auto.cpp: In function `void gen_divs(long int)':
+stud/0092004/auto.cpp:68: warning: assignment to `long int' from `double'
+stud/0092004/auto.cpp:68: warning: argument to `long int' from `double'
+stud/0092004/auto.cpp:140:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.010	Wrong answer in: auto.out
+8	0	0.050	Wrong answer in: auto.out
+9	0	0.040	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+stud/0092004/div.cpp: In function `int main()':
+stud/0092004/div.cpp:53: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/0092004/div.cpp:53: warning: argument to non-pointer type `char' from NULL
+stud/0092004/div.cpp:57: `itoa' undeclared (first use this function)
+stud/0092004/div.cpp:57: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0092004/div.cpp:59: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/0092004/div.cpp:59: warning: argument to non-pointer type `char' from NULL
+stud/0092004/div.cpp:63: warning: NULL used in arithmetic
+stud/0092004/div.cpp:92: warning: NULL used in arithmetic
+stud/0092004/div.cpp:124: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/0092004/div.cpp:124: warning: argument to non-pointer type `char' from 
+   NULL
+stud/0092004/div.cpp:130: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/0092004/div.cpp:130: warning: argument to non-pointer type `char' from 
+   NULL
+stud/0092004/div.cpp:133: warning: NULL used in arithmetic
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+stud/0092004/teatru.cpp: In function `int main()':
+stud/0092004/teatru.cpp:31: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/0092004/teatru.cpp:31: warning: argument to non-pointer type `char' from 
+   NULL
+stud/0092004/teatru.cpp:62:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Killed by signal: 11
+3	0	0.020	Wrong answer in: teatru.out
+4	10	0.000	Okay!
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	10	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092001	Naiba	Lucian	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.301	Time limit exceeded!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	10	0.000	Okay!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 80
+
+ID	Nume	Prenume	Judet
+0092009	Barbulescu	Dan	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.020	Okay!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	10	0.000	Okay!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	30	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.010	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 90
+
+ID	Nume	Prenume	Judet
+0092010	Tataranu	Vlad-Bogdan	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.010	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 110
+
+ID	Nume	Prenume	Judet
+0092011	Tache	Alexandru	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	80	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 210
+
+ID	Nume	Prenume	Judet
+0092012	Pandele	Ioana	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.010	Wrong answer in: auto.out
+8	0	0.020	Wrong answer in: auto.out
+9	0	0.050	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+stud/0092012/div.cpp: In function `void rez()':
+stud/0092012/div.cpp:55: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/0092012/div.cpp:55: warning: argument to non-pointer type `char' from NULL
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.000	Wrong answer in: div.out
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	10	0.000	Okay!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092013	Poenaru	Andrei	Bucuresti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.060	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+0092014	Tiganus	Mihai	Buzau
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092014/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092014/auto.cpp:89:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.000	Killed by signal: 11
+TOTAL	10	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092014/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092014/div.cpp:11:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092014/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092014/teatru.cpp:60:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.060	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0092015	Mircea	Dragos	Braila
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092016	Matei	Silviu	Braila
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092016/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092016/auto.cpp:21:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.010	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.010	Wrong answer in: auto.out
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092016/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092016/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092016/teatru.cpp:75:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092017	Harabula	Adrian	Braila
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.100	Wrong answer in: auto.out
+8	0	0.100	Wrong answer in: auto.out
+9	0	0.080	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.000	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092018	Patru	Mihai-Ovidiu	Arges
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092018/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092018/auto.cpp: In function `int main()':
+stud/0092018/auto.cpp:7: `ios' undeclared (first use this function)
+stud/0092018/auto.cpp:7: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0092018/auto.cpp:7: parse error before `::' token
+stud/0092018/auto.cpp:8: parse error before `::' token
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092018/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092018/div.cpp: In function `int main()':
+stud/0092018/div.cpp:7: `ios' undeclared (first use this function)
+stud/0092018/div.cpp:7: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0092018/div.cpp:7: parse error before `::' token
+stud/0092018/div.cpp:14: parse error before `::' token
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092018/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092018/teatru.cpp: In function `int main()':
+stud/0092018/teatru.cpp:7: `ios' undeclared (first use this function)
+stud/0092018/teatru.cpp:7: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0092018/teatru.cpp:7: parse error before `::' token
+stud/0092018/teatru.cpp:38: parse error before `::' token
+stud/0092018/teatru.cpp:48:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092019	Tudor	Ana-Maria-Mihaela	Arges
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092019/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092019/auto.cpp:5: `main' must return `int'
+stud/0092019/auto.cpp: In function `int main(...)':
+stud/0092019/auto.cpp:6: `ios' undeclared (first use this function)
+stud/0092019/auto.cpp:6: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0092019/auto.cpp:6: parse error before `::' token
+stud/0092019/auto.cpp:7: parse error before `::' token
+stud/0092019/auto.cpp:52:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+stud/0092019/teatru.cpp:1:19: warning: no newline at end of file
+/usr/lib/gcc-lib/i386-redhat-linux/3.2.2/../../../crt1.o(.text+0x18): In function `_start':
+../sysdeps/i386/elf/start.S:77: undefined reference to `main'
+collect2: ld returned 1 exit status
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092020	Ivan	Cristian	Calarasi
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.030	Wrong answer in: auto.out
+8	0	0.030	Wrong answer in: auto.out
+9	0	0.010	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 106
+1	0	0.000	Nonzero exit status: 106
+2	0	0.000	Nonzero exit status: 106
+3	0	0.000	Nonzero exit status: 106
+4	0	0.000	Nonzero exit status: 106
+5	0	0.000	Nonzero exit status: 106
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Nonzero exit status: 106
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Nonzero exit status: 106
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.000	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092021	Mavrodin	Manuela	Calarasi
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092022	Hulparu	Adrian	Constanta
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+stud/0092022/auto.cpp:69:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.020	Okay!
+5	10	0.000	Okay!
+6	10	0.050	Okay!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problem: div
+Compiler output: <<<
+stud/0092022/div.cpp:15:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092022/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092022/teatru.cpp: In function `int main()':
+stud/0092022/teatru.cpp:40: name lookup of `i' changed for new ISO `for' 
+   scoping
+stud/0092022/teatru.cpp:17:   using obsolete binding at `i'
+stud/0092022/teatru.cpp:45:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 80
+
+ID	Nume	Prenume	Judet
+0092023	Memet	Arif	Constanta
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092023/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092023/div.cpp: In function `int main()':
+stud/0092023/div.cpp:64: `endl' undeclared (first use this function)
+stud/0092023/div.cpp:64: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0092023/div.cpp:67:11: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092023/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092023/teatru.cpp: In function `int main()':
+stud/0092023/teatru.cpp:24: `endl' undeclared (first use this function)
+stud/0092023/teatru.cpp:24: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0092023/teatru.cpp:29:11: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092024	Ciocan	Andrei	Galati
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092024/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092024/auto.cpp:47:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.010	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.010	Wrong answer in: auto.out
+6	0	0.010	Wrong answer in: auto.out
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092024/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.020	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092024/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092024/teatru.cpp:47:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 120
+
+ID	Nume	Prenume	Judet
+0092025	Dadalau	Bogdan	Gorj
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0092025/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092025/div.cpp:9: `main' must return `int'
+stud/0092025/div.cpp: In function `int main(...)':
+stud/0092025/div.cpp:12: parse error before `}' token
+stud/0092025/div.cpp:12:10: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0092025/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092025/teatru.cpp:9: parse error before `;' token
+stud/0092025/teatru.cpp:10: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092026	Raica	Cristian-Dumitru	Mures
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092026/auto.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092026/auto.cpp:43:10: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.020	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.010	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.010	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092026/div.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092026/div.cpp: In function `int test(char*)':
+stud/0092026/div.cpp:8: `i' undeclared (first use this function)
+stud/0092026/div.cpp:8: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0092026/div.cpp:8: `k' undeclared (first use this function)
+stud/0092026/div.cpp:9: `nr2' undeclared (first use this function)
+stud/0092026/div.cpp:10: `s' undeclared (first use this function)
+stud/0092026/div.cpp:11: `nr' undeclared (first use this function)
+stud/0092026/div.cpp:17: parse error before `{' token
+stud/0092026/div.cpp:30:8: warning: no newline at end of file
+stud/0092026/div.cpp:30: parse error at end of input
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: teatru
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092026/teatru.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092026/teatru.cpp:66:9: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.010	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092027	Morariu	Razvan	Mures
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.201	Time limit exceeded!
+2	0	0.050	Wrong answer in: auto.out
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 106
+1	0	0.000	Nonzero exit status: 106
+2	0	0.000	Nonzero exit status: 106
+3	0	0.000	Nonzero exit status: 106
+4	0	0.000	Nonzero exit status: 106
+5	0	0.000	Nonzero exit status: 106
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Nonzero exit status: 106
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Nonzero exit status: 106
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.101	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.101	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092028	Neghina	Cornel	Ialomita
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.201	Time limit exceeded!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Nonzero exit status: 106
+2	0	0.000	Nonzero exit status: 106
+3	0	0.030	Nonzero exit status: 106
+4	0	0.000	Nonzero exit status: 106
+5	0	0.000	Nonzero exit status: 106
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Nonzero exit status: 106
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Nonzero exit status: 106
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	10	0.020	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092029	Burileanu	Doru-Daniel	Mehedinti
+
+Results for: total
+
+### Problem: auto
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 202
+1	0	0.000	Nonzero exit status: 202
+2	0	0.000	Nonzero exit status: 202
+3	0	0.000	Nonzero exit status: 202
+4	0	0.000	Nonzero exit status: 202
+5	0	0.000	Nonzero exit status: 202
+6	0	0.000	Nonzero exit status: 202
+7	0	0.000	Nonzero exit status: 202
+8	0	0.000	Nonzero exit status: 202
+9	0	0.000	Nonzero exit status: 202
+TOTAL	0	--	--
+
+### Problem: div
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 106
+1	0	0.000	Nonzero exit status: 106
+2	0	0.000	Nonzero exit status: 106
+3	0	0.000	Nonzero exit status: 106
+4	0	0.000	Nonzero exit status: 106
+5	0	0.000	Nonzero exit status: 106
+6	0	0.000	Nonzero exit status: 202
+7	0	0.000	Nonzero exit status: 106
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Nonzero exit status: 106
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.000	Nonzero exit status: 202
+2	0	0.000	Nonzero exit status: 202
+3	0	0.000	Nonzero exit status: 202
+4	0	0.000	Nonzero exit status: 202
+5	0	0.000	Nonzero exit status: 202
+6	0	0.000	Nonzero exit status: 202
+7	0	0.000	Nonzero exit status: 202
+8	0	0.000	Nonzero exit status: 202
+9	0	0.000	Nonzero exit status: 202
+10	0	0.000	Nonzero exit status: 202
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092030	Tanase	Theodor	Tulcea
+
+Results for: total
+
+### Problem: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: div
+Compiler output: <<<
+stud/0092030/div.cpp:28:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.020	Wrong answer in: div.out
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: teatru
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.010	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+

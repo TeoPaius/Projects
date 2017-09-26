@@ -1,0 +1,48 @@
+﻿Care dintre tipurile de date de ma jos nu apartin limbajului C++?(doua raspunsuri)
+int
+decimal
+string
+float
+2,3
+10
+1
+In urma carei operatii de atribuire, data b va avea valoarea ultimei cifre a numarului intreg a?
+a div b
+a*a div b
+b= a div 10
+b=b/a
+3
+10
+0
+Care dintru operatorii pe mai jos sunt operatori binari? (doua raspunsuri)
+= (egalitate)
+! (negatia logica)
+<= (mai mic egal)
+++ (incrementare)
+1,3
+10
+1
+Tipul rezultatului obínut in urma evaluarii expresiei 15/3+10/3+5/3 este:
+float
+double
+int
+unsigned
+3
+10
+0
+Fraza "cumpar actiuni daca produsul intern brut a crescut si vinde in caz contrar" poate fi descrisa cu o:
+structura liniara
+structura alternativa
+structura repetitiva
+nici una dintre variante
+2
+10
+0
+Fraza "cumpar actiuni pana cand pretul lor va scadea sub pragul critic" poate fi descrisa cu o:
+structura liniara
+structura de decizie
+structura repetitiva
+nici una dintre variante
+3
+10
+0

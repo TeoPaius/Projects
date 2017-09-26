@@ -1,0 +1,12 @@
+#!/bin/bash
+
+g++ -std=c++0x -o gems gems2.cpp
+
+for i in `seq 1 10`
+do
+	echo "Testul $i"
+	time ./gems < "$i.in" > "gems.out"
+	cat "$i.out"
+	cat "gems.out"
+	echo 
+done

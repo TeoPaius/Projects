@@ -1,0 +1,241 @@
+#pragma option -ml
+#include <fstream.h>
+#include <stdlib.h>
+#include <dos.h>
+
+static const char *in_file_name="INPUT.TXT";
+static const char *out_file_name="OUTPUT.TXT";
+static const int one = 1;
+
+// Classes forward declarations for cross-refernces
+//
+typedef class TStack *PStack;
+typedef class TCrossing *PCrossing;
+
+// The function gets memory for all purposes and
+// checks if the memory successfully allocated.
+//
+template <class T> T *get_memory(T **ptr, const int how_many) {
+   *ptr = new T [how_many];
+   if (!(*ptr)) {
+      cerr << "Not enough memory. Please re-run on 'clean' system.\n";
+      exit(EXIT_FAILURE);
+   }
+   return *ptr;
+}
+
+// ***************************************************************
+// Class TStack is NOT only stack. It is combined with the
+// class TSolution. When the main algorithm finds solution,
+// it (solution) is on the stack. So, the class TStack
+// itself takes care about to save and then to print the solution.
+//
+class TStack {
+   public:
+      void init(const int);
+      ~TStack(void);
+      void push(const int);
+      const int pop(void);
+      const int under_top(void) const; // returns last-but-one element
+      void make_solution(const int);
+      void Turn2Print(void);
+      int increase_depth(void);
+   private:
+      ofstream *ofs;
+      int calculate_only;
+      int depth;
+      int *store;
+      int ptr;
+      int solution_count;
+};
+
+inline void TStack::init(const int size) {
+   get_memory(&store,size);
+   solution_count = ptr = 0;
+   calculate_only = 1;
+   depth = 0;
+}
+
+inline void TStack::Turn2Print(void) {
+   ofs = new ofstream(out_file_name);
+   (*ofs) << solution_count << '\n';
+   calculate_only = 0;
+   depth = 0;
+}
+
+// Creates a solution. The solution is on the top of stack.
+// The first element of solution is "u", the last is on top.
+//
+void TStack::make_solution(const int u) {
+   if (calculate_only) solution_count++;
+   else {
+      for (int i=ptr-1; store[i] != u; i--);
+      // Pay attention to '+1' in the next line!
+      // The reason - internally crossings are numbered from 0
+      // but they must be numbered from 1 on printout
+      for (int j=i; j<ptr; j++) (*ofs) << (store[j]+1) << ' ';
+      (*ofs) << (store[i]+1) << '\n';
+   }
+}
+
+inline TStack::~TStack(void) {
+   delete [] store;
+   ofs->close();
+   delete ofs;
+}
+
+inline void TStack::push(const int item) { store[ptr++] = item; }
+inline const int TStack::pop(void) { return store[--ptr]; }
+inline const int TStack::under_top(void) const { return store[ptr-2]; }
+inline int TStack::increase_depth(void) { depth++; return depth; }
+
+// ***************************************************************
+// Class TCrossing represents the correlation vector for each
+// crossing. It contain list of items. Each item is a number
+// of the other crossing directly connected with this one.
+//
+class TCrossing {
+   public:
+      TCrossing(void);
+      ~TCrossing(void);
+      void add_item (const int);
+      int is_used(void) const;
+      void mark_as_used(const int);
+      void clear_usage(void);
+   private:
+      struct TListItem {
+         void init(const int n) { item = n; next = NULL; }
+         TListItem *next;
+         int item;
+      };
+      TListItem *list;
+      TListItem *last;
+      int already_used;
+   friend void process_crossing(const int);
+};
+
+inline TCrossing::TCrossing(void) {
+   list = last = NULL;
+   already_used = 0;
+}
+
+TCrossing::~TCrossing(void) {
+   for (TListItem *item=list,*next_item=0; item; item=next_item) {
+      next_item = item->next;
+      delete item;
+   }
+}
+
+inline void TCrossing::add_item(const int n) {
+   TListItem *item;
+   get_memory(&item,one);
+   item->init(n);
+   if (!last) list = item;
+   else last->next = item;
+   last = item;
+}
+
+inline int TCrossing::is_used(void) const { return already_used; }
+inline void TCrossing::mark_as_used(const int n) { already_used=n; }
+inline void TCrossing::clear_usage(void) { already_used=0; }
+
+// ***************************************************************
+//    The program itself starts here
+// Some variables better to keep global.
+//
+static total_crossings,total_streets;
+static PCrossing crossings;
+static PStack stack;
+
+// This function does the following:
+// 1. Inputs numbers of crossings and streets.
+// 2. Creates crossings array.
+// 3. Creates stack for storing the routes.
+//    Stack size is "number of crossing".
+// 4. Inputs steets values and "ties" crossings each with other.
+//
+static void input_data_and_make_up_correlation_vectors(void) {
+   ifstream ifs(in_file_name);
+   ifs >> total_crossings >> total_streets;
+   const int crs=total_crossings;
+   get_memory(&crossings,crs);
+   get_memory(&stack,one);
+   stack->init(crs);
+   for (int i = 0; i<total_streets; i++) {
+      int left, right;
+      ifs >> left >> right;
+      left--;     // Must decrease them because the crossings
+      right--;    // in the program are numbered from 0
+      crossings[left].add_item(right);
+      crossings[right].add_item(left);
+   }
+   ifs.close();
+}
+
+// This function is looking for all the circles which
+// contain the crossing # cross.
+// Returns 0 if there must be other solutions or
+// 1 if all the solutions are already found.
+//
+static void process_crossing(const int cross) {
+   int depth = stack->increase_depth();
+   stack->push(cross);  // add this crossing to current route
+   PCrossing crossing = crossings+cross;
+   crossing->mark_as_used(depth);   // mark it as "used"
+   const int cross_us = depth;
+   // Check all the neighbours of the current crossing.
+   for (TCrossing::TListItem *item=crossing->list; item; item=item->next) {
+      const int u = item->item;
+      const int u_us = crossings[u].is_used();
+      if (!u_us) {   // Not used? Process it recursively
+         process_crossing(u);
+      } else   // Here we must check if the crossing u finishes circle
+         if (u!=stack->under_top() && cross_us>u_us) {
+            stack->make_solution(u);
+         }
+   }
+   stack->pop();  // Purge this crossing - no need it anymore
+}
+
+// This simple function calls the 'process_crossing'
+// for each not processed before crossing until all
+// the solutions found.
+// If each crossing in the city has a way to each other,
+// it calls 'process_crossing' only ones
+//
+static void solve_the_problem(void) {
+   input_data_and_make_up_correlation_vectors();
+   for (int i=0; i<total_crossings; i++)
+      if (!crossings[i].is_used()) process_crossing(i);
+   for (i=0; i<total_crossings; i++) crossings[i].clear_usage();
+   stack->Turn2Print();
+   for (i=0; i<total_crossings; i++)
+      if (!crossings[i].is_used()) process_crossing(i);
+   delete stack;
+   delete [] crossings;
+}
+
+// Main function is a bit tricky.
+// Logically it does the only ONE thing - calls solve_the_problem()
+// BUT!!! the process_crossing() is recursive and the recursion
+// might be pretty deep. So, the system stack is too small.
+// This function replaces the system stack by its own buffer
+// of 33500 bytes. Then it restores system stack to keep
+// the system happy.
+//
+void main (void) {
+   static const unsigned int new_stack_size = 33500U;
+   static const int stack_in_longs = new_stack_size/sizeof(long);
+   static const unsigned int new_SP_value = new_stack_size-2;
+   static long *new_stack;
+   get_memory(&new_stack,stack_in_longs);
+   static unsigned segment = FP_SEG(new_stack);
+   static unsigned offset = new_SP_value-FP_OFF(new_stack);
+   static saveSS = _SS;
+   static saveSP = _SP;
+   _SS = segment;
+   _SP = offset;
+   solve_the_problem();
+   _SS = saveSS;
+   _SP = saveSP;
+}

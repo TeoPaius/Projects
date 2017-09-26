@@ -1,0 +1,186 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+  <META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <META name="description" content="Internet Problem Solving Contest (IPSC) is an online programming contest for teams up three people.">
+  <META name="keywords" content="IPSC, programming, contest, online contest">
+  <TITLE>IPSC 1999 Problem H - Romeo and Juliet</TITLE>
+
+</HEAD>
+	
+<BODY BGCOLOR=white TEXT="#191970" LINK="#F4A460" VLINK="#CD853F" ALINK="#FFDEAD">
+
+
+
+
+
+
+<!-- NAVIGATION BAR -->
+<TABLE CLASS="navbar" CELLSPACING="0" WIDTH="100%" BGCOLOR="#191970">
+	
+<TR>
+<TH colspan=1 ALIGN=LEFT>
+
+</TH>
+<TH>&nbsp;</TH>
+</TR>
+	
+<!-- guide, pravidla, etc. -->
+<TR>
+<TH ALIGN=LEFT>
+
+</TH>
+<TH rowspan=2 class="clock" ALIGN="right" VALIGN=MIDDLE>
+<FONT COLOR="#FAFAD2">8:48am</FONT>
+</TH>
+</TR>
+
+<!-- linky kriticke pocas sutaze -->
+<TR>
+<TH ALIGN=LEFT>
+
+</TR>
+	
+</TABLE>
+<!-- end of NAVIGATION BAR -->
+	
+<!-- Title and Logo -->
+<TABLE class="title" WIDTH="100%"><TR VALIGN="top">
+
+<TD ALIGN=CENTER>
+	<H5>Internet Problem Solving Contest</H5>
+	<H1>IPSC 1999<br> Problem H - Romeo and Juliet</H1>
+</TD>
+</TR></TABLE>
+<!-- end of Title and Logo -->
+
+<TABLE CLASS=page ALIGN=center WIDTH="97%"><TR><TD>
+	
+
+<ul>
+<li><a href="h1.in">Easy input data set - H1</a></li>
+<li><a href="h2.in">Difficult input data set - H2</a></li>
+</ul>
+
+
+<p>Romeo and Juliet are in love. However, their families forbid
+them to meet each other and Juliet wants to see Romeo so much.
+Luckily, she is allowed to go to sing to a choir on Sunday
+afternoons. She leaves her home exactly at four o'clock and she
+must use one of the shortest paths to the church. Similarly Romeo
+plays football at a nearby football stadium every Sunday. He also
+leaves his home at four o'clock and must also follow a shortest
+path. </p>
+
+<p>Every Sunday Juliet hopes that going to church she will
+suddenly meet Romeo hurrying to the football. However, it has not
+happened so far and Juliet does not know whether it is possible
+at all. </p>
+
+<H3>Input specification</H3>
+<p>The input file consists
+of several data blocks. Each data block describes one town. </p>
+
+<p>The first line of a data block contains two numbers <b>N</b>
+and <b>M</b>, where <b>N</b> is the number of junctions and <b>M</b>
+is the number of streets in the town. Junctions are numbered by
+numbers from 1 to <b>N</b>. Every street connects exactly two
+junctions. On the second line there are four numbers <b>JS</b>,
+<b>JG</b>, <b>RS</b>, <b>RG</b>. Juliet lives on the
+junction <b>JS</b>, the church is at the junction <b>JG</b>,
+Romeo's home is at the junction <b>RS</b> and the football stadium
+is at the junction <b>RG</b>. </p>
+
+<p>Each of the next <b>M</b> lines contains three integers <b>A</b>,
+<b>B</b> and <b>T</b> describing one street, where <b>A</b>
+and <b>B</b> are numbers of junctions connected by this street
+and <b>T</b> is the time in minutes necessary to walk from <b>A</b>
+to <b>B</b> or from <b>B</b> to <b>A</b> using this street.
+Suppose that it is possible to go from each junction to any
+other junction using the streets. </p>
+
+<p>After the last block there is a single line with the number -1. </p>
+
+<H3>Output specification</H3>
+<p>Your task is to determine
+for each data block whether there is a path for Romeo and a path for Juliet
+such that they will meet at some junction. Note, that each of
+them can use only a shortest path but there may be several such paths
+for each of them. Both Romeo and Juliet start at the same time.
+They meet at a junction only if they arrive there at the same time.
+If they cannot meet, output -1. If they can meet, output the time
+in minutes from 4 o'clock to the first possible meeting of Romeo
+and Juliet. </p>
+
+<h3>Example</h3>
+<b>Input file:</b>
+<pre>
+7 9
+1 4 7 6
+1 2 10
+2 3 10
+3 4 10
+4 5 15
+5 1 15
+1 6 10
+2 7 5
+5 7 15
+5 6 10
+2 1
+1 2 2 1
+1 2 10
+-1
+</pre>
+
+<b>Output file:</b>
+<pre>
+15
+-1
+</pre>
+
+<!-- FOOTER -->
+<HR CLASS="footer">
+<TABLE WIDTH="80%" CLASS="footer" ALIGN="CENTER">
+<TR>
+<TD WIDTH="15%">e-mails</TD>
+<TD WIDTH="15%"><a href="mailto:ipscreg@ksp.sk">questions</a></TD>
+<TD WIDTH="15%"><a href="mailto:webmaster@ksp.sk">webmaster</a></TD>
+<TD WIDTH="15"></TD>
+<TD WIDTH="40%">LAST CHANGE: May 14, 1999</TD>
+<TD>
+
+<!-- Begin Nedstat Basic code -->
+<!-- Title: The Internet Problem Solving Competition -->
+<!-- URL: http://www.ksp.sk/ipsc -->
+<script language="JavaScript" src="../../../m1.nedstatbasic.net/basic.js">
+</script>
+<script language="JavaScript">
+<!--
+  nedstatbasic("AAXgFg9qA69JYkEpU0ZAkfTgWD9w", 0);
+// -->
+</script>
+<noscript>
+<a target="_blank" href="http://v1.nedstatbasic.net/stats?AAXgFg9qA69JYkEpU0ZAkfTgWD9w"><img
+src="http://m1.nedstatbasic.net/n?id=AAXgFg9qA69JYkEpU0ZAkfTgWD9w"
+border="0" nosave width="18" height="18"></a>
+</noscript>
+<!-- End Nedstat Basic code -->
+
+
+</TD>
+<TD WIDTH="25"></TD>
+<TD>
+	<p>
+	<a href="http://validator.w3.org/check/referer"><img border="0"
+       	src="http://www.w3.org/Icons/valid-html40"
+       	alt="Valid HTML 4.0!" height="31" width="88"></a>
+	</p>
+</TD>
+</TR>
+</TABLE>
+<!--- end of FOOTER --> 
+	   
+<!-- END OF PAGE -->   
+</TD></TR></TABLE>
+</BODY>
+</HTML>

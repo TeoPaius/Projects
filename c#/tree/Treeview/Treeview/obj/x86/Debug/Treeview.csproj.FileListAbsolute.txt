@@ -1,0 +1,19 @@
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\bin\Debug\Treeview.exe
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\bin\Debug\Treeview.pdb
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\obj\x86\Debug\Treeview.Form1.resources
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\obj\x86\Debug\Treeview.Properties.Resources.resources
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\obj\x86\Debug\Treeview.exe
+C:\users\teodor\AppData\Local\Temporary Projects\Treeview\obj\x86\Debug\Treeview.pdb
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\Treeview.exe
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\Treeview.pdb
+F:\c#\tree\Treeview\Treeview\bin\Debug\Treeview.exe
+F:\c#\tree\Treeview\Treeview\bin\Debug\Treeview.pdb
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\Treeview.Form1.resources
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\Treeview.Properties.Resources.resources
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\c#\tree\Treeview\Treeview\obj\x86\Debug\Treeview.Form2.resources

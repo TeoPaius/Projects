@@ -1,0 +1,103 @@
+<html>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<title>circular</title>
+<style><!--
+.Normal
+	{font-size:10.0pt;
+	font-family:"Times New Roman";}
+-->
+</style>
+</head>
+<body lang=EN-US class="Normal" bgcolor="#FFFFFF">
+<p style='text-align:justify'><strong><span style='font-size:16.0pt;'>circular</span></strong><span style='font-size:16.0pt;'></span></p>
+<p style='text-align:justify'>Unele numere naturale sunt formate doar din cifre 
+  distincte nenule. Dintre acestea, unele,  numite <b>numere circulare</b>, au 
+  urmatoarea proprietate: pornind de la prima cifra si numarand spre dreapta atâtea 
+  cifre cât indica aceasta cifra, se determina o noua cifra. Procedam la fel si 
+  pentru aceasta si pentru toate cele care urmeaza se va ajunge din nou la prima 
+  cifra. Daca toate cifrele au fost vizitate exact o data, numarul se numeste 
+  circular. De exemplu numarul</p>
+<p style='text-align:justify'><span style='font-family:&quot;Courier New&quot;;
+&quot;Times New Roman&quot;'>1894256</span></p>
+<p><span style='font-size:12.0pt;'>este numar circular deoarece:</span></p>
+<ul type=disc>
+  <li><span
+     style='font-size:12.0pt;'>are numai cifre distincte</span></li>
+  <li><span
+     style='font-size:12.0pt;'>nu contine cifra </span><span
+     style='font-size:12.0pt;font-family:&quot;Courier New&quot;;
+     &quot;Times New Roman&quot;'>0</span><span style='font-size:
+     12.0pt;'></span></li>
+  <li><span
+     style='font-size:12.0pt;'>pornind de la </span><span
+     style='font-size:12.0pt;font-family:&quot;Courier New&quot;;
+     &quot;Times New Roman&quot;'>1</span><span style='font-size:
+     12.0pt;'> obtinem, pe rând: </span><span
+     style='font-size:12.0pt;font-family:&quot;Courier New&quot;;
+     &quot;Times New Roman&quot;'>8, 9, 2, 6, 5, 4, 1</span><span
+     style='font-size:12.0pt;'></span></li>
+</ul>
+<p style='text-align:justify'><strong><span style='font-size:14.0pt;'>Cerinta</span></strong></p>
+<p style='text-align:justify'>Scrieti un program care, pentru un <span
+style='font-family:"Courier New";"Times New Roman"'>N</span> dat, determina câte 
+  numere circulare sunt mai mici  sau egale cu <span style='font-family:&quot;Courier New&quot;;
+&quot;Times New Roman&quot;'>N</span>, precum si cel mai mare numar circular mai 
+  mic sau egal cu <span style='font-family:&quot;Courier New&quot;;
+&quot;Times New Roman&quot;'>N</span>. </p>
+<p style='text-align:justify'><strong><span style='font-size:14.0pt;'>Date de 
+  intrare</span></strong><span style='font-size:14.0pt;
+'></span></p>
+<p style='text-align:justify'>Pe prima linie a fisierului de intrare <strong><span
+style='font-family:"Courier New";"Times New Roman"'>circular.in</span></strong> 
+  se afla numarul natural <span style='font-family:"Courier New";"Times New Roman"'>N</span>.</p>
+<p style='text-align:justify'><strong><span style='font-size:14.0pt;'>Iesire</span></strong></p>
+<p style='text-align:justify'>Fisierul de iesire <strong><span
+style='font-family:"Courier New";"Times New Roman"'>circular.out</span></strong> 
+  contine o singura linie, pe care se afla numarul de numere circulare mai mici 
+  ca <span
+style='font-family:"Courier New";"Times New Roman"'>N</span> precum si numarul 
+  circular maxim cerut, separate printr-un spatiu. Daca nu exista nici un numar 
+  circular mai mic ca N, &icirc;n fisierul de iesire se vor afisa doua valori 
+  0 separate printr-un spatiu.</p>
+<p style='text-align:justify'><strong><span style='font-size:14.0pt;'>Restrictii</span></strong></p>
+<ul type=disc>
+  <li style='     text-align:justify;'><span
+     style='font-size:12.0pt;font-family:&quot;Courier New&quot;;
+     &quot;Times New Roman&quot;'>10 &lt; N &lt; 10000000</span><span
+     style='font-size:12.0pt;'> </span></li>
+</ul>
+<p style='text-align:justify'><strong><span style='font-size:14.0pt;'>Exemplu</span></strong><span style='font-size:14.0pt;'></span></p>
+<table border=1 cellpadding=0 width="73%">
+  <tr> 
+    <td class="Normal" width="23%"> 
+      <p style='text-align:justify'><b><span style='font-size:12.0pt;
+  font-family:&quot;Courier New&quot;;&quot;Times New Roman&quot;'>circular.in</span></b><b><span style='font-size:12.0pt;
+  font-family:&quot;Courier New&quot;;&quot;Times New Roman&quot;'></span></b></p>
+    </td>
+    <td class="Normal" width="27%"> 
+      <p style='text-align:justify'><b><span style='font-size:12.0pt;
+  font-family:&quot;Courier New&quot;;&quot;Times New Roman&quot;'>circular.out</span></b><b><span style='font-size:12.0pt;
+  font-family:&quot;Courier New&quot;;&quot;Times New Roman&quot;'></span></b></p>
+    </td>
+    <td class="Normal" width="50%"><i>Semnificatie</i></td>
+  </tr>
+  <tr> 
+    <td class="Normal" width="23%"> 
+      <p style='text-align:justify'><span style='font-size:12.0pt;
+  font-family:&quot;Courier New&quot;;&quot;Times New Roman&quot;'>1894250</span><span style='font-size:12.0pt;font-family:
+  &quot;Courier New&quot;;&quot;Times New Roman&quot;'></span></p>
+    </td>
+    <td class="Normal" width="27%"> 
+      <p style='text-align:justify'><span style='font-size:12.0pt;
+  font-family:&quot;Courier New&quot;;&quot;Times New Roman&quot;'>347 1849625</span></p>
+    </td>
+    <td class="Normal" width="50%">Exista <font face="Courier New, Courier, mono">347</font> 
+      numere circulare mai mici ca <font face="Courier New, Courier, mono">1894250</font>, 
+      cel mai mare dintre acestea fiind <font face="Courier New, Courier, mono">1849625</font></td>
+  </tr>
+</table>
+<p style='text-align:justify'><strong><span style='font-size:14.0pt;'>Timp de 
+  executie/test</span></strong>: 1 secunda</p>
+</body>
+</html>

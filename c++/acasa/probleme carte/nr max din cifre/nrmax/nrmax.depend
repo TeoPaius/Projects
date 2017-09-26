@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1351167964 source:f:\c++\probleme carte\nr max din cifre\nrmax\main.cpp
+	<fstream>
+
+1351168513 source:f:\c++\probleme carte\nr max din cifre\nrmax\nrmin.cpp
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360258995 source:f:\c++\fractii3\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,9 @@
+F:\c#\tree\Treeview\Treeview\bin\Release\Treeview.exe
+F:\c#\tree\Treeview\Treeview\bin\Release\Treeview.pdb
+F:\c#\tree\Treeview\Treeview\obj\x86\Release\ResolveAssemblyReference.cache
+F:\c#\tree\Treeview\Treeview\obj\x86\Release\Treeview.Form1.resources
+F:\c#\tree\Treeview\Treeview\obj\x86\Release\Treeview.Properties.Resources.resources
+F:\c#\tree\Treeview\Treeview\obj\x86\Release\GenerateResource.read.1.tlog
+F:\c#\tree\Treeview\Treeview\obj\x86\Release\GenerateResource.write.1.tlog
+F:\c#\tree\Treeview\Treeview\obj\x86\Release\Treeview.exe
+F:\c#\tree\Treeview\Treeview\obj\x86\Release\Treeview.pdb

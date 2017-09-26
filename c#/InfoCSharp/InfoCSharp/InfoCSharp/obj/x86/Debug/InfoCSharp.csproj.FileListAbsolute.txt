@@ -1,0 +1,10 @@
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\bin\Debug\InfoCSharp.exe
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\bin\Debug\InfoCSharp.pdb
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\obj\x86\Debug\InfoCSharp.csproj.GenerateResource.Cache
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\obj\x86\Debug\InfoCSharp.exe
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\obj\x86\Debug\InfoCSharp.pdb
+D:\Info\Clasa a 10-a\C#\Info\InfoCSharp\InfoCSharp\obj\x86\Debug\InfoCSharp.csprojResolveAssemblyReference.cache
+F:\c#\InfoCSharp\InfoCSharp\InfoCSharp\obj\x86\Debug\InfoCSharp.exe
+F:\c#\InfoCSharp\InfoCSharp\InfoCSharp\obj\x86\Debug\InfoCSharp.pdb

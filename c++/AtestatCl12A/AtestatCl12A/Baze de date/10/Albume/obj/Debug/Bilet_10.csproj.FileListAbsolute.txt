@@ -1,0 +1,3 @@
+D:\12 A\C#\Bilet_10\Albume\bin\Debug\Albume.exe.config
+D:\12 A\C#\Bilet_10\Albume\obj\Debug\Albume.exe
+D:\12 A\C#\Bilet_10\Albume\obj\Debug\Albume.pdb

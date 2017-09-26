@@ -1,0 +1,11 @@
+D:\XII A\Subiectul1\Subiectul1\bin\Debug\Subiectul1.exe.config
+D:\XII A\Subiectul1\Subiectul1\obj\Debug\Subiectul1.csprojResolveAssemblyReference.cache
+D:\XII A\Subiectul1\Subiectul1\obj\Debug\Subiectul1.Form1.resources
+D:\XII A\Subiectul1\Subiectul1\obj\Debug\Subiectul1.Properties.Resources.resources
+D:\XII A\Subiectul1\Subiectul1\obj\Debug\Subiectul1.csproj.GenerateResource.Cache
+D:\XII A\Subiectul1\Subiectul1\bin\Debug\DataBase.mdf
+D:\XII A\Subiectul1\Subiectul1\bin\Debug\DataBase_log.ldf
+D:\XII A\Subiectul1\Subiectul1\bin\Debug\Subiectul1.exe
+D:\XII A\Subiectul1\Subiectul1\bin\Debug\Subiectul1.pdb
+D:\XII A\Subiectul1\Subiectul1\obj\Debug\Subiectul1.exe
+D:\XII A\Subiectul1\Subiectul1\obj\Debug\Subiectul1.pdb

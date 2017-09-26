@@ -1,0 +1,13 @@
+F:\c#\school\oti\oti\bin\Debug\oti.exe.config
+F:\c#\school\oti\oti\bin\Debug\Database1.mdf
+F:\c#\school\oti\oti\bin\Debug\Database1_log.ldf
+F:\c#\school\oti\oti\bin\Debug\Database2.mdf
+F:\c#\school\oti\oti\bin\Debug\Database2_log.ldf
+F:\c#\school\oti\oti\bin\Debug\oti.exe
+F:\c#\school\oti\oti\bin\Debug\oti.pdb
+F:\c#\school\oti\oti\obj\Debug\oti.csprojResolveAssemblyReference.cache
+F:\c#\school\oti\oti\obj\Debug\oti.Form1.resources
+F:\c#\school\oti\oti\obj\Debug\oti.Properties.Resources.resources
+F:\c#\school\oti\oti\obj\Debug\oti.csproj.GenerateResource.Cache
+F:\c#\school\oti\oti\obj\Debug\oti.exe
+F:\c#\school\oti\oti\obj\Debug\oti.pdb

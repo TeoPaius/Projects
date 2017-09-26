@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1361979779 source:f:\c++\acasa\campion\numar\main.cpp
+	<fstream>
+	<cmath>
+

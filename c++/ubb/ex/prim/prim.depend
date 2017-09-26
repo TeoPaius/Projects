@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431934836 source:f:\c++\ubb\ex\prim\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

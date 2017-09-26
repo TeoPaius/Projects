@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1373364832 source:f:\c++\acasa\backtracking\munte\main.cpp
+	<fstream>
+	<cmath>
+

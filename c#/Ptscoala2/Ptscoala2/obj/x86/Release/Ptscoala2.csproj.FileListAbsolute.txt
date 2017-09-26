@@ -1,0 +1,9 @@
+F:\c#\Ptscoala2\Ptscoala2\bin\Release\Ptscoala2.exe
+F:\c#\Ptscoala2\Ptscoala2\bin\Release\Ptscoala2.pdb
+F:\c#\Ptscoala2\Ptscoala2\obj\x86\Release\ResolveAssemblyReference.cache
+F:\c#\Ptscoala2\Ptscoala2\obj\x86\Release\Ptscoala2.Properties.Resources.resources
+F:\c#\Ptscoala2\Ptscoala2\obj\x86\Release\GenerateResource.read.1.tlog
+F:\c#\Ptscoala2\Ptscoala2\obj\x86\Release\GenerateResource.write.1.tlog
+F:\c#\Ptscoala2\Ptscoala2\obj\x86\Release\Ptscoala2.exe
+F:\c#\Ptscoala2\Ptscoala2\obj\x86\Release\Ptscoala2.pdb
+F:\c#\Ptscoala2\Ptscoala2\obj\x86\Release\Ptscoala2.x.resources

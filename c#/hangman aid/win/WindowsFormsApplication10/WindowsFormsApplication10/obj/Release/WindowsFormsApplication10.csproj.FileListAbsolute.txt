@@ -1,0 +1,12 @@
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe.config
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe.manifest
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.application
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.exe
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Release\WindowsFormsApplication10.pdb
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.Form1.resources
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.exe.manifest
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.application
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.exe
+C:\Users\Benta\documents\visual studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Release\WindowsFormsApplication10.pdb

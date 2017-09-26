@@ -1,0 +1,14 @@
+D:\XII-A\trenuri\trenuri\bin\Debug\trenuri.exe.config
+D:\XII-A\trenuri\trenuri\bin\Debug\Database1.mdf
+D:\XII-A\trenuri\trenuri\bin\Debug\Database1_log.ldf
+D:\XII-A\trenuri\trenuri\bin\Debug\trenuri.exe
+D:\XII-A\trenuri\trenuri\bin\Debug\trenuri.pdb
+D:\XII-A\trenuri\trenuri\obj\Debug\trenuri.csprojResolveAssemblyReference.cache
+D:\XII-A\trenuri\trenuri\obj\Debug\trenuri.Form1.resources
+D:\XII-A\trenuri\trenuri\obj\Debug\trenuri.Properties.Resources.resources
+D:\XII-A\trenuri\trenuri\obj\Debug\trenuri.csproj.GenerateResource.Cache
+D:\XII-A\trenuri\trenuri\obj\Debug\trenuri.exe
+D:\XII-A\trenuri\trenuri\obj\Debug\trenuri.pdb
+F:\Baze de date\16\trenuri\bin\Debug\trenuri.exe.config
+F:\Baze de date\16\trenuri\obj\Debug\trenuri.exe
+F:\Baze de date\16\trenuri\obj\Debug\trenuri.pdb

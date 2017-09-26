@@ -1,0 +1,9 @@
+F:\c#\OOP\Client\Client\bin\Debug\Client.exe.config
+F:\c#\OOP\Client\Client\bin\Debug\Client.exe
+F:\c#\OOP\Client\Client\bin\Debug\Client.pdb
+F:\c#\OOP\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\c#\OOP\Client\Client\obj\Debug\Client.Form1.resources
+F:\c#\OOP\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\c#\OOP\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\c#\OOP\Client\Client\obj\Debug\Client.exe
+F:\c#\OOP\Client\Client\obj\Debug\Client.pdb

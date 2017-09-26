@@ -1,0 +1,8 @@
+Mercur, 0,24
+Venus, 0,61
+Pamant, 1
+Marte, 1,88
+Jupiter, 11,86
+Saturn, 29,45
+Uranus, 84
+Neptun, 165

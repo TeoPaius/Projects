@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1385910067 source:f:\c++\havesomefun\teatru\main.cpp
+	<fstream>
+	<queue>
+

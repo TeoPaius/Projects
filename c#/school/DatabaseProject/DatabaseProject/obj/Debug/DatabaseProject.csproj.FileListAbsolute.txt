@@ -1,0 +1,11 @@
+F:\c#\school\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe.config
+F:\c#\school\DatabaseProject\DatabaseProject\bin\Debug\Database1.mdf
+F:\c#\school\DatabaseProject\DatabaseProject\bin\Debug\Database1_log.ldf
+F:\c#\school\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.exe
+F:\c#\school\DatabaseProject\DatabaseProject\bin\Debug\DatabaseProject.pdb
+F:\c#\school\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csprojResolveAssemblyReference.cache
+F:\c#\school\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.Form1.resources
+F:\c#\school\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.Properties.Resources.resources
+F:\c#\school\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.csproj.GenerateResource.Cache
+F:\c#\school\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.exe
+F:\c#\school\DatabaseProject\DatabaseProject\obj\Debug\DatabaseProject.pdb

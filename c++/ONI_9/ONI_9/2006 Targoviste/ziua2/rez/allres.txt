@@ -1,0 +1,5261 @@
+ID	Nume	Prenume	Judet
+901	Bunea	Andrei	Alba
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.050	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+902	Palfi	Andrei-Cristian	Alba
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.000	Nonzero exit status: 205
+5	0	0.000	Nonzero exit status: 205
+6	0	0.000	Nonzero exit status: 205
+7	0	0.000	Nonzero exit status: 205
+8	0	0.000	Nonzero exit status: 205
+9	0	0.000	Nonzero exit status: 205
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.050	Okay!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	6	--	--
+
+--- TOTAL SCORE: 86
+
+ID	Nume	Prenume	Judet
+903	Bora	Valentin	Arad
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	36	--	--
+
+--- TOTAL SCORE: 106
+
+ID	Nume	Prenume	Judet
+904	Haler	Emanuela	Arges
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.080	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.020	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 150
+
+ID	Nume	Prenume	Judet
+905	Ardeleanu	Ioana	Bacau
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	32	--	--
+
+--- TOTAL SCORE: 32
+
+ID	Nume	Prenume	Judet
+906	Grigoras	Alexandru	Bacau
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/906/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/906/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/906/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/906/pereti.cpp: In function `int main()':
+stud/906/pereti.cpp:11: name lookup of `i' changed for new ISO `for' scoping
+stud/906/pereti.cpp:8:   using obsolete binding at `i'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+907	Ban	Florentina	Bihor
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/907/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/907/fact.cpp: In function `int main()':
+stud/907/fact.cpp:33: `endl' undeclared (first use this function)
+stud/907/fact.cpp:33: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/907/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/907/panouri.cpp: In function `void citire()':
+stud/907/panouri.cpp:9: name lookup of `i' changed for new ISO `for' scoping
+stud/907/panouri.cpp:7:   using obsolete binding at `i'
+stud/907/panouri.cpp: In function `void cerinta()':
+stud/907/panouri.cpp:44: name lookup of `i' changed for new ISO `for' scoping
+stud/907/panouri.cpp:37:   using obsolete binding at `i'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/907/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/907/pereti.cpp: In function `int main()':
+stud/907/pereti.cpp:7: `randomize' undeclared (first use this function)
+stud/907/pereti.cpp:7: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+/usr/include/stdlib.h:423: too many arguments to function `long int random()'
+stud/907/pereti.cpp:8: at this point in file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+908	Szilagyi	Raul-Razvan	Bihor
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/908/fact.cpp:38: `main' must return `int'
+stud/908/fact.cpp:41:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+stud/908/panouri.cpp:2:18: conio.h: No such file or directory
+stud/908/panouri.cpp:21: `main' must return `int'
+stud/908/panouri.cpp: In function `int main(...)':
+stud/908/panouri.cpp:22: `clrscr' undeclared (first use this function)
+stud/908/panouri.cpp:22: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/908/panouri.cpp:41:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+stud/908/pereti.cpp:3:16: mem.h: No such file or directory
+stud/908/pereti.cpp: In function `void binar()':
+stud/908/pereti.cpp:28: `randomize' undeclared (first use this function)
+stud/908/pereti.cpp:28: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/908/pereti.cpp:51:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+909	Chis	Antoniu-Raul	Bistrita
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	10	0.030	Okay!
+3	10	0.200	Okay!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	20	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.090	Okay!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 90
+
+ID	Nume	Prenume	Judet
+910	Haidau	Andrei	Bistrita
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/910/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/910/fact.cpp: In function `void citire()':
+stud/910/fact.cpp:29: `endl' undeclared (first use this function)
+stud/910/fact.cpp:29: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/910/fact.cpp:91:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/910/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/910/panouri.cpp:107:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/910/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/910/pereti.cpp:25:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+911	Cavulea	Razvan	Botosani
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.020	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+912	Mustata	Florentina	Braila
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/912/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/912/fact.cpp:2: `ios' was not declared in this scope
+stud/912/fact.cpp:2: parse error before `::' token
+stud/912/fact.cpp:3: `ios' was not declared in this scope
+stud/912/fact.cpp:3: parse error before `::' token
+stud/912/fact.cpp: In function `int main()':
+stud/912/fact.cpp:9: invalid operands of types `std::fstream ()(...)' and `int' 
+   to binary `operator>>'
+stud/912/fact.cpp:11: invalid operands of types `std::fstream ()(...)' and `int
+   ' to binary `operator<<'
+stud/912/fact.cpp:28: invalid operands of types `std::fstream ()(...)' and `
+   char' to binary `operator<<'
+stud/912/fact.cpp:31: invalid operands of types `std::fstream ()(...)' and `int
+   ' to binary `operator<<'
+stud/912/fact.cpp:38: request for member `close' in `f(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/912/fact.cpp:39: request for member `close' in `g(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/912/fact.cpp:41:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/912/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/912/panouri.cpp:2: `ios' was not declared in this scope
+stud/912/panouri.cpp:2: parse error before `::' token
+stud/912/panouri.cpp:3: `ios' was not declared in this scope
+stud/912/panouri.cpp:3: parse error before `::' token
+stud/912/panouri.cpp: In function `int main()':
+stud/912/panouri.cpp:7: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/912/panouri.cpp:9: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/912/panouri.cpp:11: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/912/panouri.cpp:26: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator<<'
+stud/912/panouri.cpp:27: request for member `close' in `f(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/912/panouri.cpp:28: request for member `close' in `g(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/912/panouri.cpp:30:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/912/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/912/pereti.cpp:2: `ios' was not declared in this scope
+stud/912/pereti.cpp:2: parse error before `::' token
+stud/912/pereti.cpp:3: `ios' was not declared in this scope
+stud/912/pereti.cpp:3: parse error before `::' token
+stud/912/pereti.cpp: In function `int main()':
+stud/912/pereti.cpp:8: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/912/pereti.cpp:11: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/912/pereti.cpp:45: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator<<'
+stud/912/pereti.cpp:47: request for member `close' in `f(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/912/pereti.cpp:48: request for member `close' in `g(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/912/pereti.cpp:50:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+913	Neacsu	Dan	Braila
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/913/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/913/fact.cpp: In function `int main()':
+stud/913/fact.cpp:12: `ios' undeclared (first use this function)
+stud/913/fact.cpp:12: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/913/fact.cpp:12: parse error before `::' token
+stud/913/fact.cpp:13: parse error before `::' token
+stud/913/fact.cpp:15: invalid operands of types `std::fstream ()(...)' and `
+   long unsigned int' to binary `operator>>'
+stud/913/fact.cpp:16: invalid operands of types `std::fstream ()(...)' and `
+   unsigned int' to binary `operator>>'
+stud/913/fact.cpp:20: invalid operands of types `std::fstream ()(...)' and `
+   long unsigned int' to binary `operator<<'
+stud/913/fact.cpp:22: request for member `close' in `f(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/913/fact.cpp:23: request for member `close' in `g(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/913/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/913/panouri.cpp:3: warning: initialization to `int' from `double'
+stud/913/panouri.cpp:3: warning: argument to `int' from `double'
+stud/913/panouri.cpp:5: `ios' was not declared in this scope
+stud/913/panouri.cpp:5: parse error before `::' token
+stud/913/panouri.cpp:6: `ios' was not declared in this scope
+stud/913/panouri.cpp:6: parse error before `::' token
+stud/913/panouri.cpp: In function `int main()':
+stud/913/panouri.cpp:31: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/913/panouri.cpp:32: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/913/panouri.cpp:34: invalid operands of types `std::fstream ()(...)' and `
+   short unsigned int' to binary `operator>>'
+stud/913/panouri.cpp:36: invalid operands of types `std::fstream ()(...)' and `
+   short unsigned int' to binary `operator>>'
+stud/913/panouri.cpp:39: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator<<'
+stud/913/panouri.cpp:40: request for member `close' in `f(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/913/panouri.cpp:41: request for member `close' in `g(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/913/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/913/pereti.cpp: In function `int main()':
+stud/913/pereti.cpp:3: `ios' undeclared (first use this function)
+stud/913/pereti.cpp:3: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/913/pereti.cpp:3: parse error before `::' token
+stud/913/pereti.cpp:6: parse error before `::' token
+stud/913/pereti.cpp:7: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator>>'
+stud/913/pereti.cpp:8: invalid operands of types `std::fstream ()(...)' and `
+   int' to binary `operator<<'
+stud/913/pereti.cpp:9: request for member `close' in `f(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/913/pereti.cpp:10: request for member `close' in `g(...)', which is of 
+   non-aggregate type `std::fstream ()(...)'
+stud/913/pereti.cpp:49:27: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+914	Mesco	Vlad	Brasov
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.090	Wrong answer in: fact.out
+5	0	0.200	Wrong answer in: fact.out
+6	0	0.301	Time limit exceeded!
+7	0	0.210	Wrong answer in: fact.out
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.030	Wrong answer in: panouri.out
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	0	0.000	Wrong answer in: pereti.out
+12	8	0.000	Okay!
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+915	Cobzarenco	Cristian	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Killed by signal: 8
+2	0	0.000	Killed by signal: 8
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Killed by signal: 8
+5	0	0.010	Killed by signal: 8
+6	0	0.000	Killed by signal: 8
+7	0	0.000	Killed by signal: 8
+8	0	0.020	Killed by signal: 8
+9	0	0.000	Killed by signal: 8
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+916	Filip	Sinziana	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+stud/916/pereti.cpp:144:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+917	Gheorghe	Cosmin	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.010	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 300
+
+ID	Nume	Prenume	Judet
+918	Ivan	Nicolae	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Killed by signal: 8
+3	0	0.000	Killed by signal: 8
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.060	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.010	Wrong answer in: panouri.out
+9	0	0.101	Time limit exceeded!
+10	0	0.000	Killed by signal: 11
+TOTAL	30	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	12	--	--
+
+--- TOTAL SCORE: 42
+
+ID	Nume	Prenume	Judet
+919	Mirea-Ghiban	Liviu	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/919/fact.cpp:102:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.040	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: panouri
+Compiler output: <<<
+stud/919/panouri.cpp:56:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: pereti
+Compiler output: <<<
+stud/919/pereti.cpp:98:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	77	--	--
+
+--- TOTAL SCORE: 277
+
+ID	Nume	Prenume	Judet
+920	Moisin	Ana	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/920/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/920/fact.cpp:5: `long int exp[20]' redeclared as different kind of symbol
+/usr/include/bits/mathcalls.h:101: previous declaration of `double exp(double)'
+stud/920/fact.cpp:80:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/920/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/920/panouri.cpp:86:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/920/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/920/pereti.cpp:88:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Killed by signal: 11
+3	6	0.000	Okay!
+4	0	0.010	Killed by signal: 11
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	6	0.000	Okay!
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Killed by signal: 11
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+921	Stanica	Andrei	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.030	Wrong answer in: fact.out
+2	0	0.020	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.010	Wrong answer in: fact.out
+5	0	0.040	Wrong answer in: fact.out
+6	0	0.120	Wrong answer in: fact.out
+7	0	0.060	Wrong answer in: fact.out
+8	0	0.220	Wrong answer in: fact.out
+9	0	0.040	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	82	--	--
+
+--- TOTAL SCORE: 82
+
+ID	Nume	Prenume	Judet
+922	Vasile	Victor	Bucuresti
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.301	Time limit exceeded!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.220	Wrong answer in: fact.out
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.020	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+923	Mihut	Bogdan-Adrian	Cluj
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	10	0.000	Okay!
+7	0	0.000	Wrong answer in: panouri.out
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	60	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 160
+
+ID	Nume	Prenume	Judet
+924	Pintea	Paul-Catalin	Cluj
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.301	Time limit exceeded!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+925	Iordache	Bogdan	Constanta
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+926	Manea	Mihai	Constanta
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.010	Okay!
+8	10	0.030	Okay!
+9	10	0.070	Okay!
+10	0	0.101	Time limit exceeded!
+TOTAL	90	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Nonzero exit status: 106
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.501	Time limit exceeded!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.501	Time limit exceeded!
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Nonzero exit status: 106
+11	0	0.000	Nonzero exit status: 106
+12	0	0.000	Nonzero exit status: 106
+13	0	0.000	Nonzero exit status: 106
+14	0	0.501	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 90
+
+ID	Nume	Prenume	Judet
+927	Margulescu	Cristian	Constanta
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/927/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/927/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	0	0.000	Killed by signal: 11
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.000	Killed by signal: 11
+10	0	0.020	Killed by signal: 11
+TOTAL	50	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/927/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Killed by signal: 11
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+928	Pasca	Luiza	Constanta
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/928/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/928/panouri.cpp:6: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+929	Vernescu	Horia	Constanta
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/929/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/929/fact.cpp:6: `main' must return `int'
+stud/929/fact.cpp: In function `int main(...)':
+stud/929/fact.cpp:17: `endl' undeclared (first use this function)
+stud/929/fact.cpp:17: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/929/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/929/panouri.cpp:29: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/929/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/929/pereti.cpp:6: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+930	Gajdo	Tamas	Covasna
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	0	0.000	Wrong answer in: pereti.out
+12	8	0.000	Okay!
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	71	--	--
+
+--- TOTAL SCORE: 91
+
+ID	Nume	Prenume	Judet
+931	Diculescu	Alexandra	Dambovita
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/931/fact.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/931/fact.cpp: In function `int main()':
+stud/931/fact.cpp:23: `cout' undeclared (first use this function)
+stud/931/fact.cpp:23: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/931/fact.cpp:30:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/931/panouri.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/931/panouri.cpp:55:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.060	Wrong answer in: panouri.out
+9	0	0.090	Wrong answer in: panouri.out
+10	0	0.070	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/931/pereti.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/931/pereti.cpp:86:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+932	Grigore	George	Dambovita
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/932/fact.cpp: In function `int main()':
+stud/932/fact.cpp:14: `rezolva' undeclared (first use this function)
+stud/932/fact.cpp:14: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/932/fact.cpp: In function `void rezolva(int)':
+stud/932/fact.cpp:19: `void rezolva(int)' used prior to declaration
+stud/932/fact.cpp:22: `p' undeclared (first use this function)
+stud/932/fact.cpp:24: `transf' undeclared (first use this function)
+stud/932/fact.cpp:24: parse error before `void'
+stud/932/fact.cpp:32: parse error at end of input
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+933	Ozorchevici	Ana	Dambovita
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/933/panouri.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/933/panouri.cpp:35:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/933/pereti.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/933/pereti.cpp:87:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Killed by signal: 11
+TOTAL	14	--	--
+
+--- TOTAL SCORE: 54
+
+ID	Nume	Prenume	Judet
+934	Savu	Robert	Dambovita
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+935	Stancioiu	Eugen	Dambovita
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+936	Stanciu	Florin	Dambovita
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+937	Belgun	Adrian	Dolj
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.030	Wrong answer in: fact.out
+6	0	0.070	Wrong answer in: fact.out
+7	0	0.050	Wrong answer in: fact.out
+8	0	0.120	Wrong answer in: fact.out
+9	0	0.020	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.030	Nonzero exit status: 1
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	63	--	--
+
+--- TOTAL SCORE: 63
+
+ID	Nume	Prenume	Judet
+938	Pajarcu	Alexandru-Petrisor	Dolj
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.301	Time limit exceeded!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.010	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 140
+
+ID	Nume	Prenume	Judet
+939	Mihaila	Cristian	Galati
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/939/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/939/fact.cpp: In function `int main()':
+stud/939/fact.cpp:30: `endl' undeclared (first use this function)
+stud/939/fact.cpp:30: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/939/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.010	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.040	Wrong answer in: panouri.out
+TOTAL	30	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/939/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/939/pereti.cpp:20:11: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Killed by signal: 11
+14	9	0.000	Okay!
+TOTAL	45	--	--
+
+--- TOTAL SCORE: 75
+
+ID	Nume	Prenume	Judet
+940	Savin	Tiberiu-Daniel	Galati
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/940/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.020	Wrong answer in: fact.out
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/940/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/940/panouri.cpp:43:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/940/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/940/pereti.cpp:23:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	9	--	--
+
+--- TOTAL SCORE: 39
+
+ID	Nume	Prenume	Judet
+941	Solomon	Avner	Galati
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/941/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/941/fact.cpp:17: `main' must return `int'
+stud/941/fact.cpp: In function `int main(...)':
+stud/941/fact.cpp:32: `endl' undeclared (first use this function)
+stud/941/fact.cpp:32: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/941/fact.cpp:35:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/941/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/941/panouri.cpp:7: `main' must return `int'
+stud/941/panouri.cpp: In function `int main(...)':
+stud/941/panouri.cpp:13: name lookup of `i' changed for new ISO `for' scoping
+stud/941/panouri.cpp:12:   using obsolete binding at `i'
+stud/941/panouri.cpp:33: label must be followed by statement
+stud/941/panouri.cpp:33:7: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/941/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/941/pereti.cpp:2:20: conio.h: No such file or directory
+stud/941/pereti.cpp:7: `main' must return `int'
+stud/941/pereti.cpp: In function `int main(...)':
+stud/941/pereti.cpp:7: `clrscr' undeclared (first use this function)
+stud/941/pereti.cpp:7: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/941/pereti.cpp:45: name lookup of `ii' changed for new ISO `for' scoping
+stud/941/pereti.cpp:44:   using obsolete binding at `ii'
+stud/941/pereti.cpp:47: name lookup of `jj' changed for new ISO `for' scoping
+stud/941/pereti.cpp:46:   using obsolete binding at `jj'
+stud/941/pereti.cpp:60:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+942	Radulescu	Sorin	Giurgiu
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/942/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/942/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/942/panouri.cpp:3:18: conio.h: No such file or directory
+stud/942/panouri.cpp: In function `int main()':
+stud/942/panouri.cpp:54: `clrscr' undeclared (first use this function)
+stud/942/panouri.cpp:54: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/942/panouri.cpp:60:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/942/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/942/pereti.cpp:58:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Killed by signal: 11
+12	0	0.020	Killed by signal: 11
+13	0	0.000	Killed by signal: 11
+14	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+943	Achim	Ioan-Alexandru	Gorj
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/943/fact.cpp: In function `void rezolvare()':
+stud/943/fact.cpp:77: warning: assignment to `long int' from `double'
+stud/943/fact.cpp:77: warning: argument to `long int' from `double'
+stud/943/fact.cpp:106: warning: assignment to `long int' from `double'
+stud/943/fact.cpp:106: warning: argument to `long int' from `double'
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.030	Wrong answer in: fact.out
+6	0	0.140	Wrong answer in: fact.out
+7	0	0.140	Wrong answer in: fact.out
+8	0	0.260	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.020	Killed by signal: 11
+14	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+944	Giurconiu	Adrian-Ilie	Gorj
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.010	Nonzero exit status: 216
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	0	0.000	Nonzero exit status: 216
+5	0	0.000	Nonzero exit status: 216
+6	0	0.000	Nonzero exit status: 216
+7	0	0.000	Nonzero exit status: 216
+8	0	0.000	Nonzero exit status: 216
+9	0	0.000	Nonzero exit status: 216
+10	0	0.000	Nonzero exit status: 216
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Nonzero exit status: 216
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	18	--	--
+
+--- TOTAL SCORE: 38
+
+ID	Nume	Prenume	Judet
+945	Giuroiu	Marius-Cristian	Gorj
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Nonzero exit status: 207
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+946	Vladulescu	Adrian	Gorj
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.010	Wrong answer in: fact.out
+6	10	0.000	Okay!
+7	0	0.040	Wrong answer in: fact.out
+8	0	0.040	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	30	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+947	Sukosd	Hunor	Harghita
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.090	Wrong answer in: fact.out
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+948	Homorodean	Andrei	Hunedoara
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/948/fact.cpp:3:17: mem.h: No such file or directory
+stud/948/fact.cpp: In function `int main()':
+stud/948/fact.cpp:9: `setmem' undeclared (first use this function)
+stud/948/fact.cpp:9: (Each undeclared identifier is reported only once for each 
+   function it appears in.)
+stud/948/fact.cpp:57:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+stud/948/panouri.cpp:2:17: mem.h: No such file or directory
+stud/948/panouri.cpp: In function `int main()':
+stud/948/panouri.cpp:8: `setmem' undeclared (first use this function)
+stud/948/panouri.cpp:8: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/948/panouri.cpp:34:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+stud/948/pereti.cpp:10:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.070	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+949	Zota	Patricia	Hunedoara
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/949/fact.cpp: In function `void produs(char*, long int)':
+stud/949/fact.cpp:32: warning: assignment to non-pointer type `char' from NULL
+stud/949/fact.cpp:32: warning: argument to non-pointer type `char' from NULL
+stud/949/fact.cpp: In function `int main()':
+stud/949/fact.cpp:61: warning: assignment to non-pointer type `char' from NULL
+stud/949/fact.cpp:61: warning: argument to non-pointer type `char' from NULL
+stud/949/fact.cpp:89:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+stud/949/panouri.cpp:5:16: mem.h: No such file or directory
+stud/949/panouri.cpp: In function `int main()':
+stud/949/panouri.cpp:16: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/949/panouri.cpp:16: warning: argument to non-pointer type `char' from NULL
+stud/949/panouri.cpp:19: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/949/panouri.cpp:19: warning: argument to non-pointer type `char' from NULL
+stud/949/panouri.cpp:32: `setmem' undeclared (first use this function)
+stud/949/panouri.cpp:32: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/949/panouri.cpp:42: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/949/panouri.cpp:42: warning: argument to non-pointer type `char' from NULL
+stud/949/panouri.cpp:52: warning: assignment to non-pointer type `char' from 
+   NULL
+stud/949/panouri.cpp:52: warning: argument to non-pointer type `char' from NULL
+stud/949/panouri.cpp:70:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+950	Cohal	Ruxandra	Iasi
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.010	Okay!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 80
+
+ID	Nume	Prenume	Judet
+951	Pricop	Mircea	Iasi
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/951/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/951/panouri.cpp:36:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/951/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	92	--	--
+
+--- TOTAL SCORE: 102
+
+ID	Nume	Prenume	Judet
+952	Stoian	Vlad	Iasi
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/952/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/952/fact.cpp:34:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/952/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/952/panouri.cpp:50:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.010	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/952/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/952/pereti.cpp:59:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.010	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Killed by signal: 11
+14	0	0.010	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+953	Codrea	Marcel	Maramures
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Killed by signal: 11
+14	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+954	Onea	Andrei	Mehedinti
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/954/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/954/fact.cpp:26:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	20	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/954/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/954/panouri.cpp:52:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.020	Okay!
+10	10	0.010	Okay!
+TOTAL	100	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/954/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/954/pereti.cpp:112:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 120
+
+ID	Nume	Prenume	Judet
+955	Izsak	Istvan	Mures
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/955/fact.cpp:47: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+stud/955/panouri.cpp: In function `void citeste()':
+stud/955/panouri.cpp:9: name lookup of `i' changed for new ISO `for' scoping
+stud/955/panouri.cpp:7:   using obsolete binding at `i'
+stud/955/panouri.cpp: At global scope:
+stud/955/panouri.cpp:51: `main' must return `int'
+stud/955/panouri.cpp:55:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+stud/955/pereti.cpp:3: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+956	Puni	Andrei	Mures
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.010	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+957	Ionel	Bogdan	Neamt
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/957/fact.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/957/fact.cpp:3:19: conio.h: No such file or directory
+stud/957/fact.cpp:10: ISO C++ forbids declaration of `carx' with no type
+stud/957/fact.cpp: In function `int main()':
+stud/957/fact.cpp:52: `clrscr' undeclared (first use this function)
+stud/957/fact.cpp:52: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/957/fact.cpp:74: `endl' undeclared (first use this function)
+stud/957/fact.cpp:136:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/957/panouri.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/957/panouri.cpp:3:19: conio.h: No such file or directory
+stud/957/panouri.cpp: In function `int main()':
+stud/957/panouri.cpp:18: `endl' undeclared (first use this function)
+stud/957/panouri.cpp:18: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/957/panouri.cpp:22:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/957/pereti.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/957/pereti.cpp:3:19: conio.h: No such file or directory
+stud/957/pereti.cpp: In function `int main()':
+stud/957/pereti.cpp:11: `endl' undeclared (first use this function)
+stud/957/pereti.cpp:11: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/957/pereti.cpp:15:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+958	Danauta	Catrinel	Olt
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/958/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/958/fact.cpp:50:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/958/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/958/panouri.cpp:62:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.020	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/958/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/958/pereti.cpp:155:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Killed by signal: 11
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	14	--	--
+
+--- TOTAL SCORE: 54
+
+ID	Nume	Prenume	Judet
+959	Radut	Rodica	Olt
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/959/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	20	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/959/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/959/panouri.cpp:60:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.030	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.010	Killed by signal: 11
+TOTAL	30	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/959/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/959/pereti.cpp:87:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.050	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.000	Killed by signal: 11
+14	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+960	Lica	Adela	Prahova
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	20	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	14	--	--
+
+--- TOTAL SCORE: 94
+
+ID	Nume	Prenume	Judet
+961	Sanduleac	Dan	Prahova
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.000	Wrong answer in: panouri.out
+TOTAL	10	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 110
+
+ID	Nume	Prenume	Judet
+962	Savu	Victor	Prahova
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	10	0.000	Okay!
+TOTAL	50	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.040	Wrong answer in: panouri.out
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 150
+
+ID	Nume	Prenume	Judet
+963	Sima	Cotizo	Prahova
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.170	Okay!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.020	Okay!
+8	10	0.050	Okay!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	80	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 220
+
+ID	Nume	Prenume	Judet
+964	Jecan	Daniel	Salaj
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+965	Balazs	Bela	Satu Mare
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.020	Wrong answer in: fact.out
+6	0	0.030	Wrong answer in: fact.out
+7	0	0.030	Wrong answer in: fact.out
+8	0	0.080	Wrong answer in: fact.out
+9	0	0.010	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.010	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+966	Barbu	Ruxandra	Satu Mare
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.301	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.030	Okay!
+9	10	0.030	Okay!
+10	10	0.060	Okay!
+TOTAL	100	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.040	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.090	Okay!
+9	6	0.010	Okay!
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.501	Time limit exceeded!
+12	0	0.050	Wrong answer in: pereti.out
+13	0	0.501	Time limit exceeded!
+14	0	0.501	Time limit exceeded!
+TOTAL	42	--	--
+
+--- TOTAL SCORE: 142
+
+ID	Nume	Prenume	Judet
+967	Badea	Victor	Sibiu
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/967/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/967/fact.cpp:2: `main' must return `int'
+stud/967/fact.cpp: In function `int main(...)':
+stud/967/fact.cpp:14: `endl' undeclared (first use this function)
+stud/967/fact.cpp:14: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/967/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/967/panouri.cpp:2: `main' must return `int'
+stud/967/panouri.cpp:34:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/967/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/967/pereti.cpp:2:18: conio.h: No such file or directory
+stud/967/pereti.cpp:3: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+968	Fagarasan	Oana	Sibiu
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/968/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/968/fact.cpp:7: `main' must return `int'
+stud/968/fact.cpp: In function `int main(...)':
+stud/968/fact.cpp:26: `endl' undeclared (first use this function)
+stud/968/fact.cpp:26: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/968/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/968/panouri.cpp:7: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/968/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/968/pereti.cpp:9: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+969	Traista	Alexandru	Suceava
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/969/fact.cpp:43:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.030	Okay!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	50	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.020	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+970	Vintur	Oana	Suceava
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+stud/970/fact.c: In function `caz':
+stud/970/fact.c:33: too many arguments to function `random'
+stud/970/fact.c: In function `main':
+stud/970/fact.c:48: too many arguments to function `random'
+stud/970/fact.c:49: too many arguments to function `random'
+stud/970/fact.c:50: too many arguments to function `random'
+stud/970/fact.c:51: too many arguments to function `random'
+stud/970/fact.c:52: too many arguments to function `random'
+stud/970/fact.c:63:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+stud/970/panouri.c:109:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+10	0	0.060	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+stud/970/pereti.c:48:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	59	--	--
+
+--- TOTAL SCORE: 59
+
+ID	Nume	Prenume	Judet
+971	Ivanica	Dan-Alexandru	Teleorman
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.000	Nonzero exit status: 24
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.000	Nonzero exit status: 4
+6	0	0.101	Time limit exceeded!
+7	0	0.000	Nonzero exit status: 65
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.501	Time limit exceeded!
+14	0	0.501	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+972	Popescu	Florin-Marius	Teleorman
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.030	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+973	Stoenescu	Radu	Teleorman
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.010	Okay!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	6	--	--
+
+--- TOTAL SCORE: 46
+
+ID	Nume	Prenume	Judet
+974	Virtosu	Bogdan	Timis
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/974/fact.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/974/fact.cpp:57:17: warning: multi-character character constant
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.160	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/974/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/974/panouri.cpp:50:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/974/pereti.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/974/pereti.cpp:331:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+975	Coriu	Radu	Tulcea
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.010	Wrong answer in: fact.out
+5	0	0.220	Wrong answer in: fact.out
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.301	Time limit exceeded!
+9	0	0.160	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+976	Iorga	Dan	Tulcea
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Missing output file: panouri.out
+2	0	0.000	Missing output file: panouri.out
+3	0	0.000	Missing output file: panouri.out
+4	0	0.000	Missing output file: panouri.out
+5	0	0.000	Missing output file: panouri.out
+6	0	0.000	Missing output file: panouri.out
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+977	Marian	Cristian-Ovidiu	Tulcea
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.301	Time limit exceeded!
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.301	Time limit exceeded!
+7	0	0.301	Time limit exceeded!
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Nonzero exit status: 103
+8	0	0.000	Nonzero exit status: 103
+9	0	0.000	Nonzero exit status: 103
+10	0	0.000	Nonzero exit status: 103
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+978	Tudusciuc	Ioan	Vaslui
+
+Results for: total
+
+### Problem: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: panouri
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/978/panouri.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+979	Duta	Vlad	Vilcea
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.010	Okay!
+6	10	0.010	Okay!
+7	10	0.010	Okay!
+8	10	0.030	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+10	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 300
+
+ID	Nume	Prenume	Judet
+980	Bujor	Alexandra	Vrancea
+
+Results for: total
+
+### Problem: fact
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.301	Time limit exceeded!
+3	0	0.301	Time limit exceeded!
+4	0	0.301	Time limit exceeded!
+5	0	0.301	Time limit exceeded!
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problem: panouri
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Nonzero exit status: 103
+6	0	0.000	Nonzero exit status: 103
+7	0	0.000	Nonzero exit status: 103
+8	0	0.000	Nonzero exit status: 103
+9	0	0.000	Nonzero exit status: 103
+10	0	0.010	Nonzero exit status: 103
+TOTAL	0	--	--
+
+### Problem: pereti
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 106
+1	0	0.000	Nonzero exit status: 106
+2	0	0.000	Nonzero exit status: 106
+3	0	0.000	Nonzero exit status: 106
+4	0	0.000	Nonzero exit status: 106
+5	0	0.000	Nonzero exit status: 106
+6	0	0.000	Nonzero exit status: 106
+7	0	0.000	Nonzero exit status: 106
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Nonzero exit status: 106
+10	0	0.000	Nonzero exit status: 106
+11	0	0.000	Nonzero exit status: 106
+12	0	0.000	Nonzero exit status: 106
+13	0	0.000	Nonzero exit status: 106
+14	0	0.000	Nonzero exit status: 106
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+

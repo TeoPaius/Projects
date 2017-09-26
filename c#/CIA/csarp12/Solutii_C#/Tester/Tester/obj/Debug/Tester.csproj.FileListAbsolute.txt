@@ -1,0 +1,36 @@
+F:\CIA_2012\Tester\Tester\bin\Debug\Tester.exe
+F:\CIA_2012\Tester\Tester\bin\Debug\Tester.pdb
+F:\CIA_2012\Tester\Tester\obj\Debug\ResolveAssemblyReference.cache
+F:\CIA_2012\Tester\Tester\obj\Debug\Tester.Form1.resources
+F:\CIA_2012\Tester\Tester\obj\Debug\Tester.Form2.resources
+F:\CIA_2012\Tester\Tester\obj\Debug\Tester.Properties.Resources.resources
+F:\CIA_2012\Tester\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+F:\CIA_2012\Tester\Tester\obj\Debug\Tester.exe
+F:\CIA_2012\Tester\Tester\obj\Debug\Tester.pdb
+D:\CIA_2012\Tester\Tester\bin\Debug\Tester.exe
+D:\CIA_2012\Tester\Tester\bin\Debug\Tester.pdb
+D:\CIA_2012\Tester\Tester\obj\Debug\ResolveAssemblyReference.cache
+D:\CIA_2012\Tester\Tester\obj\Debug\Tester.Form1.resources
+D:\CIA_2012\Tester\Tester\obj\Debug\Tester.Form2.resources
+D:\CIA_2012\Tester\Tester\obj\Debug\Tester.Properties.Resources.resources
+D:\CIA_2012\Tester\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+D:\CIA_2012\Tester\Tester\obj\Debug\Tester.exe
+D:\CIA_2012\Tester\Tester\obj\Debug\Tester.pdb
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\bin\Debug\Tester.exe
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\bin\Debug\Tester.pdb
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\obj\Debug\ResolveAssemblyReference.cache
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\obj\Debug\Tester.Form1.resources
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\obj\Debug\Tester.Form2.resources
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\obj\Debug\Tester.Properties.Resources.resources
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\obj\Debug\Tester.exe
+c:\2011-2012\CIA_2012\Subiecte\Carmocanu George\Tester_V3\Tester\obj\Debug\Tester.pdb
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\obj\Debug\Tester.exe
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\obj\Debug\Tester.pdb
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\bin\Debug\Tester.exe
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\bin\Debug\Tester.pdb
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\obj\Debug\ResolveAssemblyReference.cache
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\obj\Debug\Tester.Form1.resources
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\obj\Debug\Tester.Form2.resources
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\2011-2012\CIA_2012\CIA_2012_C#\Solutii\Tester\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache

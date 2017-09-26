@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385292657 source:f:\c++\acasa\cai\cai\main.cpp
+	<fstream>
+	<deque>
+	<algorithm>
+

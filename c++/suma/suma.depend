@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1360256810 source:f:\c++\suma\main.cpp
+	<fstream>
+	<cmath>
+
+1360258287 source:f:\c++\suma\suma.cpp
+	<fstream>
+	<cmath>
+

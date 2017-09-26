@@ -1,0 +1,11 @@
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\bin\Debug\Atestat12.exe.config
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\bin\Debug\Database1.mdf
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\bin\Debug\Database1_log.ldf
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\bin\Debug\Atestat12.exe
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\bin\Debug\Atestat12.pdb
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\obj\Debug\Atestat12.csprojResolveAssemblyReference.cache
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\obj\Debug\Atestat12.Form1.resources
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\obj\Debug\Atestat12.Properties.Resources.resources
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\obj\Debug\Atestat12.csproj.GenerateResource.Cache
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\obj\Debug\Atestat12.exe
+C:\Users\elev\Documents\XII A\C#\Atestat12\Atestat12\obj\Debug\Atestat12.pdb

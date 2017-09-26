@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429532812 source:/home/elev/Documents/11A/prim/main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

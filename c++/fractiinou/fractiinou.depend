@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1360241488 source:f:\c++\fractiinou\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,2 @@
+D:\XII A\Subiectul1\Subiectul1\bin\Debug\Subiectul1.exe.config
+D:\XII A\Subiectul2\Subiectul1\bin\Debug\Subiectul1.exe.config

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414251414 source:f:\c++\11\back\regine\main.cpp
+	<fstream>
+	<cmath>
+

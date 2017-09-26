@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427648132 source:f:\c++\kruscall\main.cpp
+	<fstream>
+	<vector>
+	<queue>
+

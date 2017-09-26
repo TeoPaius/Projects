@@ -1,0 +1,524 @@
+ID	Nume	Prenume	Judet
+0092005	Gavrila	Vlad-Alexandru	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	10	0.000	OK!!
+4	10	0.000	OK!!
+5	10	0.000	OK!!
+6	10	0.000	OK!!
+7	10	0.000	OK!!
+8	10	0.000	OK!!
+9	10	0.000	OK!!
+10	10	0.000	OK!!
+TOTAL	100	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.010	Okay!
+1	10	0.000	Okay!
+2	10	0.030	Okay!
+3	10	0.000	Okay!
+4	10	0.010	Okay!
+5	10	0.000	Okay!
+6	10	0.020	Okay!
+7	10	0.030	Okay!
+8	10	0.000	Okay!
+9	10	0.030	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 300
+
+ID	Nume	Prenume	Judet
+0092006	Stan	Serban-Andrei	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0092006/ab.cpp:54:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	7	0.000	Aproape bine!
+4	7	0.000	Aproape bine!
+5	7	0.000	Aproape bine!
+6	7	0.000	Aproape bine!
+7	7	0.000	Aproape bine!
+8	7	0.000	Aproape bine!
+9	7	0.000	Aproape bine!
+10	7	0.000	Aproape bine!
+TOTAL	76	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0092006/iepuras.cpp:151:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.101	Time limit exceeded!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	45	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0092006/palind.cpp:90:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.030	Wrong answer in: palind.out
+3	0	0.010	Wrong answer in: palind.out
+4	0	0.010	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.020	Wrong answer in: palind.out
+7	0	0.030	Wrong answer in: palind.out
+8	0	0.010	Wrong answer in: palind.out
+9	0	0.040	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 121
+
+ID	Nume	Prenume	Judet
+0092007	Taloi	Bogdan-Cristian	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	0	0.000	Raspuns gresit!
+2	0	0.000	Raspuns gresit!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+0092008	Zernoveanu	Radu	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092002	Pripoaie	Teodor-Anton	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	0	0.000	Wrong answer in: iepuras.out
+14	5	0.000	Okay!
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	85	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 125
+
+ID	Nume	Prenume	Judet
+0092003	Plop	Teodor-Daniel	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092004	Vlad	Radu-Cristian	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0092004/ab.cpp:163:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0092004/iepuras.cpp:274:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Killed by signal: 11
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	0	0.000	Killed by signal: 11
+18	0	0.000	Killed by signal: 11
+19	5	0.000	Okay!
+TOTAL	35	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0092004/palind.cpp:22:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.030	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.010	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.020	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 35
+
+ID	Nume	Prenume	Judet
+0092001	Naiba	Lucian	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	75	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.010	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.030	Wrong answer in: palind.out
+8	0	0.020	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 95
+

@@ -1,0 +1,6 @@
+D:\XIIB\17.11\Poly1\Poly1\bin\Debug\Poly1.exe.config
+D:\XIIB\17.11\Poly1\Poly1\bin\Debug\Poly1.exe
+D:\XIIB\17.11\Poly1\Poly1\bin\Debug\Poly1.pdb
+D:\XIIB\17.11\Poly1\Poly1\obj\Debug\Poly1.csprojResolveAssemblyReference.cache
+D:\XIIB\17.11\Poly1\Poly1\obj\Debug\Poly1.exe
+D:\XIIB\17.11\Poly1\Poly1\obj\Debug\Poly1.pdb

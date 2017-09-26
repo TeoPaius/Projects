@@ -1,0 +1,9 @@
+TOTAL	ab	iepuras	palind	ID	Nume	Prenume	Judet
+300	100	100	100	0092005	Gavrila	Vlad-Alexandru	Bucuresti
+125	20	85	20	0092002	Pripoaie	Teodor-Anton	Bucuresti
+121	76	45	0	0092006	Stan	Serban-Andrei	Bucuresti
+100	0	100	0	0092007	Taloi	Bogdan-Cristian	Bucuresti
+95	20	75	0	0092001	Naiba	Lucian	Bucuresti
+35	0	35	0	0092004	Vlad	Radu-Cristian	Bucuresti
+0	0	0	0	0092003	Plop	Teodor-Daniel	Bucuresti
+0	0	0	0	0092008	Zernoveanu	Radu	Bucuresti

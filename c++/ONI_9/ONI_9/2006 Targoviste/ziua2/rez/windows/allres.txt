@@ -1,0 +1,5950 @@
+ID	Nume	Prenume	Judet
+901	Bunea	Andrei	Alba
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(1): Error 11: Line too long.
+const rst:array[0..34] of string[1]= ('0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F','G','H','I','J','K','L','
+                                                                                                                               ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PANOURI.PAS(15): Error 85: ";" expected.
+     for j:=1 to max do if pant[j]=x then exit(true);
+                                              ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+54 lines, 4224 bytes code, 41850 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.055	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+902	Palfi	Andrei-Cristian	Alba
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+45 lines, 4016 bytes code, 1190 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.055	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+78 lines, 3120 bytes code, 31694 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.220	Okay!
+7	10	0.604	Okay!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	80	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+52 lines, 3184 bytes code, 20676 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	6	--	--
+
+--- TOTAL SCORE: 96
+
+ID	Nume	Prenume	Judet
+903	Bora	Valentin	Arad
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4100472
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4083088
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.275	Okay!
+7	10	0.769	Okay!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	80	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4086392
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	36	--	--
+
+--- TOTAL SCORE: 126
+
+ID	Nume	Prenume	Judet
+904	Haler	Emanuela	Arges
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+27 lines, 3312 bytes code, 1206 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	10	0.055	Okay!
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+50 lines, 3232 bytes code, 62952 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.165	Okay!
+4	10	0.714	Okay!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	50	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+88 lines, 4512 bytes code, 51948 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 160
+
+ID	Nume	Prenume	Judet
+905	Ardeleanu	Ioana	Bacau
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4102256
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4103248
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4099296
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	32	--	--
+
+--- TOTAL SCORE: 32
+
+ID	Nume	Prenume	Judet
+906	Grigoras	Alexandru	Bacau
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4026556
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	>2.000	Timeout! (program crashes DOS environment)
+5	0	>2.000	Timeout! (program crashes DOS environment)
+6	0	>2.000	Timeout! (program crashes DOS environment)
+7	0	>2.000	Timeout! (program crashes DOS environment)
+8	0	>2.000	Timeout! (program crashes DOS environment)
+9	0	>2.000	Timeout! (program crashes DOS environment)
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4019092
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	>1.000	Timeout! (program crashes DOS environment)
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Warning pereti.cpp 19: 'variabila' is assigned a value that is never used in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4029392
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	>0.500	Timeout! (program crashes DOS environment)
+12	0	>0.500	Timeout! (program crashes DOS environment)
+13	0	>0.500	Timeout! (program crashes DOS environment)
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+907	Ban	Florentina	Bihor
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4023488
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4023452
+>>>
+
+Test	Score	Time	Message
+0	0	>1.000	Timeout! (program crashes DOS environment)
+1	0	>1.000	Timeout! (program crashes DOS environment)
+2	0	>1.000	Timeout! (program crashes DOS environment)
+3	0	>1.000	Timeout! (program crashes DOS environment)
+4	0	1.044	Time limit exceeded!
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	>1.000	Timeout! (program crashes DOS environment)
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4019688
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+908	Szilagyi	Raul-Razvan	Bihor
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4099696
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	>2.000	Timeout! (program crashes DOS environment)
+5	0	>2.000	Timeout! (program crashes DOS environment)
+6	0	>2.000	Timeout! (program crashes DOS environment)
+7	0	>2.000	Timeout! (program crashes DOS environment)
+8	0	>2.000	Timeout! (program crashes DOS environment)
+9	0	>2.000	Timeout! (program crashes DOS environment)
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4090312
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.055	Wrong answer in: panouri.out
+7	0	0.110	Wrong answer in: panouri.out
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Warning pereti.cpp 51: Function should return a value in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4070324
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+909	Chis	Antoniu-Raul	Bistrita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4098424
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	10	0.110	Okay!
+3	10	0.879	Okay!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	20	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4090192
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.055	Okay!
+6	10	0.385	Okay!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 90
+
+ID	Nume	Prenume	Judet
+910	Haidau	Andrei	Bistrita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4024420
+>>>
+
+Test	Score	Time	Message
+0	0	2.033	Time limit exceeded!
+1	0	2.033	Time limit exceeded!
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.055	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4019012
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.165	Wrong answer in: panouri.out
+4	0	0.714	Wrong answer in: panouri.out
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4030928
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+911	Cavulea	Razvan	Botosani
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+50 lines, 3040 bytes code, 1006 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+77 lines, 3168 bytes code, 36952 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.495	Okay!
+5	10	0.824	Okay!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+65 lines, 2976 bytes code, 21338 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+912	Mustata	Florentina	Braila
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4015712
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4020620
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4016432
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	30	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+913	Neacsu	Dan	Braila
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4029444
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Warning panouri.cpp 26: 'gata' is assigned a value that is never used in function cauta(int)
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4024904
+>>>
+
+Test	Score	Time	Message
+0	0	0.110	Wrong answer in: panouri.out
+1	0	>1.000	Timeout! (program crashes DOS environment)
+2	0	>1.000	Timeout! (program crashes DOS environment)
+3	0	>1.000	Timeout! (program crashes DOS environment)
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4032424
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+914	Mesco	Vlad	Brasov
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+76 lines, 3456 bytes code, 972 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.055	Wrong answer in: fact.out
+4	0	1.044	Wrong answer in: fact.out
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PANOURI.PAS(14): Error 96: Too many variables.
+    ss:array[1..15000] of boolean;
+                                 ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+112 lines, 2992 bytes code, 51088 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	0	0.000	Wrong answer in: pereti.out
+12	8	0.000	Okay!
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+915	Cobzarenco	Cristian	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Error fact.cpp 13: Declaration syntax error
+*** 1 errors in Compile ***
+
+        Available memory 4090640
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Error panouri.cpp 20: Undefined symbol 'bool' in function calc()
+Error panouri.cpp 20: Statement missing ; in function calc()
+Error panouri.cpp 21: Statement missing ; in function calc()
+Error panouri.cpp 25: Undefined symbol 'g' in function calc()
+*** 4 errors in Compile ***
+
+        Available memory 4087000
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4092572
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	6	0.000	Okay!
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	6	--	--
+
+--- TOTAL SCORE: 6
+
+ID	Nume	Prenume	Judet
+916	Filip	Sinziana	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4084876
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	>1.000	Timeout! (program crashes DOS environment)
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Error pereti.cpp 3: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4114252
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+917	Gheorghe	Cosmin	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Error fact.cpp 9: Array size too large
+Error fact.cpp 9: Too much global data defined in file
+*** 2 errors in Compile ***
+
+        Available memory 4101396
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Warning panouri.cpp 45: Constant out of range in comparison in function solve_brute()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4079064
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Error pereti.cpp 2: Unable to open include file 'deque'
+Error pereti.cpp 3: Declaration syntax error
+Error pereti.cpp 15: Declaration syntax error
+Warning pereti.cpp 25: Functions containing while are not expanded inline
+Error pereti.cpp 60: Undefined symbol 'coada' in function main()
+Error pereti.cpp 60: Function 'make_pair' should have a prototype in function main()
+*** 5 errors in Compile ***
+
+        Available memory 4101292
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+918	Ivan	Nicolae	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4096360
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	1.648	Wrong answer in: fact.out
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4074832
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.495	Okay!
+3	0	1.044	Time limit exceeded!
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.110	Wrong answer in: panouri.out
+7	0	0.165	Wrong answer in: panouri.out
+8	0	0.495	Wrong answer in: panouri.out
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	30	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4074472
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	12	--	--
+
+--- TOTAL SCORE: 42
+
+ID	Nume	Prenume	Judet
+919	Mirea-Ghiban	Liviu	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4091248
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.165	Okay!
+6	10	0.275	Okay!
+7	10	0.275	Okay!
+8	10	0.714	Okay!
+9	10	0.110	Okay!
+TOTAL	100	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4098128
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4095024
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	77	--	--
+
+--- TOTAL SCORE: 277
+
+ID	Nume	Prenume	Judet
+920	Moisin	Ana	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3991844
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.110	Okay!
+6	10	0.165	Okay!
+7	10	0.220	Okay!
+8	10	0.604	Okay!
+9	0	0.110	Wrong answer in: fact.out
+TOTAL	90	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3997704
+>>>
+
+Test	Score	Time	Message
+0	0	0.989	Wrong answer in: panouri.out
+1	0	0.330	Wrong answer in: panouri.out
+2	0	1.044	Time limit exceeded!
+3	0	0.769	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.055	Wrong answer in: panouri.out
+6	0	0.659	Wrong answer in: panouri.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Error pereti.cpp 6: Array size too large
+*** 1 errors in Compile ***
+
+        Available memory 4024232
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 90
+
+ID	Nume	Prenume	Judet
+921	Stanica	Andrei	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Error fact.cpp 7: Array size too large
+*** 1 errors in Compile ***
+
+        Available memory 4104508
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Error panouri.cpp 6: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4114028
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4084524
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	82	--	--
+
+--- TOTAL SCORE: 82
+
+ID	Nume	Prenume	Judet
+922	Vasile	Victor	Bucuresti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+80 lines, 4784 bytes code, 1596 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	2.033	Time limit exceeded!
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+51 lines, 2976 bytes code, 33948 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.440	Okay!
+5	10	0.549	Okay!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PERETI.PAS(9): Error 86: ":" expected.
+procedure afla_directii(a,b,n);
+                             ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+923	Mihut	Bogdan-Adrian	Cluj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(3): Error 3: Unknown identifier.
+    a,n,b:int64;
+          ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PANOURI.PAS(5): Error 96: Too many variables.
+    x,o:array[1..2000] of integer;
+                                 ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PERETI.PAS(4): Error 22: Structure too large.
+    city:array[1..150,1..150,1..4] of integer;
+                                             ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+924	Pintea	Paul-Catalin	Cluj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(1): Error 3: Unknown identifier.
+var i,n,f,b,j,m : cardinal;
+                  ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PANOURI.PAS(4): Error 96: Too many variables.
+    p,x,mk : array [0..30000] of 0..2000;
+                                        ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PERETI.PAS(24): Error 87: "," expected.
+    val(s,aux);
+             ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+925	Iordache	Bogdan	Constanta
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+926	Manea	Mihai	Constanta
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+46 lines, 3904 bytes code, 1890 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+39 lines, 2912 bytes code, 39202 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.055	Okay!
+7	10	0.165	Okay!
+8	10	0.275	Okay!
+9	10	0.385	Okay!
+TOTAL	100	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+44 lines, 3472 bytes code, 61222 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.549	Time limit exceeded!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.549	Time limit exceeded!
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.549	Time limit exceeded!
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.549	Time limit exceeded!
+13	0	0.549	Time limit exceeded!
+14	0	0.549	Time limit exceeded!
+TOTAL	6	--	--
+
+--- TOTAL SCORE: 106
+
+ID	Nume	Prenume	Judet
+927	Margulescu	Cristian	Constanta
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4022196
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4022092
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	>1.000	Timeout! (program crashes DOS environment)
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	50	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4018552
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	>0.500	Timeout! (program crashes DOS environment)
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+928	Pasca	Luiza	Constanta
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4020564
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.055	Okay!
+2	10	0.110	Okay!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+929	Vernescu	Horia	Constanta
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4015472
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Warning panouri.cpp 27: Function should return a value in function rezolva(int)
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4023108
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4018728
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+930	Gajdo	Tamas	Covasna
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+58 lines, 3968 bytes code, 1214 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.055	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+104 lines, 3232 bytes code, 34684 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+90 lines, 4000 bytes code, 51480 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	0	0.000	Wrong answer in: pereti.out
+12	8	0.000	Okay!
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	71	--	--
+
+--- TOTAL SCORE: 91
+
+ID	Nume	Prenume	Judet
+931	Diculescu	Alexandra	Dambovita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4013544
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4004040
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.055	Wrong answer in: panouri.out
+7	0	0.220	Wrong answer in: panouri.out
+8	0	0.220	Wrong answer in: panouri.out
+9	0	0.220	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3984052
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	>0.500	Timeout! (program crashes DOS environment)
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+932	Grigore	George	Dambovita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Error fact.cpp 14: Function 'rezolva' should have a prototype in function main()
+Error fact.cpp 22: Undefined symbol 'p' in function rezolva(int)
+Error fact.cpp 24: Undefined symbol 'transf' in function rezolva(int)
+Error fact.cpp 24: Statement missing ; in function rezolva(int)
+Error fact.cpp 31: Compound statement missing } in function rezolva(int)
+Error fact.cpp 31: Compound statement missing } in function rezolva(int)
+*** 6 errors in Compile ***
+
+        Available memory 4076384
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4065880
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.055	Wrong answer in: panouri.out
+7	0	0.604	Wrong answer in: panouri.out
+8	0	0.604	Wrong answer in: panouri.out
+9	0	0.934	Wrong answer in: panouri.out
+TOTAL	10	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Warning pereti.cpp 89: Possibly incorrect assignment in function bt(int,int)
+Warning pereti.cpp 89: Possibly incorrect assignment in function bt(int,int)
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4029500
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.055	Wrong answer in: pereti.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+933	Ozorchevici	Ana	Dambovita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4007192
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.165	Okay!
+5	10	0.495	Okay!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3959732
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	>0.500	Timeout! (program crashes DOS environment)
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	14	--	--
+
+--- TOTAL SCORE: 74
+
+ID	Nume	Prenume	Judet
+934	Savu	Robert	Dambovita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+935	Stancioiu	Eugen	Dambovita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+936	Stanciu	Florin	Dambovita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+937	Belgun	Adrian	Dolj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(3): Error 3: Unknown identifier.
+type rangeN=longword;
+            ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PANOURI.PAS(13): Error 96: Too many variables.
+    tCaract:panouric;
+                    ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+146 lines, 3584 bytes code, 40680 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	63	--	--
+
+--- TOTAL SCORE: 63
+
+ID	Nume	Prenume	Judet
+938	Pajarcu	Alexandru-Petrisor	Dolj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(4): Error 29: Ordinal type expected.
+prim:array[1..78498] of longint=(2,3,5,7,11,13,17,19,23,29,
+                   ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+53 lines, 4096 bytes code, 61384 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.110	Okay!
+4	10	0.549	Okay!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	50	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+258 lines, 7792 bytes code, 41338 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 150
+
+ID	Nume	Prenume	Judet
+939	Mihaila	Cristian	Galati
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4018364
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	>2.000	Timeout! (program crashes DOS environment)
+6	0	>2.000	Timeout! (program crashes DOS environment)
+7	0	>2.000	Timeout! (program crashes DOS environment)
+8	0	>2.000	Timeout! (program crashes DOS environment)
+9	0	>2.000	Timeout! (program crashes DOS environment)
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4001948
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.055	Okay!
+3	10	0.330	Okay!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4030928
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	45	--	--
+
+--- TOTAL SCORE: 95
+
+ID	Nume	Prenume	Judet
+940	Savin	Tiberiu-Daniel	Galati
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4030488
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.220	Wrong answer in: fact.out
+3	0	1.484	Wrong answer in: fact.out
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4030276
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.275	Okay!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	0.220	Wrong answer in: panouri.out
+TOTAL	40	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4041004
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	9	0.000	Okay!
+TOTAL	9	--	--
+
+--- TOTAL SCORE: 49
+
+ID	Nume	Prenume	Judet
+941	Solomon	Avner	Galati
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4021940
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.055	Wrong answer in: fact.out
+6	0	0.110	Wrong answer in: fact.out
+7	0	0.220	Wrong answer in: fact.out
+8	0	0.220	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4020380
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.110	Wrong answer in: panouri.out
+2	0	0.549	Wrong answer in: panouri.out
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3991800
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	6	0.000	Okay!
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.110	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	>0.500	Timeout! (program crashes DOS environment)
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	26	--	--
+
+--- TOTAL SCORE: 36
+
+ID	Nume	Prenume	Judet
+942	Radulescu	Sorin	Giurgiu
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4014440
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.055	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Warning panouri.cpp 46: Code has no effect in function elm()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4014972
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	>1.000	Timeout! (program crashes DOS environment)
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4024872
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	>0.500	Timeout! (program crashes DOS environment)
+12	0	>0.500	Timeout! (program crashes DOS environment)
+13	0	>0.500	Timeout! (program crashes DOS environment)
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+943	Achim	Ioan-Alexandru	Gorj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4064596
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4099064
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.385	Okay!
+5	10	0.989	Okay!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4092636
+>>>
+
+Test	Score	Time	Message
+0	0	>0.500	Timeout! (program crashes DOS environment)
+1	0	>0.500	Timeout! (program crashes DOS environment)
+2	0	>0.500	Timeout! (program crashes DOS environment)
+3	0	>0.500	Timeout! (program crashes DOS environment)
+4	0	>0.500	Timeout! (program crashes DOS environment)
+5	0	>0.500	Timeout! (program crashes DOS environment)
+6	0	>0.500	Timeout! (program crashes DOS environment)
+7	0	>0.500	Timeout! (program crashes DOS environment)
+8	0	>0.500	Timeout! (program crashes DOS environment)
+9	0	>0.500	Timeout! (program crashes DOS environment)
+10	0	>0.500	Timeout! (program crashes DOS environment)
+11	0	>0.500	Timeout! (program crashes DOS environment)
+12	0	>0.500	Timeout! (program crashes DOS environment)
+13	0	0.055	Wrong answer in: pereti.out
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+944	Giurconiu	Adrian-Ilie	Gorj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+28 lines, 3216 bytes code, 1200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+61 lines, 2976 bytes code, 34196 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.220	Okay!
+2	10	0.440	Okay!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+111 lines, 4832 bytes code, 61188 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.055	Wrong answer in: pereti.out
+TOTAL	18	--	--
+
+--- TOTAL SCORE: 58
+
+ID	Nume	Prenume	Judet
+945	Giuroiu	Marius-Cristian	Gorj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+38 lines, 16960 bytes code, 2142 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+35 lines, 3200 bytes code, 65204 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+45 lines, 4160 bytes code, 12022 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+946	Vladulescu	Adrian	Gorj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+418 lines, 11280 bytes code, 1208 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.055	Wrong answer in: fact.out
+5	0	0.165	Wrong answer in: fact.out
+6	10	0.165	Okay!
+7	0	0.275	Wrong answer in: fact.out
+8	0	0.549	Wrong answer in: fact.out
+9	0	0.110	Wrong answer in: fact.out
+TOTAL	30	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+45 lines, 2912 bytes code, 33200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PERETI.PAS(11): Error 3: Unknown identifier.
+  For j:=1 to n do Read(f,a[i,j]);
+                          ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+947	Sukosd	Hunor	Harghita
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+52 lines, 14816 bytes code, 61238 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.165	Wrong answer in: fact.out
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+47 lines, 2912 bytes code, 33948 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.220	Okay!
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+948	Homorodean	Andrei	Hunedoara
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4062048
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.055	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4090208
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4107656
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+949	Zota	Patricia	Hunedoara
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4063036
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	>2.000	Timeout! (program crashes DOS environment)
+8	0	0.000	Wrong answer in: fact.out
+9	0	>2.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4052604
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	>1.000	Timeout! (program crashes DOS environment)
+2	0	>1.000	Timeout! (program crashes DOS environment)
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+950	Cohal	Ruxandra	Iasi
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+58 lines, 3264 bytes code, 1204 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.055	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+79 lines, 3104 bytes code, 34202 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.275	Okay!
+7	10	0.714	Okay!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	80	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+191 lines, 4288 bytes code, 53232 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	6	0.000	Okay!
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+951	Pricop	Mircea	Iasi
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4021100
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Error pereti.cpp 4: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4037956
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+952	Stoian	Vlad	Iasi
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4013212
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4027720
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4011136
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.549	Time limit exceeded!
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+953	Codrea	Marcel	Maramures
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Error panouri.cpp 3: Array size too large
+Error panouri.cpp 4: Too much global data defined in file
+*** 2 errors in Compile ***
+
+        Available memory 4113132
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Error pereti.cpp 2: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4113148
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+954	Onea	Andrei	Mehedinti
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4023740
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.110	Wrong answer in: fact.out
+6	0	0.220	Wrong answer in: fact.out
+7	0	0.385	Wrong answer in: fact.out
+8	0	0.549	Wrong answer in: fact.out
+9	0	0.110	Wrong answer in: fact.out
+TOTAL	20	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+Error: Group DGROUP exceeds 64K
+
+        Available memory 4022372
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3992008
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+955	Izsak	Istvan	Mures
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4056692
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: fact.out
+1	0	0.000	Missing output file: fact.out
+2	0	0.549	Missing output file: fact.out
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4100384
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.769	Okay!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	20	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4105352
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+956	Puni	Andrei	Mures
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(10): Error 3: Unknown identifier.
+    aux:Int64;
+        ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+Error 49: Data segment too large.
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+60 lines, 2848 bytes code, 20940 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+957	Ionel	Bogdan	Neamt
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3957828
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4018412
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.055	Wrong answer in: panouri.out
+8	0	0.055	Wrong answer in: panouri.out
+9	0	0.110	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4024104
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+958	Danauta	Catrinel	Olt
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4021436
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4025196
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.110	Okay!
+4	10	0.659	Okay!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	50	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4019060
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	14	--	--
+
+--- TOTAL SCORE: 64
+
+ID	Nume	Prenume	Judet
+959	Radut	Rodica	Olt
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4021532
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.055	Okay!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	20	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4012820
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.055	Okay!
+2	10	0.495	Okay!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	30	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4014640
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+960	Lica	Adela	Prahova
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(2): Error 22: Structure too large.
+var a,c:array[0..50000] of integer;
+                                  ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+46 lines, 3488 bytes code, 63458 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.275	Okay!
+7	10	0.824	Okay!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	80	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+19 lines, 3008 bytes code, 1210 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	14	--	--
+
+--- TOTAL SCORE: 94
+
+ID	Nume	Prenume	Judet
+961	Sanduleac	Dan	Prahova
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Error fact.cpp 1: Unable to open include file 'iostream'
+Error fact.cpp 2: Declaration syntax error
+Error fact.cpp 5: Declaration syntax error
+Error fact.cpp 7: Array size too large
+Error fact.cpp 7: Too much global data defined in file
+*** 5 errors in Compile ***
+
+        Available memory 4134168
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Error panouri.cpp 1: Unable to open include file 'iostream'
+Error panouri.cpp 2: Unable to open include file 'queue'
+Error panouri.cpp 3: Unable to open include file 'algorithm'
+Error panouri.cpp 4: Declaration syntax error
+Error panouri.cpp 10: Declaration syntax error
+Error panouri.cpp 11: Declaration syntax error
+Error panouri.cpp 14: Undefined symbol 'INT_MAX' in function findmin()
+Error panouri.cpp 24: Undefined symbol 'fi' in function main()
+Error panouri.cpp 24: Function 'fopen' should have a prototype in function main()
+Error panouri.cpp 25: Undefined symbol 'fo' in function main()
+Error panouri.cpp 26: Function 'fscanf' should have a prototype in function main()
+Error panouri.cpp 29: Function 'memset' should have a prototype in function main()
+Error panouri.cpp 33: Function 'fprintf' should have a prototype in function main()
+Error panouri.cpp 44: Undefined symbol 'Q' in function main()
+*** 14 errors in Compile ***
+
+        Available memory 4120948
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Error pereti.cpp 1: Unable to open include file 'iostream'
+Error pereti.cpp 2: Declaration syntax error
+Error pereti.cpp 10: Declaration syntax error
+Error pereti.cpp 12: Declaration syntax error
+Error pereti.cpp 13: Variable 'pair' is initialized more than once
+Error pereti.cpp 13: Declaration syntax error
+Error pereti.cpp 17: Expression syntax in function lee(int,int)
+Error pereti.cpp 18: Undefined symbol 'C' in function lee(int,int)
+Error pereti.cpp 18: Function 'make_pair' should have a prototype in function lee(int,int)
+Error pereti.cpp 21: Undefined symbol 'crt' in function lee(int,int)
+Error pereti.cpp 25: Undefined symbol 'dir' in function lee(int,int)
+Error pereti.cpp 33: Undefined symbol 'fi' in function main()
+Error pereti.cpp 33: Function 'fopen' should have a prototype in function main()
+Error pereti.cpp 34: Undefined symbol 'fo' in function main()
+Error pereti.cpp 36: Function 'memset' should have a prototype in function main()
+Error pereti.cpp 39: Function 'fscanf' should have a prototype in function main()
+Error pereti.cpp 59: Function 'fprintf' should have a prototype in function main()
+Error pereti.cpp 60: Function 'fclose' should have a prototype in function main()
+*** 18 errors in Compile ***
+
+        Available memory 4120708
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+962	Savu	Victor	Prahova
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(2): Error 29: Ordinal type expected.
+var V:array[0..625000]of byte;
+                     ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+34 lines, 3312 bytes code, 65214 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.110	Wrong answer in: panouri.out
+7	0	0.275	Wrong answer in: panouri.out
+8	0	0.934	Wrong answer in: panouri.out
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+53 lines, 4448 bytes code, 40422 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+963	Sima	Cotizo	Prahova
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(2): Error 29: Ordinal type expected.
+	numar=array[0..100000]of integer;
+	                     ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+45 lines, 2960 bytes code, 36942 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.110	Okay!
+7	10	0.220	Okay!
+8	10	0.440	Okay!
+9	10	0.604	Okay!
+TOTAL	100	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+85 lines, 3536 bytes code, 42990 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	8	0.000	Okay!
+12	8	0.000	Okay!
+13	9	0.000	Okay!
+14	9	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 200
+
+ID	Nume	Prenume	Judet
+964	Jecan	Daniel	Salaj
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+No source file! (panouri.c, panouri.cpp or panouri.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+965	Balazs	Bela	Satu Mare
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+102 lines, 4336 bytes code, 2536 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.055	Wrong answer in: fact.out
+5	0	0.165	Wrong answer in: fact.out
+6	0	0.330	Wrong answer in: fact.out
+7	0	0.440	Wrong answer in: fact.out
+8	0	0.714	Wrong answer in: fact.out
+9	0	0.110	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+64 lines, 3440 bytes code, 37192 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+27 lines, 3088 bytes code, 41190 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+966	Barbu	Ruxandra	Satu Mare
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+80 lines, 3616 bytes code, 1268 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+57 lines, 3136 bytes code, 5202 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.110	Okay!
+8	10	0.110	Okay!
+9	10	0.165	Okay!
+TOTAL	100	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+133 lines, 4976 bytes code, 50940 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.055	Okay!
+5	0	0.110	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.275	Okay!
+9	6	0.055	Okay!
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.549	Time limit exceeded!
+12	0	0.220	Wrong answer in: pereti.out
+13	0	0.549	Time limit exceeded!
+14	0	0.549	Time limit exceeded!
+TOTAL	42	--	--
+
+--- TOTAL SCORE: 142
+
+ID	Nume	Prenume	Judet
+967	Badea	Victor	Sibiu
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4006036
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	2.033	Time limit exceeded!
+9	0	2.033	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4019892
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.604	Wrong answer in: panouri.out
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	>1.000	Timeout! (program crashes DOS environment)
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	10	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Warning pereti.cpp 18: Possibly incorrect assignment in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3982920
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	6	--	--
+
+--- TOTAL SCORE: 16
+
+ID	Nume	Prenume	Judet
+968	Fagarasan	Oana	Sibiu
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3999576
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4016068
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.275	Okay!
+5	0	0.714	Wrong answer in: panouri.out
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	50	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4017852
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+969	Traista	Alexandru	Suceava
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4088568
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	>2.000	Timeout! (program crashes DOS environment)
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	10	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4085164
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.110	Okay!
+5	10	0.275	Okay!
+6	0	1.044	Time limit exceeded!
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	60	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4087152
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+970	Vintur	Oana	Suceava
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.c:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4089808
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	0.000	Wrong answer in: fact.out
+3	0	0.000	Wrong answer in: fact.out
+4	0	0.000	Wrong answer in: fact.out
+5	0	0.000	Wrong answer in: fact.out
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.c:
+Warning panouri.c 90: Code has no effect in function main
+Warning panouri.c 93: Code has no effect in function main
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4087492
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.055	Wrong answer in: panouri.out
+8	0	0.110	Wrong answer in: panouri.out
+9	0	0.165	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.c:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4089616
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	6	0.000	Okay!
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	8	0.000	Okay!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+971	Ivanica	Dan-Alexandru	Teleorman
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+57 lines, 3184 bytes code, 63606 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	1.044	Time limit exceeded!
+1	0	0.000	Wrong answer in: panouri.out
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: panouri.out
+7	0	1.044	Time limit exceeded!
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+228 lines, 8752 bytes code, 23216 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.549	Time limit exceeded!
+12	0	0.000	Wrong answer in: pereti.out
+13	0	>0.500	Timeout! (program crashes DOS environment)
+14	0	>0.500	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+972	Popescu	Florin-Marius	Teleorman
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+66 lines, 3088 bytes code, 36690 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.110	Okay!
+4	10	0.769	Okay!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	50	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+973	Stoenescu	Radu	Teleorman
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+102 lines, 3232 bytes code, 62674 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.220	Okay!
+5	10	0.714	Okay!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+72 lines, 2960 bytes code, 11340 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	6	0.000	Okay!
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	6	--	--
+
+--- TOTAL SCORE: 66
+
+ID	Nume	Prenume	Judet
+974	Virtosu	Bogdan	Timis
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+fact.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4022632
+>>>
+
+Test	Score	Time	Message
+0	0	>2.000	Timeout! (program crashes DOS environment)
+1	0	>2.000	Timeout! (program crashes DOS environment)
+2	0	>2.000	Timeout! (program crashes DOS environment)
+3	0	>2.000	Timeout! (program crashes DOS environment)
+4	0	>2.000	Timeout! (program crashes DOS environment)
+5	0	>2.000	Timeout! (program crashes DOS environment)
+6	0	>2.000	Timeout! (program crashes DOS environment)
+7	0	>2.000	Timeout! (program crashes DOS environment)
+8	0	>2.000	Timeout! (program crashes DOS environment)
+9	0	>2.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4013860
+>>>
+
+Test	Score	Time	Message
+0	0	1.044	Time limit exceeded!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+pereti.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 3826992
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.000	Wrong answer in: pereti.out
+7	0	0.000	Wrong answer in: pereti.out
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.000	Wrong answer in: pereti.out
+10	0	0.000	Wrong answer in: pereti.out
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.000	Wrong answer in: pereti.out
+14	0	0.000	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+975	Coriu	Radu	Tulcea
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(12): Error 3: Unknown identifier.
+function fact(n:longint;b:byte):qword;
+                                ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PANOURI.PAS(3): Error 3: Unknown identifier.
+    panouri:array[1..15000] of smallint;
+                               ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+976	Iorga	Dan	Tulcea
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+FACT.PAS(6): Error 3: Unknown identifier.
+    s,cat:int64;
+          ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+34 lines, 2800 bytes code, 33202 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: panouri.out
+1	0	0.000	Missing output file: panouri.out
+2	0	0.000	Missing output file: panouri.out
+3	0	0.000	Missing output file: panouri.out
+4	0	0.000	Missing output file: panouri.out
+5	0	0.000	Missing output file: panouri.out
+6	0	0.275	Missing output file: panouri.out
+7	0	0.769	Missing output file: panouri.out
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+977	Marian	Cristian-Ovidiu	Tulcea
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+37 lines, 3056 bytes code, 1236 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	2.033	Time limit exceeded!
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	2.033	Time limit exceeded!
+7	0	2.033	Time limit exceeded!
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+45 lines, 3120 bytes code, 49202 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+978	Tudusciuc	Ioan	Vaslui
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+No source file! (fact.c, fact.cpp or fact.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+panouri.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4002660
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.165	Wrong answer in: panouri.out
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+No source file! (pereti.c, pereti.cpp or pereti.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+979	Duta	Vlad	Vilcea
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+70 lines, 4048 bytes code, 1274 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.055	Okay!
+6	10	0.110	Okay!
+7	10	0.165	Okay!
+8	10	0.330	Okay!
+9	10	0.055	Okay!
+TOTAL	100	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+54 lines, 3280 bytes code, 36942 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+52 lines, 3488 bytes code, 22566 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	6	0.000	Okay!
+1	6	0.000	Okay!
+2	6	0.000	Okay!
+3	6	0.000	Okay!
+4	6	0.000	Okay!
+5	6	0.000	Okay!
+6	6	0.000	Okay!
+7	6	0.000	Okay!
+8	6	0.000	Okay!
+9	6	0.000	Okay!
+10	6	0.000	Okay!
+11	0	0.000	Missing output file: pereti.out
+12	8	0.000	Okay!
+13	0	0.000	Missing output file: pereti.out
+14	0	0.000	Missing output file: pereti.out
+TOTAL	74	--	--
+
+--- TOTAL SCORE: 274
+
+ID	Nume	Prenume	Judet
+980	Bujor	Alexandra	Vrancea
+
+Results for: total
+
+### Problema: fact
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+30 lines, 3072 bytes code, 21394 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: fact.out
+1	0	0.000	Wrong answer in: fact.out
+2	0	2.033	Time limit exceeded!
+3	0	2.033	Time limit exceeded!
+4	0	2.033	Time limit exceeded!
+5	0	2.033	Time limit exceeded!
+6	0	0.000	Wrong answer in: fact.out
+7	0	0.000	Wrong answer in: fact.out
+8	0	0.000	Wrong answer in: fact.out
+9	0	0.000	Wrong answer in: fact.out
+TOTAL	0	--	--
+
+### Problema: panouri
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+27 lines, 2704 bytes code, 64192 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: panouri.out
+1	0	0.000	Wrong answer in: panouri.out
+2	0	0.000	Wrong answer in: panouri.out
+3	0	0.000	Wrong answer in: panouri.out
+4	0	0.000	Wrong answer in: panouri.out
+5	0	0.000	Wrong answer in: panouri.out
+6	0	0.000	Wrong answer in: panouri.out
+7	0	0.000	Wrong answer in: panouri.out
+8	0	0.000	Wrong answer in: panouri.out
+9	0	0.000	Wrong answer in: panouri.out
+TOTAL	0	--	--
+
+### Problema: pereti
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+29 lines, 2720 bytes code, 21598 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: pereti.out
+1	0	0.000	Wrong answer in: pereti.out
+2	0	0.000	Wrong answer in: pereti.out
+3	0	0.000	Wrong answer in: pereti.out
+4	0	0.000	Wrong answer in: pereti.out
+5	0	0.000	Wrong answer in: pereti.out
+6	0	0.549	Time limit exceeded!
+7	0	0.549	Time limit exceeded!
+8	0	0.000	Wrong answer in: pereti.out
+9	0	0.549	Time limit exceeded!
+10	0	0.549	Time limit exceeded!
+11	0	0.000	Wrong answer in: pereti.out
+12	0	0.000	Wrong answer in: pereti.out
+13	0	0.549	Time limit exceeded!
+14	0	0.055	Wrong answer in: pereti.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+

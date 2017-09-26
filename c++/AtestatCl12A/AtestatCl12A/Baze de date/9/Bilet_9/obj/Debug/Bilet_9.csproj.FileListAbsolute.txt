@@ -1,0 +1,11 @@
+D:\12 A\C#\Bilet_9\Bilet_9\bin\Debug\Bilet_9.exe.config
+D:\12 A\C#\Bilet_9\Bilet_9\bin\Debug\Database1.mdf
+D:\12 A\C#\Bilet_9\Bilet_9\bin\Debug\Database1_log.ldf
+D:\12 A\C#\Bilet_9\Bilet_9\bin\Debug\Bilet_9.exe
+D:\12 A\C#\Bilet_9\Bilet_9\bin\Debug\Bilet_9.pdb
+D:\12 A\C#\Bilet_9\Bilet_9\obj\Debug\Bilet_9.csprojResolveAssemblyReference.cache
+D:\12 A\C#\Bilet_9\Bilet_9\obj\Debug\Bilet_9.Form1.resources
+D:\12 A\C#\Bilet_9\Bilet_9\obj\Debug\Bilet_9.Properties.Resources.resources
+D:\12 A\C#\Bilet_9\Bilet_9\obj\Debug\Bilet_9.csproj.GenerateResource.Cache
+D:\12 A\C#\Bilet_9\Bilet_9\obj\Debug\Bilet_9.exe
+D:\12 A\C#\Bilet_9\Bilet_9\obj\Debug\Bilet_9.pdb

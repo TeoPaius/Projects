@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1425806693 source:f:\c++\algoritmiada 2015 r2\twosets\main.cpp
+	<fstream>
+	<string>
+	<vector>
+	<set>
+

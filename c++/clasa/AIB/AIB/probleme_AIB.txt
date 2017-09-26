@@ -1,0 +1,24 @@
+Infoarena
+ AIB
+ Datorii 
+ Cuburi3 - Gr. Moisil 2009
+ Ben
+ Evantai
+ Order
+ Schi
+
+campion.edu.ro
+  Concurs1
+
+acm.timus.ru
+1028,1090,1521,1523
+
+(AIB = BIT - Binary Indexed Trees)
+AIB pe SPOJ :
+https://www.spoj.pl/problems/NKMOBILE/
+6256. INVCNT
+6294. YODANESS (la fel ca INVCNT dar string)
+8002. HORRIBLE (BIT or segment tree (arbori de intervale))
+2815. INCSEQ (DP + BIT)
+1329. KPMATRIX (DP + BIT)
+1029. MATSUM (BIT 2D)

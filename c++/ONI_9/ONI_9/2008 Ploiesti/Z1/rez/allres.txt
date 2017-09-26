@@ -1,0 +1,5448 @@
+ID	Nume	Prenume	Judet
+0091111	Petcu	Ion-Cristian	Dolj
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091111/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091111/ab.cpp:10:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Fisier incomplet!
+2	0	0.000	Fisier incomplet!
+3	0	0.000	Fisier incomplet!
+4	0	0.000	Fisier incomplet!
+5	0	0.000	Fisier incomplet!
+6	0	0.000	Fisier incomplet!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091111/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	0	0.000	Wrong answer in: iepuras.out
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Killed by signal: 11
+8	0	0.010	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.010	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	0	0.000	Wrong answer in: iepuras.out
+19	5	0.000	Okay!
+TOTAL	30	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091111/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.150	Wrong answer in: palind.out
+5	0	0.060	Wrong answer in: palind.out
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+0091112	Dudu	Adrian	Teleorman
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091113	Dumitrescu	Victor	Iasi
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091114	Cohal	Alexandru	Iasi
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091106	Traistaru	Cristian	Brasov
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0091106/ab.cpp:7: `main' must return `int'
+stud/0091106/ab.cpp:48:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0091106/iepuras.cpp:2:19: conio.h: No such file or directory
+stud/0091106/iepuras.cpp:26: `main' must return `int'
+stud/0091106/iepuras.cpp:188:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091107	Albu	Alexandru	Iasi
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Fisier incomplet!
+4	0	0.000	Fisier incomplet!
+5	0	0.000	Fisier incomplet!
+6	0	0.000	Fisier incomplet!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	0	0.000	Wrong answer in: iepuras.out
+14	5	0.000	Okay!
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	85	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.020	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 105
+
+ID	Nume	Prenume	Judet
+0091108	Chelaru	Traian-Andrei	Teleorman
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.010	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.010	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.020	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0091109	Moldovan	Mihai	Bn
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0091109/ab.cpp:18:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0091109/iepuras.cpp:84:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Wrong answer in: iepuras.out
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.000	Wrong answer in: iepuras.out
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.010	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.020	Wrong answer in: iepuras.out
+10	0	0.000	Killed by signal: 11
+11	0	0.010	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.000	Wrong answer in: iepuras.out
+17	0	0.000	Wrong answer in: iepuras.out
+18	0	0.101	Time limit exceeded!
+19	0	0.000	Wrong answer in: iepuras.out
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0091109/palind.cpp:31:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.130	Wrong answer in: palind.out
+5	0	0.070	Wrong answer in: palind.out
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0091110	Vicol	Sergiu-Constantin	Iasi
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	10	0.000	OK!!
+4	10	0.000	OK!!
+5	10	0.000	OK!!
+6	10	0.000	OK!!
+7	10	0.000	OK!!
+8	10	0.000	OK!!
+9	10	0.000	OK!!
+10	10	0.000	OK!!
+TOTAL	100	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.020	Okay!
+9	5	0.000	Okay!
+10	5	0.020	Okay!
+11	5	0.000	Okay!
+12	5	0.020	Okay!
+13	5	0.000	Okay!
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	85	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	10	0.150	Okay!
+5	10	0.090	Okay!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 225
+
+ID	Nume	Prenume	Judet
+0091115	Mateescu	Maria	Iasi
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Fisier incomplet!
+4	0	0.000	Fisier incomplet!
+5	0	0.000	Fisier incomplet!
+6	0	0.000	Fisier incomplet!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	65	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.000	Nonzero exit status: 216
+5	0	0.000	Nonzero exit status: 216
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Nonzero exit status: 216
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 85
+
+ID	Nume	Prenume	Judet
+0091100	Crintea	Octavian	Dâmbovita
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091100/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091100/ab.cpp:85:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Nu este o permutare!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Nu este o permutare!
+7	0	0.000	Nu este o permutare!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Nu este o permutare!
+10	0	0.000	Nu este o permutare!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091100/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0091100/iepuras.cpp: In function `int main()':
+stud/0091100/iepuras.cpp:7: parse error before `return'
+stud/0091100/iepuras.cpp:8:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0091100/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.130	Wrong answer in: palind.out
+5	0	0.080	Wrong answer in: palind.out
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0091101	Cazacu	Alexandru-George	Dolj
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	0	0.101	Time limit exceeded!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	0	0.101	Time limit exceeded!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	0	0.000	Wrong answer in: iepuras.out
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	0	0.000	Wrong answer in: iepuras.out
+12	5	0.000	Okay!
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.000	Wrong answer in: iepuras.out
+17	0	0.000	Wrong answer in: iepuras.out
+18	0	0.101	Time limit exceeded!
+19	0	0.101	Time limit exceeded!
+TOTAL	45	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.201	Time limit exceeded!
+1	0	0.201	Time limit exceeded!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 65
+
+ID	Nume	Prenume	Judet
+0091102	Canta	Andrei	Maramures
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	0	0.000	Nonzero exit status: 103
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	0	0.000	Nonzero exit status: 103
+6	5	0.000	Okay!
+7	0	0.000	Nonzero exit status: 103
+8	0	0.000	Nonzero exit status: 103
+9	0	0.000	Nonzero exit status: 103
+10	0	0.000	Nonzero exit status: 103
+11	0	0.000	Nonzero exit status: 103
+12	0	0.000	Nonzero exit status: 103
+13	0	0.010	Wrong answer in: iepuras.out
+14	5	0.000	Okay!
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	50	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.020	Wrong answer in: palind.out
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.010	Wrong answer in: palind.out
+7	0	0.010	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.030	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+0091103	Mandache	Robert-Alexandru	Teleorman
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091104	Csorba	Lorand	Bn
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091105	Orban	Szabolcs	Covasna
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Fisier incomplet!
+4	0	0.000	Fisier incomplet!
+5	0	0.000	Fisier incomplet!
+6	0	0.000	Fisier incomplet!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Nonzero exit status: 216
+8	0	0.000	Nonzero exit status: 216
+9	0	0.000	Nonzero exit status: 216
+10	0	0.000	Nonzero exit status: 216
+11	0	0.000	Nonzero exit status: 216
+12	0	0.000	Nonzero exit status: 216
+13	0	0.000	Wrong answer in: iepuras.out
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	0	0.000	Wrong answer in: iepuras.out
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	50	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.100	Wrong answer in: palind.out
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+0093004	Potinteu	Mihail	Alba
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Wrong answer in: iepuras.out
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.000	Wrong answer in: iepuras.out
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.000	Wrong answer in: iepuras.out
+17	0	0.000	Wrong answer in: iepuras.out
+18	0	0.000	Wrong answer in: iepuras.out
+19	0	0.000	Wrong answer in: iepuras.out
+TOTAL	0	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093007	Stan	Catalin	Alba
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093009	Danci	Emanuel	Arad
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0093009/ab.cpp:86:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0093009/iepuras.cpp:13:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Wrong answer in: iepuras.out
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.000	Wrong answer in: iepuras.out
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.000	Wrong answer in: iepuras.out
+17	0	0.000	Wrong answer in: iepuras.out
+18	0	0.000	Wrong answer in: iepuras.out
+19	0	0.000	Wrong answer in: iepuras.out
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0093009/palind.cpp:24:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.201	Time limit exceeded!
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093018	Iordache	Albert	Bihor
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0093018/ab.cpp:63:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0093018/iepuras.cpp:113:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Wrong answer in: iepuras.out
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.000	Wrong answer in: iepuras.out
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.000	Wrong answer in: iepuras.out
+17	0	0.000	Wrong answer in: iepuras.out
+18	0	0.000	Wrong answer in: iepuras.out
+19	0	0.000	Wrong answer in: iepuras.out
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0093018/palind.cpp: In function `void bktr(int)':
+stud/0093018/palind.cpp:40: warning: the address of `int valid()', will always 
+   be `true'
+stud/0093018/palind.cpp: In function `int main()':
+stud/0093018/palind.cpp:51: `t' undeclared (first use this function)
+stud/0093018/palind.cpp:51: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093015	Onutu	Catalin	Cluj
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093015/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093015/ab.cpp:4: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093015/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093015/iepuras.cpp:47: `main' must return `int'
+stud/0093015/iepuras.cpp:167:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093015/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093015/palind.cpp:4: `main' must return `int'
+stud/0093015/palind.cpp:21:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093014	Bazu	Bogdan	Cluj
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093014/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093014/ab.cpp:22:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093014/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093014/iepuras.cpp:139:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	5	0.010	Okay!
+1	5	0.000	Okay!
+2	0	0.000	Wrong answer in: iepuras.out
+3	5	0.000	Okay!
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	5	0.000	Okay!
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	55	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093014/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093014/palind.cpp:111:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.180	Wrong answer in: palind.out
+5	0	0.080	Wrong answer in: palind.out
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 75
+
+ID	Nume	Prenume	Judet
+0093011	Balan	Catalin	Cluj
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0093011/ab.cpp:88:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.010	Killed by signal: 11
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	95	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.070	Okay!
+3	10	0.060	Okay!
+4	10	0.000	Okay!
+5	10	0.000	Okay!
+6	10	0.010	Okay!
+7	10	0.040	Okay!
+8	10	0.070	Okay!
+9	10	0.040	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 215
+
+ID	Nume	Prenume	Judet
+0093008	Teodorescu	Ioana	Giurgiu
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0093008/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093008/ab.cpp:6: `main' must return `int'
+stud/0093008/ab.cpp: In function `int main(...)':
+stud/0093008/ab.cpp:15: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:16: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:17: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:17: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:21: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:22: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:23: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:23: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:31: invalid types `int[int]' for array subscript
+stud/0093008/ab.cpp:31: invalid types `int[int]' for array subscript
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093008/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093008/iepuras.cpp:2:2: invalid preprocessing directive #inculde
+stud/0093008/iepuras.cpp:4: `main' must return `int'
+stud/0093008/iepuras.cpp: In function `int main(...)':
+stud/0093008/iepuras.cpp:5: `unsgined' undeclared (first use this function)
+stud/0093008/iepuras.cpp:5: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0093008/iepuras.cpp:5: parse error before `int'
+stud/0093008/iepuras.cpp:6: `m' undeclared (first use this function)
+stud/0093008/iepuras.cpp:6: `n' undeclared (first use this function)
+stud/0093008/iepuras.cpp:7: `ios' undeclared (first use this function)
+stud/0093008/iepuras.cpp:7: parse error before `::' token
+stud/0093008/iepuras.cpp:8: parse error before `::' token
+stud/0093008/iepuras.cpp:10: `a' undeclared (first use this function)
+stud/0093008/iepuras.cpp:10: `b' undeclared (first use this function)
+stud/0093008/iepuras.cpp:10: `h' undeclared (first use this function)
+stud/0093008/iepuras.cpp:11: `v' undeclared (first use this function)
+stud/0093008/iepuras.cpp:12: parse error at end of input
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0093008/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093008/palind.cpp:6: `main' must return `int'
+stud/0093008/palind.cpp: In function `int main(...)':
+stud/0093008/palind.cpp:11: ambiguous overload for `std::fstream& >> int' 
+   operator
+/usr/include/c++/3.2.2/bits/istream.tcc:83: candidates are: 
+   std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, 
+   _Traits>::operator>>(std::basic_istream<_CharT, 
+   _Traits>&(*)(std::basic_istream<_CharT, _Traits>&)) [with _CharT = char, 
+   _Traits = std::char_traits<char>] <near match>
+/usr/include/c++/3.2.2/bits/istream.tcc:92:                 
+   std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, 
+   _Traits>::operator>>(std::basic_ios<_CharT, 
+   _Traits>&(*)(std::basic_ios<_CharT, _Traits>&)) [with _CharT = char, _Traits 
+   = std::char_traits<char>] <near match>
+/usr/include/c++/3.2.2/bits/istream.tcc:101:                 
+   std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, 
+   _Traits>::operator>>(std::ios_base&(*)(std::ios_base&)) [with _CharT = char, 
+   _Traits = std::char_traits<char>] <near match>
+/usr/include/c++/3.2.2/bits/istream.tcc:483:                 
+   std::basic_istream<_CharT, _Traits>& std::basic_istream<_CharT, 
+   _Traits>::operator>>(std::basic_streambuf<_CharT, _Traits>*) [with _CharT = 
+   char, _Traits = std::char_traits<char>] <near match>
+/usr/include/c++/3.2.2/istream:255:                 std::basic_istream<char, 
+   _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, signed char*) 
+   [with _Traits = std::char_traits<char>] <near match>
+/usr/include/c++/3.2.2/istream:250:                 std::basic_istream<char, 
+   _Traits>& std::operator>>(std::basic_istream<char, _Traits>&, unsigned 
+   char*) [with _Traits = std::char_traits<char>] <near match>
+stud/0093008/palind.cpp:35: warning: assignment to `int' from `double'
+stud/0093008/palind.cpp:35: warning: argument to `int' from `double'
+stud/0093008/palind.cpp:36: warning: assignment to `int' from `double'
+stud/0093008/palind.cpp:36: warning: argument to `int' from `double'
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093002	Stanescu	Ana-Maria	Hunedoara
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	7	0.000	Aproape bine!
+2	7	0.000	Aproape bine!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	14	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 103
+1	0	0.000	Nonzero exit status: 103
+2	0	0.000	Nonzero exit status: 103
+3	0	0.000	Nonzero exit status: 103
+4	0	0.000	Nonzero exit status: 103
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Nonzero exit status: 103
+7	0	0.000	Nonzero exit status: 103
+8	0	0.000	Nonzero exit status: 103
+9	0	0.000	Nonzero exit status: 103
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 14
+
+ID	Nume	Prenume	Judet
+0093021	Ionescu	Maria	Olt
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093023	Balauru	Paul-Stefan	Olt
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093001	Voicu	Bianca-Ioana	Prahova
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093003	Diaconu	Loredana-Mihaela	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.050	Wrong answer in: palind.out
+3	0	0.020	Wrong answer in: palind.out
+4	0	0.010	Wrong answer in: palind.out
+5	0	0.020	Wrong answer in: palind.out
+6	0	0.020	Wrong answer in: palind.out
+7	0	0.060	Wrong answer in: palind.out
+8	0	0.040	Wrong answer in: palind.out
+9	0	0.030	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 120
+
+ID	Nume	Prenume	Judet
+0093006	Ghinea	Razvan	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.101	Time limit exceeded!
+17	5	0.010	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	75	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.050	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 95
+
+ID	Nume	Prenume	Judet
+0093016	Mahu	Razvan	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	0	0.000	Wrong answer in: iepuras.out
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	0	0.000	Wrong answer in: iepuras.out
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	0	0.000	Wrong answer in: iepuras.out
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	75	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.010	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.010	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.010	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 75
+
+ID	Nume	Prenume	Judet
+0093028	Ionescu	Victor-Cristian	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	95	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.010	Okay!
+3	10	0.000	Okay!
+4	10	0.020	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.030	Okay!
+8	10	0.030	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 215
+
+ID	Nume	Prenume	Judet
+0093019	Ioan	Daniel-Mihail	Prahova
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093030	Sandulescu	Georgiana-Alexandra	Prahova
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093005	Ortan	Sebastian	Salaj
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093010	Bruda	Claudiu-Marcel	Sibiu
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093010/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093010/ab.cpp:29:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Nu este o permutare!
+2	0	0.000	Nu este o permutare!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Nu este o permutare!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Nu este o permutare!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Nu este o permutare!
+10	0	0.000	Raspuns gresit!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093010/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	0	0.010	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.020	Wrong answer in: iepuras.out
+10	0	0.010	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.020	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	55	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093010/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093010/palind.cpp: In function `int main()':
+stud/0093010/palind.cpp:11: parse error before `.' token
+stud/0093010/palind.cpp:14:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 55
+
+ID	Nume	Prenume	Judet
+0093013	Lupascu	Catalina	Suceava
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093017	Sarca	Adela	Timis
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093017/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093017/ab.cpp:77:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.010	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093017/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093017/iepuras.cpp:91:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	5	0.000	Okay!
+2	0	0.000	Wrong answer in: iepuras.out
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.010	Wrong answer in: iepuras.out
+10	5	0.000	Okay!
+11	5	0.020	Okay!
+12	5	0.000	Okay!
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	0	0.000	Wrong answer in: iepuras.out
+TOTAL	45	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093017/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0093017/palind.cpp:16:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.170	Wrong answer in: palind.out
+5	0	0.050	Wrong answer in: palind.out
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 65
+
+ID	Nume	Prenume	Judet
+0093026	Glodeanu	Daniel	Valcea
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	0	0.000	Nu este o permutare!
+2	0	0.000	Nu este o permutare!
+3	0	0.000	Nu este o permutare!
+4	0	0.000	Nu este o permutare!
+5	0	0.000	Nu este o permutare!
+6	0	0.000	Nu este o permutare!
+7	0	0.000	Nu este o permutare!
+8	0	0.000	Nu este o permutare!
+9	0	0.000	Nu este o permutare!
+10	0	0.000	Nu este o permutare!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	50	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0093024	Gusoi	Codrut 	Valcea
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093027	Nicodei-Groper	Eduard	Vrancea
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+/usr/lib/gcc-lib/i386-redhat-linux/3.2.2/../../../crt1.o(.text+0x18): In function `_start':
+../sysdeps/i386/elf/start.S:77: undefined reference to `main'
+collect2: ld returned 1 exit status
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	0.000	Killed by signal: 11
+1	0	0.000	Killed by signal: 11
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.010	Killed by signal: 11
+13	0	0.000	Killed by signal: 11
+14	0	0.000	Killed by signal: 11
+15	0	0.000	Killed by signal: 11
+16	0	0.000	Killed by signal: 11
+17	0	0.000	Killed by signal: 11
+18	0	0.000	Killed by signal: 11
+19	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+/usr/lib/gcc-lib/i386-redhat-linux/3.2.2/../../../crt1.o(.text+0x18): In function `_start':
+../sysdeps/i386/elf/start.S:77: undefined reference to `main'
+collect2: ld returned 1 exit status
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093020	Vasiliev	Iulian	Vrancea
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0093020/ab.cpp:2:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Nu este o permutare!
+2	7	0.000	Aproape bine!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Nu este o permutare!
+8	0	0.000	Nu este o permutare!
+9	0	0.000	Nu este o permutare!
+10	0	0.000	Raspuns gresit!
+TOTAL	7	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0093020/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Wrong answer in: iepuras.out
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+11	0	0.101	Time limit exceeded!
+12	0	0.101	Time limit exceeded!
+13	0	0.101	Time limit exceeded!
+14	0	0.101	Time limit exceeded!
+15	0	0.101	Time limit exceeded!
+16	0	0.101	Time limit exceeded!
+17	0	0.101	Time limit exceeded!
+18	0	0.101	Time limit exceeded!
+19	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0093020/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: palind.out
+1	0	0.000	Missing output file: palind.out
+2	0	0.000	Missing output file: palind.out
+3	0	0.010	Missing output file: palind.out
+4	0	0.000	Missing output file: palind.out
+5	0	0.000	Missing output file: palind.out
+6	0	0.000	Missing output file: palind.out
+7	0	0.000	Missing output file: palind.out
+8	0	0.000	Missing output file: palind.out
+9	0	0.000	Missing output file: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 7
+
+ID	Nume	Prenume	Judet
+0093012	Voroneanu	Radu-Stefan	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	95	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.030	Wrong answer in: palind.out
+3	0	0.010	Wrong answer in: palind.out
+4	0	0.020	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.040	Wrong answer in: palind.out
+7	0	0.040	Wrong answer in: palind.out
+8	0	0.070	Wrong answer in: palind.out
+9	0	0.030	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 115
+
+ID	Nume	Prenume	Judet
+0093022	Tamas	Iulia	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Fisier incomplet!
+4	0	0.000	Fisier incomplet!
+5	0	0.000	Fisier incomplet!
+6	0	0.000	Fisier incomplet!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	55	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 75
+
+ID	Nume	Prenume	Judet
+0093025	Purice	Andrei	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	0	0.000	Raspuns gresit!
+2	0	0.000	Raspuns gresit!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	65	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.030	Okay!
+3	10	0.000	Okay!
+4	10	0.010	Okay!
+5	10	0.000	Okay!
+6	10	0.020	Okay!
+7	10	0.010	Okay!
+8	10	0.040	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 165
+
+ID	Nume	Prenume	Judet
+0093031	Petcu	Marius	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.050	Wrong answer in: palind.out
+3	0	0.030	Wrong answer in: palind.out
+4	0	0.020	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.030	Wrong answer in: palind.out
+8	0	0.070	Wrong answer in: palind.out
+9	0	0.030	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 120
+
+ID	Nume	Prenume	Judet
+0093032	Vlad	Costin	Prahova
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093033	Nedelcu	Tudor	Prahova
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.010	OK!!
+2	10	0.000	OK!!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	0	0.000	Wrong answer in: iepuras.out
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	0	0.000	Wrong answer in: iepuras.out
+6	5	0.000	Okay!
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	45	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.020	Wrong answer in: palind.out
+7	0	0.020	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 65
+
+ID	Nume	Prenume	Judet
+0093029	Vacaroiu	Andrei	Valcea
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 106
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Nonzero exit status: 106
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.000	Nonzero exit status: 106
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Nonzero exit status: 106
+7	0	0.010	Nonzero exit status: 106
+8	0	0.000	Nonzero exit status: 106
+9	0	0.000	Nonzero exit status: 106
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Nonzero exit status: 106
+14	0	0.000	Nonzero exit status: 106
+15	0	0.000	Nonzero exit status: 106
+16	0	0.000	Nonzero exit status: 106
+17	0	0.000	Nonzero exit status: 106
+18	0	0.000	Nonzero exit status: 106
+19	0	0.000	Nonzero exit status: 106
+TOTAL	0	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.080	Wrong answer in: palind.out
+3	0	0.050	Wrong answer in: palind.out
+4	0	0.040	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.050	Wrong answer in: palind.out
+7	0	0.110	Wrong answer in: palind.out
+8	0	0.120	Wrong answer in: palind.out
+9	0	0.080	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092001	Gavrila	Vlad-Alexandru	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	75	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.020	Wrong answer in: palind.out
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.020	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.020	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 95
+
+ID	Nume	Prenume	Judet
+0092002	Stan	Serban-Andrei	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	0	0.000	Wrong answer in: iepuras.out
+14	5	0.000	Okay!
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	85	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 125
+
+ID	Nume	Prenume	Judet
+0092003	Taloi	Bogdan-Cristian	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092004	Zernoveanu	Radu	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0092004/ab.cpp:163:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0092004/iepuras.cpp:274:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	5	0.000	Okay!
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Killed by signal: 11
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	0	0.000	Killed by signal: 11
+18	0	0.000	Killed by signal: 11
+19	5	0.000	Okay!
+TOTAL	35	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0092004/palind.cpp:22:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.020	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.010	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.020	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 35
+
+ID	Nume	Prenume	Judet
+0092005	Pripoaie	Teodor-Anton	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	10	0.000	OK!!
+4	10	0.000	OK!!
+5	10	0.000	OK!!
+6	10	0.000	OK!!
+7	10	0.000	OK!!
+8	10	0.000	OK!!
+9	10	0.000	OK!!
+10	10	0.000	OK!!
+TOTAL	100	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.010	Okay!
+3	10	0.000	Okay!
+4	10	0.010	Okay!
+5	10	0.000	Okay!
+6	10	0.000	Okay!
+7	10	0.030	Okay!
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	100	--	--
+
+--- TOTAL SCORE: 300
+
+ID	Nume	Prenume	Judet
+0092006	Plop	Teodor-Daniel	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0092006/ab.cpp:54:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	7	0.000	Aproape bine!
+4	7	0.000	Aproape bine!
+5	7	0.000	Aproape bine!
+6	7	0.000	Aproape bine!
+7	7	0.000	Aproape bine!
+8	7	0.000	Aproape bine!
+9	7	0.000	Aproape bine!
+10	7	0.000	Aproape bine!
+TOTAL	76	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+stud/0092006/iepuras.cpp:151:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.101	Time limit exceeded!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	45	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0092006/palind.cpp:90:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.050	Wrong answer in: palind.out
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.040	Wrong answer in: palind.out
+8	0	0.010	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 121
+
+ID	Nume	Prenume	Judet
+0092007	Vlad	Radu-Cristian	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	0	0.000	Raspuns gresit!
+2	0	0.000	Raspuns gresit!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+0092008	Naiba	Lucian	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092009	Barbulescu	Dan	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	85	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.020	Wrong answer in: palind.out
+3	0	0.010	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.010	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.020	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 105
+
+ID	Nume	Prenume	Judet
+0092010	Tataranu	Vlad-Bogdan	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.050	Wrong answer in: palind.out
+3	0	0.020	Wrong answer in: palind.out
+4	0	0.010	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.040	Wrong answer in: palind.out
+7	0	0.040	Wrong answer in: palind.out
+8	0	0.030	Wrong answer in: palind.out
+9	0	0.040	Wrong answer in: palind.out
+TOTAL	10	--	--
+
+--- TOTAL SCORE: 130
+
+ID	Nume	Prenume	Judet
+0092011	Tache	Alexandru	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Fisier incomplet!
+4	0	0.000	Fisier incomplet!
+5	0	0.000	Fisier incomplet!
+6	0	0.000	Fisier incomplet!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	85	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.010	Wrong answer in: palind.out
+3	0	0.030	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.010	Wrong answer in: palind.out
+8	0	0.040	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 105
+
+ID	Nume	Prenume	Judet
+0092012	Pandele	Ioana	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.101	Time limit exceeded!
+8	0	0.101	Time limit exceeded!
+9	0	0.101	Time limit exceeded!
+10	0	0.101	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	5	0.000	Okay!
+11	5	0.000	Okay!
+12	5	0.000	Okay!
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	100	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.010	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+0092013	Poenaru	Andrei	Bucuresti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	0	0.000	Killed by signal: 11
+3	0	0.000	Killed by signal: 11
+4	0	0.000	Killed by signal: 11
+5	0	0.010	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.000	Killed by signal: 11
+14	0	0.000	Killed by signal: 11
+15	0	0.000	Killed by signal: 11
+16	5	0.000	Okay!
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	30	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0092014	Tiganus	Mihai	Buzau
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092014/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092014/ab.cpp:34:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	7	0.000	Aproape bine!
+2	0	0.000	Nu este o permutare!
+3	0	0.000	Nu este o permutare!
+4	0	0.000	Nu este o permutare!
+5	0	0.000	Nu este o permutare!
+6	0	0.000	Nu este o permutare!
+7	0	0.000	Nu este o permutare!
+8	0	0.000	Nu este o permutare!
+9	0	0.000	Nu este o permutare!
+10	0	0.000	Fisier incomplet!
+TOTAL	7	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092014/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092014/iepuras.cpp: In function `int main()':
+stud/0092014/iepuras.cpp:87: `cout' undeclared (first use this function)
+stud/0092014/iepuras.cpp:87: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0092014/iepuras.cpp:354:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092014/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092014/palind.cpp:32:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.150	Wrong answer in: palind.out
+5	0	0.050	Wrong answer in: palind.out
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 7
+
+ID	Nume	Prenume	Judet
+0092015	Mircea	Dragos	Braila
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092016	Matei	Silviu	Braila
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092016/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092016/iepuras.cpp:150:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	0	0.000	Wrong answer in: iepuras.out
+2	5	0.000	Okay!
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.000	Killed by signal: 11
+5	0	0.000	Killed by signal: 11
+6	0	0.000	Killed by signal: 11
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.000	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+11	0	0.000	Killed by signal: 11
+12	0	0.000	Killed by signal: 11
+13	0	0.020	Killed by signal: 11
+14	0	0.000	Killed by signal: 11
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.000	Killed by signal: 11
+17	0	0.000	Killed by signal: 11
+18	0	0.000	Killed by signal: 11
+19	0	0.000	Wrong answer in: iepuras.out
+TOTAL	10	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092017	Harabula	Adrian	Braila
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Wrong answer in: iepuras.out
+3	0	0.000	Wrong answer in: iepuras.out
+4	0	0.000	Wrong answer in: iepuras.out
+5	0	0.000	Wrong answer in: iepuras.out
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.000	Wrong answer in: iepuras.out
+17	0	0.000	Wrong answer in: iepuras.out
+18	0	0.000	Wrong answer in: iepuras.out
+19	0	0.000	Wrong answer in: iepuras.out
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092018	Patru	Mihai-Ovidiu	Arges
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092018/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092018/ab.cpp: In function `int main()':
+stud/0092018/ab.cpp:6: `ios' undeclared (first use this function)
+stud/0092018/ab.cpp:6: (Each undeclared identifier is reported only once for 
+   each function it appears in.)
+stud/0092018/ab.cpp:6: parse error before `::' token
+stud/0092018/ab.cpp:9: parse error before `::' token
+stud/0092018/ab.cpp:42:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092018/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092018/iepuras.cpp: In function `int main()':
+stud/0092018/iepuras.cpp:7: `ios' undeclared (first use this function)
+stud/0092018/iepuras.cpp:7: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0092018/iepuras.cpp:7: parse error before `::' token
+stud/0092018/iepuras.cpp:27: parse error before `::' token
+stud/0092018/iepuras.cpp:101:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092018/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092018/palind.cpp: In function `int main()':
+stud/0092018/palind.cpp:7: `ios' undeclared (first use this function)
+stud/0092018/palind.cpp:7: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0092018/palind.cpp:7: parse error before `::' token
+stud/0092018/palind.cpp:9: parse error before `::' token
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092019	Tudor	Ana-Maria-Mihaela	Arges
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092020	Ivan	Cristian	Calarasi
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Nu este o permutare!
+4	0	0.000	Fisier incomplet!
+5	0	0.000	Fisier incomplet!
+6	0	0.000	Fisier incomplet!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.000	Wrong answer in: palind.out
+3	0	0.000	Wrong answer in: palind.out
+4	0	0.000	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.000	Wrong answer in: palind.out
+7	0	0.000	Wrong answer in: palind.out
+8	0	0.000	Wrong answer in: palind.out
+9	0	0.000	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092021	Mavrodin	Manuela	Calarasi
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092022	Hulparu	Adrian	Constanta
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092022/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092022/ab.cpp:29:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	7	0.000	Aproape bine!
+2	7	0.000	Aproape bine!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	14	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092022/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092022/iepuras.cpp: In function `void DataRead()':
+stud/0092022/iepuras.cpp:40: name lookup of `i' changed for new ISO `for' 
+   scoping
+stud/0092022/iepuras.cpp:31:   using obsolete binding at `i'
+stud/0092022/iepuras.cpp: In function `void Parc_teren(int, int, int)':
+stud/0092022/iepuras.cpp:99: name lookup of `i' changed for new ISO `for' 
+   scoping
+stud/0092022/iepuras.cpp:97:   using obsolete binding at `i'
+stud/0092022/iepuras.cpp:105: name lookup of `i' changed for new ISO `for' 
+   scoping
+stud/0092022/iepuras.cpp:103:   using obsolete binding at `i'
+stud/0092022/iepuras.cpp:121:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0092022/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092022/palind.cpp:6:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: palind.out
+1	0	0.000	Missing output file: palind.out
+2	0	0.000	Missing output file: palind.out
+3	0	0.000	Missing output file: palind.out
+4	0	0.000	Missing output file: palind.out
+5	0	0.000	Missing output file: palind.out
+6	0	0.000	Missing output file: palind.out
+7	0	0.000	Missing output file: palind.out
+8	0	0.000	Missing output file: palind.out
+9	0	0.000	Missing output file: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 14
+
+ID	Nume	Prenume	Judet
+0092023	Memet	Arif	Constanta
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092024	Ciocan	Andrei	Galati
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092024/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092024/ab.cpp:4: `main' must return `int'
+stud/0092024/ab.cpp:14:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092024/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092024/iepuras.cpp:5: `main' must return `int'
+stud/0092024/iepuras.cpp: In function `int main(...)':
+stud/0092024/iepuras.cpp:50: `endl' undeclared (first use this function)
+stud/0092024/iepuras.cpp:50: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0092024/iepuras.cpp:58:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/fstream.h:31,
+                 from stud/0092024/palind.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092024/palind.cpp:18: `main' must return `int'
+stud/0092024/palind.cpp: In function `int main(...)':
+stud/0092024/palind.cpp:44: `endl' undeclared (first use this function)
+stud/0092024/palind.cpp:44: (Each undeclared identifier is reported only once 
+   for each function it appears in.)
+stud/0092024/palind.cpp:48:2: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092025	Dadalau	Bogdan	Gorj
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0092025/ab.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092025/ab.cpp:6: `main' must return `int'
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+In file included from /usr/include/c++/3.2.2/backward/iostream.h:31,
+                 from stud/0092025/iepuras.cpp:1:
+/usr/include/c++/3.2.2/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <sstream> instead of the deprecated header <strstream.h>. To disable this warning use -Wno-deprecated.
+stud/0092025/iepuras.cpp:7: `main' must return `int'
+stud/0092025/iepuras.cpp:81:26: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092026	Raica	Cristian-Dumitru	Mures
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092027	Morariu	Razvan	Mures
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+No source file! (ab.c, ab.cpp or ab.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.000	Nonzero exit status: 103
+3	5	0.000	Okay!
+4	0	0.101	Time limit exceeded!
+5	0	0.000	Nonzero exit status: 103
+6	5	0.000	Okay!
+7	0	0.000	Nonzero exit status: 103
+8	0	0.000	Nonzero exit status: 103
+9	0	0.000	Nonzero exit status: 103
+10	0	0.000	Nonzero exit status: 103
+11	0	0.000	Nonzero exit status: 103
+12	0	0.000	Nonzero exit status: 103
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	35	--	--
+
+### Problem: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 35
+
+ID	Nume	Prenume	Judet
+0092028	Neghina	Cornel	Ialomita
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	0	0.000	Raspuns gresit!
+2	0	0.000	Raspuns gresit!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Fisier incomplet!
+8	0	0.000	Fisier incomplet!
+9	0	0.000	Fisier incomplet!
+10	0	0.000	Fisier incomplet!
+TOTAL	0	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 2
+1	0	0.000	Nonzero exit status: 2
+2	0	0.000	Nonzero exit status: 2
+3	0	0.000	Nonzero exit status: 2
+4	0	0.000	Nonzero exit status: 2
+5	0	0.000	Nonzero exit status: 2
+6	0	0.000	Nonzero exit status: 2
+7	0	0.000	Nonzero exit status: 2
+8	0	0.000	Nonzero exit status: 2
+9	0	0.000	Nonzero exit status: 2
+10	0	0.000	Nonzero exit status: 2
+11	0	0.000	Nonzero exit status: 2
+12	0	0.000	Nonzero exit status: 2
+13	0	0.000	Nonzero exit status: 2
+14	0	0.000	Nonzero exit status: 2
+15	0	0.000	Nonzero exit status: 2
+16	0	0.000	Nonzero exit status: 2
+17	0	0.000	Nonzero exit status: 2
+18	0	0.000	Nonzero exit status: 2
+19	0	0.000	Nonzero exit status: 2
+TOTAL	0	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092029	Burileanu	Doru-Daniel	Mehedinti
+
+Results for: total
+
+### Problem: ab
+Test	Score	Time	Message
+1	10	0.000	OK!!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	20	--	--
+
+### Problem: iepuras
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 202
+1	0	0.000	Nonzero exit status: 202
+2	0	0.000	Nonzero exit status: 202
+3	0	0.000	Nonzero exit status: 202
+4	0	0.000	Nonzero exit status: 202
+5	0	0.000	Nonzero exit status: 202
+6	0	0.000	Nonzero exit status: 202
+7	0	0.000	Nonzero exit status: 202
+8	0	0.000	Nonzero exit status: 202
+9	0	0.000	Nonzero exit status: 202
+10	0	0.000	Nonzero exit status: 202
+11	0	0.000	Nonzero exit status: 202
+12	0	0.000	Nonzero exit status: 202
+13	0	0.000	Nonzero exit status: 202
+14	0	0.000	Nonzero exit status: 202
+15	0	0.000	Nonzero exit status: 202
+16	0	0.000	Nonzero exit status: 202
+17	0	0.000	Nonzero exit status: 202
+18	0	0.000	Nonzero exit status: 202
+19	0	0.000	Nonzero exit status: 202
+TOTAL	0	--	--
+
+### Problem: palind
+Test	Score	Time	Message
+0	0	0.000	Nonzero exit status: 202
+1	0	0.000	Nonzero exit status: 202
+2	0	0.000	Nonzero exit status: 202
+3	0	0.000	Nonzero exit status: 202
+4	0	0.000	Nonzero exit status: 202
+5	0	0.000	Nonzero exit status: 202
+6	0	0.000	Nonzero exit status: 202
+7	0	0.000	Nonzero exit status: 202
+8	0	0.000	Nonzero exit status: 202
+9	0	0.000	Nonzero exit status: 202
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092030	Tanase	Theodor	Tulcea
+
+Results for: total
+
+### Problem: ab
+Compiler output: <<<
+stud/0092030/ab.cpp:44:1: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+1	0	0.101	Time limit exceeded!
+2	0	0.101	Time limit exceeded!
+3	0	0.101	Time limit exceeded!
+4	0	0.101	Time limit exceeded!
+5	0	0.101	Time limit exceeded!
+6	0	0.101	Time limit exceeded!
+7	0	0.000	Killed by signal: 11
+8	0	0.000	Killed by signal: 11
+9	0	0.010	Killed by signal: 11
+10	0	0.000	Killed by signal: 11
+TOTAL	0	--	--
+
+### Problem: iepuras
+Compiler output: <<<
+No source file! (iepuras.c, iepuras.cpp or iepuras.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	--	Missing executable file
+1	0	--	Missing executable file
+2	0	--	Missing executable file
+3	0	--	Missing executable file
+4	0	--	Missing executable file
+5	0	--	Missing executable file
+6	0	--	Missing executable file
+7	0	--	Missing executable file
+8	0	--	Missing executable file
+9	0	--	Missing executable file
+10	0	--	Missing executable file
+11	0	--	Missing executable file
+12	0	--	Missing executable file
+13	0	--	Missing executable file
+14	0	--	Missing executable file
+15	0	--	Missing executable file
+16	0	--	Missing executable file
+17	0	--	Missing executable file
+18	0	--	Missing executable file
+19	0	--	Missing executable file
+TOTAL	0	--	--
+
+### Problem: palind
+Compiler output: <<<
+stud/0092030/palind.cpp:38:1: warning: no newline at end of file
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.020	Wrong answer in: palind.out
+2	0	0.201	Time limit exceeded!
+3	0	0.201	Time limit exceeded!
+4	0	0.201	Time limit exceeded!
+5	0	0.201	Time limit exceeded!
+6	0	0.201	Time limit exceeded!
+7	0	0.201	Time limit exceeded!
+8	0	0.201	Time limit exceeded!
+9	0	0.201	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+

@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1350566550 source:f:\c++\invers\invers.cpp
+	<fstream>
+

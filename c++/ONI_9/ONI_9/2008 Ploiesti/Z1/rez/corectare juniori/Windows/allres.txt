@@ -1,0 +1,650 @@
+ID	Nume	Prenume	Judet
+0092005	Gavrila	Vlad-Alexandru	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+AB.PAS(1): Error 22: Structure too large.
+var v:array[0..30010]of longint;
+                               ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+IEPURAS.PAS(1): Error 22: Structure too large.
+var z,v,l,s,c:array[0..201,0..201]of longint;
+                                            ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+15	0	-.---	Missing executable file
+16	0	-.---	Missing executable file
+17	0	-.---	Missing executable file
+18	0	-.---	Missing executable file
+19	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: palind
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+PALIND.PAS(2): Error 96: Too many variables.
+    v:array[0..10020]of longint;
+                               ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092006	Stan	Serban-Andrei	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+ab.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4131168
+>>>
+
+Test	Score	Time	Message
+1	7	0.000	Aproape bine!
+2	10	0.000	OK!!
+3	7	0.000	Aproape bine!
+4	7	0.000	Aproape bine!
+5	7	0.000	Aproape bine!
+6	7	0.000	Aproape bine!
+7	7	0.000	Aproape bine!
+8	7	0.000	Aproape bine!
+9	7	0.000	Aproape bine!
+10	7	0.000	Aproape bine!
+TOTAL	73	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+iepuras.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4084564
+>>>
+
+Test	Score	Time	Message
+0	0	0.220	Time limit exceeded!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	5	0.000	Okay!
+5	5	0.000	Okay!
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	0.000	Wrong answer in: iepuras.out
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	45	--	--
+
+### Problema: palind
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+palind.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4123056
+>>>
+
+Test	Score	Time	Message
+0	0	0.055	Wrong answer in: palind.out
+1	0	0.055	Wrong answer in: palind.out
+2	0	0.330	Wrong answer in: palind.out
+3	0	0.330	Wrong answer in: palind.out
+4	0	0.165	Wrong answer in: palind.out
+5	0	0.110	Wrong answer in: palind.out
+6	0	0.275	Wrong answer in: palind.out
+7	0	0.385	Wrong answer in: palind.out
+8	0	0.385	Wrong answer in: palind.out
+9	0	0.385	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 118
+
+ID	Nume	Prenume	Judet
+0092007	Taloi	Bogdan-Cristian	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+ab.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4133392
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Raspuns gresit!
+2	0	0.000	Raspuns gresit!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	0	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+iepuras.cpp:
+Error iepuras.cpp 11: Array size too large
+*** 1 errors in Compile ***
+
+        Available memory 4136252
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+15	0	-.---	Missing executable file
+16	0	-.---	Missing executable file
+17	0	-.---	Missing executable file
+18	0	-.---	Missing executable file
+19	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092008	Zernoveanu	Radu	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+ab.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4129808
+>>>
+
+Test	Score	Time	Message
+1	7	0.000	Aproape bine!
+2	10	0.000	OK!!
+3	7	0.000	Aproape bine!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.110	Time limit exceeded!
+TOTAL	24	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+iepuras.cpp:
+Error iepuras.cpp 3: Array size too large
+Error iepuras.cpp 3: Array size too large
+*** 2 errors in Compile ***
+
+        Available memory 4136252
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+15	0	-.---	Missing executable file
+16	0	-.---	Missing executable file
+17	0	-.---	Missing executable file
+18	0	-.---	Missing executable file
+19	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: palind
+Compiler output: <<<
+No source file! (palind.c, palind.cpp or palind.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 24
+
+ID	Nume	Prenume	Judet
+0092002	Pripoaie	Teodor-Anton	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+ab.c:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4144696
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Raspuns gresit!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	10	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+iepuras.c:
+Error iepuras.c 11: Array size too large
+Error iepuras.c 14: Array size too large
+Error iepuras.c 52: Expression syntax in function scan
+Error iepuras.c 132: Expression syntax in function solve
+Error iepuras.c 176: Expression syntax in function solve
+Warning iepuras.c 186: Call to function 'scan' with no prototype in function main
+Warning iepuras.c 187: Call to function 'solve' with no prototype in function main
+Warning iepuras.c 188: Function should return a value in function main
+*** 5 errors in Compile ***
+
+        Available memory 4129068
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+11	0	-.---	Missing executable file
+12	0	-.---	Missing executable file
+13	0	-.---	Missing executable file
+14	0	-.---	Missing executable file
+15	0	-.---	Missing executable file
+16	0	-.---	Missing executable file
+17	0	-.---	Missing executable file
+18	0	-.---	Missing executable file
+19	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: palind
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+palind.c:
+Warning palind.c 95: Call to function 'start' with no prototype in function main
+Warning palind.c 97: Call to function 'scan' with no prototype in function main
+Warning palind.c 98: Call to function 'solve_imp' with no prototype in function main
+Warning palind.c 99: Call to function 'solve_par' with no prototype in function main
+Warning palind.c 100: Call to function 'print' with no prototype in function main
+Warning palind.c 102: Call to function 'end' with no prototype in function main
+Warning palind.c 103: Function should return a value in function main
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4128952
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.440	Wrong answer in: palind.out
+3	0	0.330	Wrong answer in: palind.out
+4	0	0.549	Time limit exceeded!
+5	0	0.549	Time limit exceeded!
+6	0	0.549	Time limit exceeded!
+7	0	0.549	Time limit exceeded!
+8	0	0.549	Time limit exceeded!
+9	0	0.549	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092003	Plop	Teodor-Daniel	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+14 lines, 2880 bytes code, 1206 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Nu este o permutare!
+2	0	0.000	Nu este o permutare!
+3	0	0.000	Nu este o permutare!
+4	0	0.000	Nu este o permutare!
+5	0	0.000	Nu este o permutare!
+6	0	0.000	Nu este o permutare!
+7	0	0.000	Nu este o permutare!
+8	0	0.000	Nu este o permutare!
+9	0	0.000	Nu este o permutare!
+10	0	0.000	Nu este o permutare!
+TOTAL	0	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+139 lines, 6592 bytes code, 45128 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: iepuras.out
+1	0	0.000	Wrong answer in: iepuras.out
+2	0	0.220	Time limit exceeded!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.000	Wrong answer in: iepuras.out
+8	0	0.000	Wrong answer in: iepuras.out
+9	0	0.000	Wrong answer in: iepuras.out
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	0	0.220	Time limit exceeded!
+14	0	0.220	Time limit exceeded!
+15	0	0.000	Wrong answer in: iepuras.out
+16	0	0.220	Time limit exceeded!
+17	0	0.220	Time limit exceeded!
+18	0	0.220	Time limit exceeded!
+19	0	0.220	Time limit exceeded!
+TOTAL	5	--	--
+
+### Problema: palind
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+24 lines, 3040 bytes code, 21246 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.110	Wrong answer in: palind.out
+3	0	0.110	Wrong answer in: palind.out
+4	0	0.055	Wrong answer in: palind.out
+5	0	0.000	Wrong answer in: palind.out
+6	0	0.055	Wrong answer in: palind.out
+7	0	0.110	Wrong answer in: palind.out
+8	0	0.110	Wrong answer in: palind.out
+9	0	0.110	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 5
+
+ID	Nume	Prenume	Judet
+0092004	Vlad	Radu-Cristian	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+ab.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4135696
+>>>
+
+Test	Score	Time	Message
+1	0	0.110	Time limit exceeded!
+2	0	0.110	Time limit exceeded!
+3	0	0.110	Time limit exceeded!
+4	0	0.110	Time limit exceeded!
+5	0	0.110	Time limit exceeded!
+6	0	0.110	Time limit exceeded!
+7	0	0.110	Time limit exceeded!
+8	0	0.110	Time limit exceeded!
+9	0	0.110	Time limit exceeded!
+10	0	0.110	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+iepuras.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4114216
+>>>
+
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.220	Time limit exceeded!
+5	5	0.000	Okay!
+6	0	0.000	Wrong answer in: iepuras.out
+7	0	>0.200	Timeout! (program crashes DOS environment)
+8	0	>0.200	Timeout! (program crashes DOS environment)
+9	0	>0.200	Timeout! (program crashes DOS environment)
+10	0	>0.200	Timeout! (program crashes DOS environment)
+11	0	>0.200	Timeout! (program crashes DOS environment)
+12	0	>0.200	Timeout! (program crashes DOS environment)
+13	0	0.000	Wrong answer in: iepuras.out
+14	0	>0.200	Timeout! (program crashes DOS environment)
+15	0	0.000	Wrong answer in: iepuras.out
+16	5	0.000	Okay!
+17	0	>0.200	Timeout! (program crashes DOS environment)
+18	0	0.000	Wrong answer in: iepuras.out
+19	5	0.000	Okay!
+TOTAL	35	--	--
+
+### Problema: palind
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+palind.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4140260
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.220	Wrong answer in: palind.out
+3	0	0.220	Wrong answer in: palind.out
+4	0	0.110	Wrong answer in: palind.out
+5	0	0.055	Wrong answer in: palind.out
+6	0	0.165	Wrong answer in: palind.out
+7	0	0.220	Wrong answer in: palind.out
+8	0	0.220	Wrong answer in: palind.out
+9	0	0.220	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 35
+
+ID	Nume	Prenume	Judet
+0092001	Naiba	Lucian	Bucuresti
+
+Results for: total
+
+### Problema: ab
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+28 lines, 3104 bytes code, 61194 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Raspuns gresit!
+2	10	0.000	OK!!
+3	0	0.000	Raspuns gresit!
+4	0	0.000	Raspuns gresit!
+5	0	0.000	Raspuns gresit!
+6	0	0.000	Raspuns gresit!
+7	0	0.000	Raspuns gresit!
+8	0	0.000	Raspuns gresit!
+9	0	0.000	Raspuns gresit!
+10	0	0.000	Raspuns gresit!
+TOTAL	10	--	--
+
+### Problema: iepuras
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+151 lines, 6928 bytes code, 41702 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	5	0.000	Okay!
+1	5	0.000	Okay!
+2	5	0.000	Okay!
+3	5	0.000	Okay!
+4	0	0.000	Wrong answer in: iepuras.out
+5	5	0.000	Okay!
+6	5	0.000	Okay!
+7	5	0.000	Okay!
+8	5	0.000	Okay!
+9	5	0.000	Okay!
+10	0	0.000	Wrong answer in: iepuras.out
+11	0	0.000	Wrong answer in: iepuras.out
+12	0	0.000	Wrong answer in: iepuras.out
+13	5	0.000	Okay!
+14	5	0.000	Okay!
+15	5	0.000	Okay!
+16	0	0.000	Wrong answer in: iepuras.out
+17	5	0.000	Okay!
+18	5	0.000	Okay!
+19	5	0.000	Okay!
+TOTAL	75	--	--
+
+### Problema: palind
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+31 lines, 3344 bytes code, 21210 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: palind.out
+1	0	0.000	Wrong answer in: palind.out
+2	0	0.165	Wrong answer in: palind.out
+3	0	0.165	Wrong answer in: palind.out
+4	0	0.055	Wrong answer in: palind.out
+5	0	0.055	Wrong answer in: palind.out
+6	0	0.110	Wrong answer in: palind.out
+7	0	0.165	Wrong answer in: palind.out
+8	0	0.165	Wrong answer in: palind.out
+9	0	0.165	Wrong answer in: palind.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 85
+

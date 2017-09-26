@@ -1,0 +1,21 @@
+Probleme date:
+
+Ziua	Problema	Autor		Scoala
+===============================================
+  1	limbaj		Domsa Ovidiu	Universitatea 1 Decembrie 1918 Alba Iulia
+  1	sant		Serban Marinel	Liceul de Informatica "Gr. C. Moisil" Iasi
+  1	zumzi		Popescu Carmen	Colegiul National "Gh. Lazar" Sibiu
+  2	fact		Manz Victor	Liceul teoretic "C. Brancoveanu" Bucuresti
+  2	panouri		Galatan C-tin	ISJ Bistrita-Nasaud
+  2	pereti		Domsa Ovidiu	Universitatea 1 Decembrie 1918 Alba Iulia
+
+Au mai fost propuse problemele:
+iepuras	Galatan C-tin	  ISJ Bistrita-Nasaud
+multimi	Manea Florin	  Universitatea din Bucuresti, Fac de matematica-informatica
+cifra	Boriga Radu	  Colegiul National "Spiru Haret" Bucuresti
+ratb	Boriga Radu	  Colegiul National "Spiru Haret" Bucuresti
+rubik	Popescu Carmen	  Colegiul National "Gh. Lazar" Sibiu
+mere	Simulescu Adriana Liceul de Informatica "Gr. C. Moisil" Timisoara
+montaj	Vlad Giorgie	  ISJ Suceava
+
+

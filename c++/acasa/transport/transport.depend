@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384176528 source:f:\c++\acasa\transport\main.cpp
+	<fstream>
+	<stack>
+

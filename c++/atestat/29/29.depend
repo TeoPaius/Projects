@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463334219 source:f:\c++\atestat\29\main.cpp
+	<fstream>
+	<cstring>
+	<cmath>
+

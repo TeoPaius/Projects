@@ -1,0 +1,14 @@
+D:\XII-A\Atestat4\Atestat4\bin\Debug\Atestat4.exe.config
+D:\XII-A\Atestat4\Atestat4\bin\Debug\Database1.mdf
+D:\XII-A\Atestat4\Atestat4\bin\Debug\Database1_log.ldf
+D:\XII-A\Atestat4\Atestat4\bin\Debug\Atestat4.exe
+D:\XII-A\Atestat4\Atestat4\bin\Debug\Atestat4.pdb
+D:\XII-A\Atestat4\Atestat4\obj\Debug\Atestat4.csprojResolveAssemblyReference.cache
+D:\XII-A\Atestat4\Atestat4\obj\Debug\Atestat4.Form1.resources
+D:\XII-A\Atestat4\Atestat4\obj\Debug\Atestat4.Properties.Resources.resources
+D:\XII-A\Atestat4\Atestat4\obj\Debug\Atestat4.csproj.GenerateResource.Cache
+D:\XII-A\Atestat4\Atestat4\obj\Debug\Atestat4.exe
+D:\XII-A\Atestat4\Atestat4\obj\Debug\Atestat4.pdb
+F:\Baze de date\15\Atestat4\bin\Debug\Atestat4.exe.config
+F:\Baze de date\15\Atestat4\obj\Debug\Atestat4.exe
+F:\Baze de date\15\Atestat4\obj\Debug\Atestat4.pdb

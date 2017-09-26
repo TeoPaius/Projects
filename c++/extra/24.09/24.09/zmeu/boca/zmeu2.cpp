@@ -1,0 +1,113 @@
+/*
+  Name: Zmeu
+  Description: Programare dinamica
+  Date: 09/11/03
+  Description: You must not remove this lines from the original source
+  Author: Boca Paul-Daniel
+  E-mail:"bp_daniel@yahoo.com"
+*/
+#include <fstream.h>
+
+#ifndef __BORLANDC__
+#define huge
+#endif
+
+typedef struct nod{
+    int i;
+    nod* urm;
+}NOD, *PNOD;
+PNOD prim, ultim;
+
+int n, p, k;
+short int huge a[200][200];
+int d[200], c[200];
+int t[200], r[200];
+
+void Citeste();
+void Add( int i );
+void Remove();
+void Bf();
+void Afiseaza();
+
+int main()
+{
+    Citeste();
+    Bf();
+    Afiseaza();
+
+    return 0;
+}
+
+void Citeste()
+{
+	int i, x, y;
+    ifstream f("zmeu.in");
+    f >> n >> p >> k;
+    for ( i = 1; i <= p; i++)
+	{
+		f >> d[i] >> c[i]; // duratele, capetele taiate
+		r[i] = 32000;      // ramase
+		t[i] = 32000;      // timpii
+	}
+	for ( i = 1; i <= k; i++)
+	{
+		f >> x >> y;
+		a[x][y] = 1; // lipseste arcul x->y
+	}
+    a[1][p] = 1;     // lipseste 1->p
+	f.close();
+}
+
+void Bf()
+{
+	Add(1);
+	t[1] = d[1];
+	r[1] = c[1];
+	while ( prim )
+	{
+		for ( int i = 1; i <= p; i++)
+			if ( a[prim->i][i] == 0 && c[i] + r[prim->i] <= n && t[i] > d[i] + t[prim->i] )
+			{
+				Add( i);
+				t[i] = d[i] + t[prim->i];
+				r[i] = c[i] + r[prim->i];
+			}
+		Remove();
+	}
+}
+
+void Add( int i )
+{
+	if ( prim )
+	{
+		PNOD p = new NOD;
+		p->i = i;
+		p->urm = 0;
+		ultim->urm = p;
+		ultim = p;
+	}
+	else
+	{
+		PNOD p = new NOD;
+		p->i = i;
+		p->urm = 0;
+		ultim = prim = p;
+	}
+}
+
+void Remove()
+{
+	PNOD p = prim;
+	prim = prim->urm;
+	delete p;
+	if ( prim == 0 ) ultim = 0;
+}
+
+void Afiseaza()
+{
+	ofstream g("zmeu.out");
+	if ( t[p] == 32000 ) g << -1;
+	else g << t[p];
+	g.close();
+}
+

@@ -1,0 +1,9 @@
+F:\c#\Pt scoala\Pt scoala\bin\Debug\Pt scoala.exe
+F:\c#\Pt scoala\Pt scoala\bin\Debug\Pt scoala.pdb
+F:\c#\Pt scoala\Pt scoala\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\c#\Pt scoala\Pt scoala\obj\x86\Debug\Pt_scoala.Form1.resources
+F:\c#\Pt scoala\Pt scoala\obj\x86\Debug\Pt_scoala.Properties.Resources.resources
+F:\c#\Pt scoala\Pt scoala\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\c#\Pt scoala\Pt scoala\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\c#\Pt scoala\Pt scoala\obj\x86\Debug\Pt scoala.exe
+F:\c#\Pt scoala\Pt scoala\obj\x86\Debug\Pt scoala.pdb

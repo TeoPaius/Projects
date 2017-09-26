@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1364124129 source:f:\c++\acasa\campion\cladire\main.cpp
+	<fstream>
+	<algorithm>
+

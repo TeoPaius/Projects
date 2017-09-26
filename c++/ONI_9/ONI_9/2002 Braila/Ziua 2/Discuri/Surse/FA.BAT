@@ -1,0 +1,1 @@
+for %%i in (5*.exe) do call eval2.bat %%i

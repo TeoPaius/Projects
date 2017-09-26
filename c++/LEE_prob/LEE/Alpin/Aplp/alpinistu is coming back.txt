@@ -1,0 +1,121 @@
+
+//surse5.rar   
+
+
+Iata-ne si la problema 20. Deja inseamna ceva, nu ?
+
+ ----------------------------------------
+| PROBLEMA 20: Alpinistu' is coming back |
+| PUNCTAJ: 50 Dexteri                    |
+| DEADLINE: Luni, 31 Mai                 |
+| TIMP DE IMPLEMENTARE: 70 minute        |
+| TIMP DE EXECUTIE: 1 sec./test          |
+ ----------------------------------------
+
+   Imaginati-va din nou ca sunteti un alpinist inrait. Si din nou aveti la
+dispozitie o harta... Tot cu numere pe ea... Harta are m linii si n coloane.
+O linie a hartii reprezinta o regiune geografica, iar un element al hartii
+reprezinta codificarea unei anumite forme de relief (de exemplu valoarea 1
+poate codifica un munte, 2 o cascada etc.). Dumneavoastra doriti sa vizitati
+acele monumente ale naturii care se gasesc in cat mai multe regiuni ale tarii.
+De exemplu pentru harta:
+1 2 3   -> regiunea 1
+2 1 2   -> regiunea 2
+1 3 3   -> regiunea 3
+4 5 6   -> regiunea 4
+elementul geografic care se gaseste in cat mai multe regiuni este elementul
+codificat prin valoare 1.
+
+   Dar iata ca mai gasiti o harta. Si de data aceasta harta este tot o
+matrice; si tot cu numere ;-). O linie a hartii reprezinta tot o regiune
+geografica, iar un element al matricii reprezinta altitidinea zonei repective.
+Deodata, va amintiti ca "vreti sa urcati, sa urcati si iar sa urcati" (citat
+din problema 14 :-) ). Asa ca va ganditi sa va organizati excursia in cat mai
+multe etape, astfel incat la fiecare etapa sa parcurgeti o singura regiune
+a tarii, avansand mereu de la nord spre sud si urcand mereu. Fiecare etapa
+presupune vizitarea unei singure zone (i,j) a hartii. Nu exista doua etape
+in care sa vizitati aceeasi regiune.
+
+   Datele de intrare le gasiti in fisierul "harta.in" cu urmatoarea structura:
+m n       m,n<=50
+a11... a1n
+...             Acum remarcati surprins ca pentru fiecare regiune,
+...             altitudinile zonelor se maresc de la vest spre est.
+am1... amn      ( a[i,j]>=a[i,k], oricare i si oricare k<j )
+
+
+
+   Din economie de spatiu pe disc, ambele harti sunt reprezentate de matricea
+a de mai sus.
+
+   Fisierul de iesire "harta1.out" are urmatoarea structura
+x  -> elementul geografic care se gaseste in cat mai multe regiuni ale tarii
+x1.. xn -> regiunile in care se gaseste elementul x
+
+   Fisierul de iesire "harta2.out" are urmatoarea structura
+   i1 j1
+   i2 j2   -> (is,js) reprezinta zona pe care o vizitati in etapa s
+   ...
+   ik jk
+
+   Se vor acorda punctaje separate pentru fiecare fisier de iesire. Punctele
+nu vor fi insa egal distribuite intre cele doua fisiere.
+
+
+Exemplu:
+harta.in       harta1.out     harta2.out     Elementele matricii sunt intre 0
+                                             si 32000.
+4 4            10             1 1
+2 3 6 10       1 2 3          2 1
+5 7 10 12                     3 3            Daca exista mai multe solutii se
+8 10 12 45                    4 4            va afisa una singura.
+13 15 17 19
+
+   Am rugamintea ca de acum inainte sa descrieti pe scurt in sursa voastra
+algoritmul de rezolvare. Nu ma refer la compuneri, ci la doar 2-3 randuri,
+din care sa putem intelege macar ce tehnica de programare ati folosit.
+
+
+
+
+Rezolvare
+
+   Ma bucur ca problema a fost rezolvata aproape perfect de toti concurentii.
+   Nu a fost deosebit de dificila, dar mi s-a parut interesanta deoarece
+existau mai multe metode de rezolvare pentru ea.
+   Multumesc celor care mi-au respectat dorinta in legatura cu descrierea
+algoritmului de rezolvare. Este mult mai simplu sa citesc primele 5 randuri
+ale sursei, decat sa ma apuc sa descifrez for-urile din program :-)
+
+   Acum pe scurt despre rezolvare:
+   I. Punctul a):
+     1) o solutie constituia in retinerea unui vector V de 32000 de elemente,
+        in V[i] retinandu-se de cate ori aparea elementul i in matrice
+        (bineinteles, ignorand multiplele aparitii pe o linie). Aceasta
+        solutie este cea mai "urata", deoarece este mare consumatoare de
+        memorie. Ce faceati daca elementele matricii erau intre 1 si
+        maxlongint ? (greseala mea ca nu am dat astfel limitele ! :-) )
+
+     2) o alta solutie constituia in liniarizarea matricii urmata de sortarea
+        vectorului obtinut. O solutie interesanta, dar clar nepotrivita
+        acestei probleme. De ce ? Deoarece exista solutia 3) :-)
+
+     3) solutia optima (aplicabila pentru orice limite ale elementelor si
+        de complexitate optima) constituia in liniarizarea matricei prin
+        interclasarea liniilor acesteia. Trebuia folosit si faptul ca
+        liniile erau sortate crescator nu ? Aceasta solutie a fost data
+        doar de Baicu Ciprian pe care il felicit !
+
+   II. Punctul b)
+       Punctul b) se rezolva bineinteles prin programare dinamica. Nu mai
+       descriu detailiat metoda, deoarece toti concurentii "s-au prins" de
+       ea. Complexitatea de rezolvare era de O(n^4) (mai precis O(n^2 * m^2)),
+       dar constanta se putea micsora mult folosind si de data asta faptul ca
+       liniile erau sortate crescator. Las concurentii care nu au folosit
+       acest fapt in rezolvarea lor, sa se gandeasca un pic. Optimizarea
+       este foarte simpla.
+
+       Cam asta. Imi cer inca o data scuze pentru intarzierea afisarii
+rezultatelor. Dar motivele sunt totusi foarte solide (examene, colocvii,
+referate etc.)
+

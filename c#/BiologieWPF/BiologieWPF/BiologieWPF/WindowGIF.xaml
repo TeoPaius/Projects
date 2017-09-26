@@ -1,0 +1,24 @@
+﻿<Window x:Name="WindowGif" x:Class="BiologieWPF.WindowGIF"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BiologieWPF"
+        mc:Ignorable="d"
+        Title="WindowGIF" Height="300" Width="300">
+    <Grid>
+        <!--
+        <Image x:Name="image" Margin="10" RenderTransformOrigin="0.5,0.5" Source="pack://siteoforigin:,,,/Image/animgif.gif">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.123"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+            </Image>    -->
+        <MediaElement x:Name="myGif" MediaEnded="myGif_MediaEnded" UnloadedBehavior="Manual" Source="pack://siteoforigin:,,,/Image/animgif.gif" LoadedBehavior="Play" Stretch="None"/>
+        
+    </Grid>
+</Window>

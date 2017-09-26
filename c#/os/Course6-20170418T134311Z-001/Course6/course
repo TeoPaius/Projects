@@ -1,0 +1,11 @@
+---
+Pipe can be used only by processes that have a common ancestor who created the pipe.
+
+---
+FIFO
+- creation: mkfifo, mknod
+
+msgget
+shmget
+semget
+fcmtl

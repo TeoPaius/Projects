@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<oji>
+  <problema>
+    <nume>deal</nume>
+    <limita_timp>500</limita_timp>
+    <limita_memorie>2</limita_memorie>
+    <limita_stiva>1</limita_stiva>
+    <limita_dimens_sursa>5</limita_dimens_sursa>
+  </problema>
+  <problema>
+    <nume>ozn</nume>
+    <limita_timp>500</limita_timp>
+    <limita_memorie>20</limita_memorie>
+    <limita_stiva>10</limita_stiva>
+    <limita_dimens_sursa>5</limita_dimens_sursa>
+  </problema>
+</oji>

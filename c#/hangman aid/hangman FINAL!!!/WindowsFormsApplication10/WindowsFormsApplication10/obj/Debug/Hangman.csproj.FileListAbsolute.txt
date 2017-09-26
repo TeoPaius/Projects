@@ -1,0 +1,49 @@
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\Hangman.csproj.GenerateResource.Cache
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe.config
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe.manifest
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.application
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.pdb
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.Properties.Resources.resources
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.exe.manifest
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.application
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.exe
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.pdb
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe.config
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.exe
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.pdb
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\Hangman.csproj.GenerateResource.Cache
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe.manifest
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.application
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.pdb
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.exe.manifest
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.application
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form_butoane.resources
+F:\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe.config
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.exe
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.pdb
+F:\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe.manifest
+F:\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.application
+F:\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.exe
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form_butoane.resources
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.Properties.Resources.resources
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\Hangman.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.exe.manifest
+F:\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\HANGMAN.application
+F:\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\HANGMAN.pdb
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\fr-FR\HANGMAN.resources.dll
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.fr-FR.resources
+C:\Users\Benta\Documents\Visual Studio 2013\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\fr-FR\HANGMAN.resources.dll
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\fr-FR\HANGMAN.resources.dll
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form_butoane.resources
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.fr-FR.resources
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\fr-FR\HANGMAN.resources.dll
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\Stuff\Altele\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form_dialogbox.resources

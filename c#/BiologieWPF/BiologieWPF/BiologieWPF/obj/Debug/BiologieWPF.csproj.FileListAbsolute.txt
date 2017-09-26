@@ -1,0 +1,42 @@
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\bin\Debug\BiologieWPF.exe.config
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\bin\Debug\BiologieWPF.exe
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\bin\Debug\BiologieWPF.pdb
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.csprojResolveAssemblyReference.cache
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\MainWindow.g.cs
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\App.g.cs
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF_MarkupCompile.cache
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF_MarkupCompile.lref
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\MainWindow.baml
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.g.resources
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.Properties.Resources.resources
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.csproj.GenerateResource.Cache
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.exe
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.pdb
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\WindowGIF.g.cs
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\WindowGIF.baml
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\Window1.g.cs
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\Window1.baml
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\Window2.g.cs
+D:\Info\Clasa a 12-a\2015\C#\BiologieWPF\BiologieWPF\obj\Debug\Window2.baml
+D:\Info\New folder\BiologieWPF\BiologieWPF\bin\Debug\BiologieWPF.exe.config
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.exe
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.pdb
+D:\Info\New folder\BiologieWPF\BiologieWPF\bin\Debug\BiologieWPF.exe
+D:\Info\New folder\BiologieWPF\BiologieWPF\bin\Debug\BiologieWPF.pdb
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.csprojResolveAssemblyReference.cache
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\MainWindow.g.cs
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\Window1.g.cs
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\Window2.g.cs
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\WindowGIF.g.cs
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\App.g.cs
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF_MarkupCompile.cache
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF_MarkupCompile.lref
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\MainWindow.baml
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\Window1.baml
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\Window2.baml
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\WindowGIF.baml
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.g.resources
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.Properties.Resources.resources
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.csproj.GenerateResource.Cache
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.Resources.Resource1.resources
+D:\Info\New folder\BiologieWPF\BiologieWPF\obj\Debug\BiologieWPF.Resources.Resource2.resources

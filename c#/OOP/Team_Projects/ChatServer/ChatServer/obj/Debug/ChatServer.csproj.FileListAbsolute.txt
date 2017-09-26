@@ -1,0 +1,10 @@
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\obj\Debug\ChatServer.Server.resources
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+F:\c#\OOP\Team_Projects\ChatServer\ChatServer\bin\Debug\MySql.Data.dll

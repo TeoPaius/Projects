@@ -1,0 +1,5 @@
+Se mai poate rezolva folosind timpul de descoperire 
+si timpul de finish: (structura parantezata CLR 412)
+Pt un descendent v al lui u,
+
+d[u] < d[v] < f[v] < f[u]

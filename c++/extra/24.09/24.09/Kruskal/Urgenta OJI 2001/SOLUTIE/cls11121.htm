@@ -1,0 +1,82 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1250">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Clasele XI - XII PROBLEMA 1</TITLE>
+</HEAD>
+<BODY>
+
+<B><P>Olimpiada Jude<FONT FACE="Times New Roman">teană de Informatică<BR>
+9 martie 2002, ora 9</FONT><SUP>00</P>
+</SUP><P ALIGN="CENTER">CLASELE XI-XII</P>
+<P ALIGN="JUSTIFY">Problema 1 (Urgen<FONT FACE="Times New Roman">ta</FONT>)</P>
+</B><FONT SIZE=3><P ALIGN="RIGHT"><A href="cls11121.doc"> Documentul Microsoft Word</A></P>
+</FONT><FONT FACE="Times New Roman" SIZE=3><P ALIGN="JUSTIFY">Autoritătile dintr-o zonă de munte intentionează să stabilească un plan de urgentă, pentru a reactiona mai eficient la frecventele calamităti naturale din zonă.</FONT><FONT SIZE=3> În acest scop au identificat <B>N</B></FONT><FONT FACE="Times New Roman" SIZE=3> puncte de interes strategic şi le-au numerotat distinct de la </FONT><B><FONT SIZE=3>1</B> la <B>N</B>. Punctele de interes strategic sunt conectate prin <B>M</B></FONT><FONT FACE="Times New Roman" SIZE=3> căi de acces având priorităti în functie de importantă. Între oricare două puncte de interes strategic există cel mult o cale de acces ce poate fi parcursă în ambele sensuri şi cel putin un drum (format din una sau mai multe căi de acces) ce le conectează. </P>
+<P ALIGN="JUSTIFY">În cazul unei calamităti unele căi de acces pot fi temporar întrerupte si astfel între anumite puncte de interes nu mai există legătură. Ca urmare pot rezulta mai multe grupuri de puncte în asa fel încât între oricare două puncte din acelasi grup să existe măcar un drum si între oricare două puncte din grupuri diferite să nu existe drum. </P>
+<P ALIGN="JUSTIFY">Autoritătile estimează gravitatea unei calamităti ca fiind suma prioritătilor căilor de acces distruse de aceasta si doresc să determine un scenariu de gravitate maximă, în care punctele de interes strategic să fie împărtite într-un număr de </FONT><B><FONT SIZE=3>K</B> grupuri.</P>
+</FONT><FONT SIZE=1><P ALIGN="JUSTIFY"></P>
+</FONT><B><FONT SIZE=3><P ALIGN="JUSTIFY">Date de intrare</P>
+</B><P>F</FONT><FONT FACE="Times New Roman" SIZE=3>isierul de intrare </FONT><B><FONT SIZE=3>URGENTA.IN</B></FONT><FONT FACE="Times New Roman" SIZE=3> are următorul format:<BR>
+</FONT><FONT SIZE=2>N M K<BR>
+</FONT><FONT SIZE=3>i<SUB>1</SUB> j<SUB>1</SUB> p<SUB>1</SUB> &#9;– între punctele i<SUB>1</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> si j</FONT><SUB><FONT SIZE=3>1</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> există o cale de acces de prioritate p</FONT><SUB><FONT SIZE=3>1<BR>
+</SUB>i<SUB>2</SUB> j<SUB>2</SUB> p<SUB>2</SUB> &#9;– între punctele i<SUB>2</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> si j</FONT><SUB><FONT SIZE=3>2</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> există o cale de acces de prioritate p</FONT><SUB><FONT SIZE=3>2<BR>
+...<BR>
+</SUB>i<SUB>M</SUB> j<SUB>M</SUB> p<SUB>M</SUB> &#9;– între punctele i<SUB>M</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> si j</FONT><SUB><FONT SIZE=3>M</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> există</FONT><FONT SIZE=3> o cale de acces de prioritate p<SUB>M<BR>
+</P>
+</SUB></FONT><B><FONT FACE="Times New Roman" SIZE=3><P ALIGN="JUSTIFY">Date de iesire</P>
+</B><P>Fisierul de iesire URGENTA.OUT va avea următorul format:<BR>
+</FONT><FONT FACE="Times New Roman" SIZE=2>gravmax&#9;– gravitatea maximă<BR>
+</FONT><FONT FACE="Times New Roman" SIZE=3>C&#9;– numărul de căi de acces întrerupte de calamitate<BR>
+k</FONT><SUB><FONT SIZE=3>1</SUB> h<SUB>1</SUB> &#9;– între punctele k<SUB>1</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> si h</FONT><SUB><FONT SIZE=3>1</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> a fost întreruptă calea de acces<BR>
+k</FONT><SUB><FONT SIZE=3>2</SUB> h<SUB>2</SUB>  &#9;– între punctele k<SUB>2</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> si h</FONT><SUB><FONT SIZE=3>2</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> a fost întreruptă calea de acces<BR>
+</FONT><SUB><FONT SIZE=3>...<BR>
+</SUB>k<SUB>C</SUB> h<SUB>C</SUB>  &#9;– între punctele k<SUB>C</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> si h</FONT><SUB><FONT SIZE=3>C</SUB></FONT><FONT FACE="Times New Roman" SIZE=3> a fost întreruptă calea de acces<BR>
+</P>
+<B><P>Restrictii si precizări<BR>
+</B>0&lt;N&lt;256<BR>
+N-2&lt;M&lt;32385<BR>
+0&lt;K&lt;N+1<BR>
+Prioritătile căilor de acces sunt întregi strict pozitivi mai mici decât 256.<BR>
+Un grup de puncte poate contine între 1 si N puncte inclusiv.<BR>
+Dacă există mai multe solutii, programul va determina una singură.<BR>
+</P>
+</FONT><B><FONT SIZE=3><P ALIGN="JUSTIFY">Exemplu</P></B></FONT>
+<TABLE BORDER CELLSPACING=1 CELLPADDING=7 WIDTH=590>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<FONT FACE="Courier New" SIZE=2><P ALIGN="JUSTIFY">URGENTA.IN</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<FONT FACE="Courier New" SIZE=2><P ALIGN="JUSTIFY">URGENTA.OUT</FONT></TD>
+</TR>
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<FONT FACE="Courier New" SIZE=2>
+<P ALIGN="JUSTIFY">
+7 11 4
+<br>1 2 1
+<BR>1 3 2
+<BR>1 7 3
+<BR>2 4 3
+<BR>3 4 2
+<BR>3 5 1
+<BR>3 6 1
+<BR>3 7 5
+<BR>4 5 5
+<BR>5 6 4
+<BR>6 7 3</FONT></TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<FONT FACE="Courier New" SIZE=2><BR>27
+<BR>8
+<BR>1 3
+<BR>1 7
+<BR>2 4
+<BR>3 4
+<BR>3 7
+<BR>4 5
+<BR>5 6
+<BR>6 7</FONT></TD>
+</TR>
+</TABLE>
+
+<B><FONT SIZE=3><BR>Timp maxim de executare:</B>  1 secund</FONT><FONT FACE="Times New Roman" SIZE=3>ă</FONT><FONT SIZE=3> / test
+<B><P ALIGN="CENTER">
+</FONT><FONT FACE="Times New Roman" SIZE=3><P ALIGN="CENTER">Închideti fereastra curentă pentru revenire</B></FONT></BODY>
+</HTML>

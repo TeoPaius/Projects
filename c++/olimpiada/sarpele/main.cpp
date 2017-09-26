@@ -1,0 +1,91 @@
+#include <fstream>
+using namespace std;
+ifstream is("sarpele.in");
+ofstream os("sarpele.out");
+
+int suma_cifre(int x);
+int comparare(int x, int y);
+
+char nume[10] = {'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'};
+int n;
+int v;
+int a[100];
+
+int main()
+{
+    is >> n;
+
+    int sarpe = 0;
+    char ns[10];
+    bool ok = true;
+
+    for(int i = 1; i <= n; ++i)
+        is >> a[i];
+    for(int i = 2; i <= n; ++i)
+    {
+        v = comparare (a[i], a[i - 1]);
+        if( v >= 0 && ok)
+        {
+            sarpe = sarpe * 10 + v;
+            ns[i-1] = nume[v];
+        }
+        else
+            ok = false;
+
+    }
+    os << sarpe << ' ';
+    if (ok)
+        for(int i = 1; i < n; ++i)
+            os << ns[i];
+    else
+        os << "NORMAL";
+
+
+    is.close();
+    os.close();
+    return 0;
+}
+
+int suma_cifre(int x)
+{
+    int s = 0;
+    while(x > 0)
+    {
+        s += x % 10;
+        x /= 10;
+    }
+    return s;
+}
+
+int comparare(int x, int y)
+{
+    int aparitie[10] = {0};
+    int s = 0;
+    int v;
+    bool ok = true;
+    while(x)
+    {
+        aparitie[x % 10]++;
+        x /= 10;
+    }
+    while(y)
+    {
+        aparitie[y % 10]--;
+        y /= 10;
+    }
+    for(int i = 0; i <= 9; ++i)
+    {
+        if (aparitie[i] == 0 || aparitie[i] == 1)
+        {
+            if ( aparitie[i] == 1 )
+                v = i;
+            s += aparitie[i];
+        }
+        else
+            ok = false;
+    }
+    if(ok & s == 1)
+        return v;
+    return -1 ;
+
+}

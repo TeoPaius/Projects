@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385912766 source:f:\c++\havesomefun\custi\main.cpp
+	<fstream>
+	<cstdio>
+	<queue>
+

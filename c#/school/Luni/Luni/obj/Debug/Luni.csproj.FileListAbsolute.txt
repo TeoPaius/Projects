@@ -1,0 +1,9 @@
+F:\c#\school\Luni\Luni\bin\Debug\Luni.exe.config
+F:\c#\school\Luni\Luni\bin\Debug\Luni.exe
+F:\c#\school\Luni\Luni\bin\Debug\Luni.pdb
+F:\c#\school\Luni\Luni\obj\Debug\Luni.csprojResolveAssemblyReference.cache
+F:\c#\school\Luni\Luni\obj\Debug\Luni.Properties.Resources.resources
+F:\c#\school\Luni\Luni\obj\Debug\Luni.csproj.GenerateResource.Cache
+F:\c#\school\Luni\Luni\obj\Debug\Luni.exe
+F:\c#\school\Luni\Luni\obj\Debug\Luni.pdb
+F:\c#\school\Luni\Luni\obj\Debug\Luni.Form1.resources

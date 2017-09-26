@@ -1,0 +1,5554 @@
+ID	Nume	Prenume	Judet
+0091111	Petcu	Ion-Cristian	Dolj
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Warning auto.cpp 39: Possibly incorrect assignment in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4052236
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4066204
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4057852
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.220	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+0091112	Dudu	Adrian	Teleorman
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+35 lines, 3200 bytes code, 9212 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	>0.800	Timeout! (program crashes DOS environment)
+8	0	>0.800	Timeout! (program crashes DOS environment)
+9	0	>0.800	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+14 lines, 2640 bytes code, 2192 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.495	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.440	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091113	Dumitrescu	Victor	Iasi
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+81 lines, 3856 bytes code, 37202 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.165	Wrong answer in: auto.out
+2	0	0.165	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+69 lines, 4512 bytes code, 5938 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(2): Error 96: Too many variables.
+var s,m: array[1..55000] of char;
+                                ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0091114	Cohal	Alexandru	Iasi
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+73 lines, 3952 bytes code, 37220 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.165	Wrong answer in: auto.out
+2	0	0.165	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+117 lines, 5136 bytes code, 11218 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.055	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+90 lines, 3680 bytes code, 65436 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.165	Wrong answer in: teatru.out
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.165	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.055	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.110	Wrong answer in: teatru.out
+10	0	0.165	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091106	Traistaru	Cristian	Brasov
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4091328
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problema: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4119872
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.220	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0091107	Albu	Alexandru	Iasi
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.c:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4120992
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.275	Wrong answer in: auto.out
+8	0	0.330	Wrong answer in: auto.out
+9	0	0.330	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.c:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4120540
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.165	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.c:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4123740
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.000	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091108	Chelaru	Traian-Andrei	Teleorman
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+54 lines, 3152 bytes code, 19192 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+42 lines, 3504 bytes code, 31186 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+74 lines, 3392 bytes code, 56188 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0091109	Moldovan	Mihai	Bn
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4060164
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Warning div.cpp 49: 'max' is assigned a value that is never used in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4056344
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 2: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4073992
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091110	Vicol	Sergiu-Constantin	Iasi
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 1: Unable to open include file 'fstream'
+Error auto.cpp 2: Declaration syntax error
+*** 2 errors in Compile ***
+
+        Available memory 4174444
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 1: Unable to open include file 'fstream'
+Error div.cpp 2: Unable to open include file 'algorithm'
+Error div.cpp 3: Declaration syntax error
+Error div.cpp 5: Declaration syntax error
+Error div.cpp 6: Declaration syntax error
+Error div.cpp 29: Undefined symbol 'fin' in function main()
+Error div.cpp 50: Undefined symbol 'fout' in function main()
+Error div.cpp 65: Function 'sort' should have a prototype in function main()
+Warning div.cpp 122: 'j' is assigned a value that is never used in function main()
+*** 8 errors in Compile ***
+
+        Available memory 4159516
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 1: Unable to open include file 'fstream'
+Error teatru.cpp 2: Declaration syntax error
+Error teatru.cpp 6: Declaration syntax error
+Error teatru.cpp 7: Declaration syntax error
+Error teatru.cpp 14: Undefined symbol 'fin' in function main()
+Error teatru.cpp 46: Undefined symbol 'fout' in function main()
+*** 6 errors in Compile ***
+
+        Available memory 4162636
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091115	Mateescu	Maria	Iasi
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+46 lines, 3216 bytes code, 36700 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+56 lines, 3776 bytes code, 5700 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+55 lines, 3328 bytes code, 55730 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.165	Wrong answer in: teatru.out
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.165	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.110	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.165	Wrong answer in: teatru.out
+10	0	0.165	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+0091100	Crintea	Octavian	Dâmbovita
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4052996
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4050164
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4044240
+>>>
+
+Test	Score	Time	Message
+1	0	0.220	Time limit exceeded!
+2	0	0.220	Time limit exceeded!
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0091101	Cazacu	Alexandru-George	Dolj
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 10: Undefined symbol 'T' in function main()
+Error auto.cpp 12: Undefined symbol 't' in function main()
+Error auto.cpp 13: Undefined symbol 'n' in function main()
+Error auto.cpp 15: Undefined symbol 'i' in function main()
+Error auto.cpp 15: Undefined symbol 'm' in function main()
+Error auto.cpp 16: Undefined symbol 'v' in function main()
+Error auto.cpp 21: Undefined symbol 'j' in function main()
+*** 7 errors in Compile ***
+
+        Available memory 4138996
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 189: Group overflowed maximum size: DGROUP
+*** 1 errors in Compile ***
+
+        Available memory 4111492
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4131508
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.000	Okay!
+7	0	0.000	Wrong answer in: teatru.out
+8	10	0.000	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0091102	Canta	Andrei	Maramures
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+21 lines, 3152 bytes code, 1210 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.165	Wrong answer in: auto.out
+8	0	0.165	Wrong answer in: auto.out
+9	0	0.165	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+50 lines, 3568 bytes code, 11212 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.275	Wrong answer in: div.out
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+38 lines, 3264 bytes code, 56246 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091103	Mandache	Robert-Alexandru	Teleorman
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+24 lines, 2896 bytes code, 19196 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.110	Wrong answer in: auto.out
+8	0	0.110	Wrong answer in: auto.out
+9	0	0.110	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+54 lines, 4240 bytes code, 1452 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+31 lines, 3312 bytes code, 56230 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.220	Time limit exceeded!
+2	0	0.220	Time limit exceeded!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0091104	Csorba	Lorand	Bn
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+No source file! (div.c, div.cpp or div.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4058544
+>>>
+
+Test	Score	Time	Message
+1	0	0.055	Wrong answer in: teatru.out
+2	0	0.110	Wrong answer in: teatru.out
+3	0	0.110	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0091105	Orban	Szabolcs	Covasna
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+52 lines, 3088 bytes code, 37188 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+54 lines, 3360 bytes code, 6186 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+59 lines, 2976 bytes code, 56214 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+0093004	Potinteu	Mihail	Alba
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+65 lines, 3136 bytes code, 37212 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.824	Time limit exceeded!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+63 lines, 3840 bytes code, 10204 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	0.659	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.385	Wrong answer in: div.out
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093007	Stan	Catalin	Alba
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+50 lines, 3104 bytes code, 37200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+46 lines, 4672 bytes code, 6212 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	1.044	Time limit exceeded!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	0.000	Wrong answer in: div.out
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+40 lines, 3904 bytes code, 56524 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093009	Danci	Emanuel	Arad
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4126656
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+Error: Undefined symbol _main in module c0.ASM
+
+        Available memory 4174508
+>>>
+
+Test	Score	Time	Message
+0	0	>1.000	Timeout! (program crashes DOS environment)
+1	0	>1.000	Timeout! (program crashes DOS environment)
+2	0	>1.000	Timeout! (program crashes DOS environment)
+3	0	>1.000	Timeout! (program crashes DOS environment)
+4	0	>1.000	Timeout! (program crashes DOS environment)
+5	0	>1.000	Timeout! (program crashes DOS environment)
+6	0	>1.000	Timeout! (program crashes DOS environment)
+7	0	>1.000	Timeout! (program crashes DOS environment)
+8	0	>1.000	Timeout! (program crashes DOS environment)
+9	0	>1.000	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 1: Unable to open include file 'fstream'
+Error teatru.cpp 2: Declaration syntax error
+Error teatru.cpp 8: Declaration syntax error
+Error teatru.cpp 9: Declaration syntax error
+Error teatru.cpp 10: Array size too large
+Error teatru.cpp 11: Too much global data defined in file
+*** 6 errors in Compile ***
+
+        Available memory 4146732
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093018	Iordache	Albert	Bihor
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4124740
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4109556
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.055	Wrong answer in: teatru.out
+6	0	>0.200	Timeout! (program crashes DOS environment)
+7	0	>0.200	Timeout! (program crashes DOS environment)
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093015	Onutu	Catalin	Cluj
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 2: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4074008
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4056616
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4042032
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.055	Okay!
+3	0	>0.200	Timeout! (program crashes DOS environment)
+4	0	>0.200	Timeout! (program crashes DOS environment)
+5	0	>0.200	Timeout! (program crashes DOS environment)
+6	0	>0.200	Timeout! (program crashes DOS environment)
+7	0	>0.200	Timeout! (program crashes DOS environment)
+8	0	>0.200	Timeout! (program crashes DOS environment)
+9	0	>0.200	Timeout! (program crashes DOS environment)
+10	0	>0.200	Timeout! (program crashes DOS environment)
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+0093014	Bazu	Bogdan	Cluj
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4050108
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4048348
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	0.000	Wrong answer in: div.out
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4044172
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	>0.200	Timeout! (program crashes DOS environment)
+4	0	>0.200	Timeout! (program crashes DOS environment)
+5	0	>0.200	Timeout! (program crashes DOS environment)
+6	0	>0.200	Timeout! (program crashes DOS environment)
+7	0	>0.200	Timeout! (program crashes DOS environment)
+8	0	>0.200	Timeout! (program crashes DOS environment)
+9	0	>0.200	Timeout! (program crashes DOS environment)
+10	0	>0.200	Timeout! (program crashes DOS environment)
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0093011	Balan	Catalin	Cluj
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 4: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4147852
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 6: Array size too large
+Error div.cpp 6: Too much global data defined in file
+*** 2 errors in Compile ***
+
+        Available memory 4135252
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4130736
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.000	Okay!
+7	0	0.000	Wrong answer in: teatru.out
+8	10	0.000	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0093008	Teodorescu	Ioana	Giurgiu
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4065080
+>>>
+
+Test	Score	Time	Message
+0	0	0.824	Time limit exceeded!
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Warning div.cpp 23: 'c' is assigned a value that is never used in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4059156
+>>>
+
+Test	Score	Time	Message
+0	0	1.044	Time limit exceeded!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	1.044	Time limit exceeded!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093002	Stanescu	Ana-Maria	Hunedoara
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+44 lines, 3360 bytes code, 1032 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	>0.800	Timeout! (program crashes DOS environment)
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	>0.800	Timeout! (program crashes DOS environment)
+5	0	0.000	Wrong answer in: auto.out
+6	0	>0.800	Timeout! (program crashes DOS environment)
+7	0	>0.800	Timeout! (program crashes DOS environment)
+8	0	>0.800	Timeout! (program crashes DOS environment)
+9	0	>0.800	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+16 lines, 2496 bytes code, 954 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+70 lines, 3072 bytes code, 1744 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.000	Missing output file: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Missing output file: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093021	Ionescu	Maria	Olt
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4050108
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.659	Wrong answer in: auto.out
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.769	Wrong answer in: auto.out
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 1: Unable to open include file 'fstream.'
+*** 1 errors in Compile ***
+
+        Available memory 4174508
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4056576
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.220	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093023	Balauru	Paul-Stefan	Olt
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4058812
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.165	Wrong answer in: auto.out
+8	0	0.220	Wrong answer in: auto.out
+9	0	0.275	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4042164
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: div.out
+1	0	0.000	Missing output file: div.out
+2	0	0.000	Missing output file: div.out
+3	0	0.000	Missing output file: div.out
+4	0	0.000	Missing output file: div.out
+5	0	0.000	Missing output file: div.out
+6	0	0.000	Missing output file: div.out
+7	0	0.000	Missing output file: div.out
+8	0	0.000	Missing output file: div.out
+9	0	0.000	Missing output file: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4050580
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.220	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093001	Voicu	Bianca-Ioana	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+38 lines, 2992 bytes code, 37192 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.220	Wrong answer in: auto.out
+2	0	0.275	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+55 lines, 3904 bytes code, 19200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+51 lines, 3344 bytes code, 56276 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.165	Wrong answer in: teatru.out
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.165	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.055	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.110	Wrong answer in: teatru.out
+10	0	0.165	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093003	Diaconu	Loredana-Mihaela	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+57 lines, 3232 bytes code, 55210 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.055	Wrong answer in: auto.out
+4	0	0.055	Wrong answer in: auto.out
+5	0	0.055	Wrong answer in: auto.out
+6	0	0.055	Wrong answer in: auto.out
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+12 lines, 2688 bytes code, 1186 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+54 lines, 3120 bytes code, 56284 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093006	Ghinea	Razvan	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+35 lines, 3776 bytes code, 37224 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.055	Wrong answer in: auto.out
+1	10	0.055	Okay!
+2	0	0.055	Wrong answer in: auto.out
+3	0	0.330	Wrong answer in: auto.out
+4	0	0.330	Wrong answer in: auto.out
+5	0	0.330	Wrong answer in: auto.out
+6	0	0.495	Wrong answer in: auto.out
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+38 lines, 3936 bytes code, 6208 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+39 lines, 3568 bytes code, 56242 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.165	Wrong answer in: teatru.out
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.165	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.110	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.165	Wrong answer in: teatru.out
+10	0	0.165	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+0093016	Mahu	Razvan	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+32 lines, 3072 bytes code, 37206 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+31 lines, 3456 bytes code, 11202 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+54 lines, 3744 bytes code, 56324 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.220	Time limit exceeded!
+6	0	0.110	Wrong answer in: teatru.out
+7	0	0.110	Wrong answer in: teatru.out
+8	0	0.110	Wrong answer in: teatru.out
+9	0	0.165	Wrong answer in: teatru.out
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093028	Ionescu	Victor-Cristian	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+AUTO.PAS(5): Error 96: Too many variables.
+        sol:array[0..9010] of longint;
+                                     ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+DIV.PAS(6): Error 96: Too many variables.
+        rfr,rbc:array[0..5010] of longint;
+                                         ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+65 lines, 3312 bytes code, 56316 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.165	Wrong answer in: teatru.out
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.165	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.110	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.165	Wrong answer in: teatru.out
+10	0	0.165	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093019	Ioan	Daniel-Mihail	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+33 lines, 3936 bytes code, 11230 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+35 lines, 3696 bytes code, 11228 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.220	Time limit exceeded!
+2	0	0.220	Time limit exceeded!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.000	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093030	Sandulescu	Georgiana-Alexandra	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+24 lines, 3504 bytes code, 19200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.220	Wrong answer in: auto.out
+8	0	0.220	Wrong answer in: auto.out
+9	0	0.220	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+53 lines, 5712 bytes code, 11480 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+32 lines, 3072 bytes code, 56238 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.220	Time limit exceeded!
+2	0	0.220	Time limit exceeded!
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093005	Ortan	Sebastian	Salaj
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+DIV.PAS(60): Error 3: Unknown identifier.
+else if (n=5)and((v[n]=0)or(v[n])=5) then begin
+                  ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(2): Error 22: Structure too large.
+var sol:array[1..55000] of longint;
+                                  ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093010	Bruda	Claudiu-Marcel	Sibiu
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4049468
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.275	Wrong answer in: auto.out
+8	0	0.330	Wrong answer in: auto.out
+9	0	0.330	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4052736
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4046048
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.000	Okay!
+5	10	0.110	Okay!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0093013	Lupascu	Catalina	Suceava
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4139172
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.055	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	>0.800	Timeout! (program crashes DOS environment)
+9	0	>0.800	Timeout! (program crashes DOS environment)
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4060740
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4123820
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.330	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.275	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.275	Time limit exceeded!
+10	0	0.275	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093017	Sarca	Adela	Timis
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4055124
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.220	Wrong answer in: auto.out
+8	0	0.275	Wrong answer in: auto.out
+9	0	0.275	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4045688
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.055	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 2: Array size too large
+*** 1 errors in Compile ***
+
+        Available memory 4063508
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093026	Glodeanu	Daniel	Valcea
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+96 lines, 3568 bytes code, 55242 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+68 lines, 3664 bytes code, 10954 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+74 lines, 3856 bytes code, 55998 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093024	Gusoi	Codrut 	Valcea
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+33 lines, 5024 bytes code, 19194 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+87 lines, 2736 bytes code, 5936 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+65 lines, 3136 bytes code, 55992 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.220	Time limit exceeded!
+2	0	0.220	Time limit exceeded!
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093027	Nicodei-Groper	Eduard	Vrancea
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4132804
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.220	Wrong answer in: auto.out
+2	0	0.055	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4095600
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4078256
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.055	Okay!
+7	0	0.000	Wrong answer in: teatru.out
+8	10	0.055	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+0093020	Vasiliev	Iulian	Vrancea
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Warning auto.cpp 37: Function should return a value in function cr_dc()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4061284
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.275	Wrong answer in: auto.out
+8	0	0.330	Wrong answer in: auto.out
+9	0	0.330	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4062660
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 9: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4064260
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093012	Voroneanu	Radu-Stefan	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+AUTO.PAS(1): Error 96: Too many variables.
+var a,dif:array[1..9001] of longint;
+                                   ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+DIV.PAS(1): Error 96: Too many variables.
+var a,put10,c,b:array[0..5010] of longint;
+                                         ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(4): Error 96: Too many variables.
+    v:array[1..55010] of char;
+                             ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093022	Tamas	Iulia	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+49 lines, 3808 bytes code, 37264 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+15 lines, 2800 bytes code, 1188 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(2): Error 22: Structure too large.
+    a,l,start,cara : array[0..55010] of word;
+                                            ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0093025	Purice	Andrei	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+AUTO.PAS(5): Error 96: Too many variables.
+    sa,ac:array[0..9010] of longint;
+                                   ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+82 lines, 4016 bytes code, 31274 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.659	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+37 lines, 3056 bytes code, 56626 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.165	Wrong answer in: teatru.out
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.165	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.110	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.165	Wrong answer in: teatru.out
+10	0	0.165	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093031	Petcu	Marius	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+42 lines, 3648 bytes code, 37216 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.055	Wrong answer in: auto.out
+5	0	0.055	Wrong answer in: auto.out
+6	0	0.055	Wrong answer in: auto.out
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+DIV.PAS(5): Error 96: Too many variables.
+n,m1{pre inceput},m2{pre sfarsit},r10{restul put lui 10}:array[0..5001] of longint;
+                                                                                  ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+35 lines, 3184 bytes code, 56314 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093032	Vlad	Costin	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+10 lines, 2480 bytes code, 37190 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+19 lines, 2656 bytes code, 11186 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+29 lines, 3504 bytes code, 56456 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0093033	Nedelcu	Tudor	Prahova
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+AUTO.PAS(2): Error 96: Too many variables.
+    a,b,c:array[1..9001]of longint;
+                                  ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+69 lines, 4688 bytes code, 41220 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(5): Error 96: Too many variables.
+    a,x:ding;
+            ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0093029	Vacaroiu	Andrei	Valcea
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+72 lines, 3520 bytes code, 19150 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+20 lines, 2752 bytes code, 1192 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	10	0.000	Okay!
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(2): Error 22: Structure too large.
+var a:array[0..55000,1..26] of integer;
+                                      ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092005	Gavrila	Vlad-Alexandru	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+AUTO.PAS(1): Error 22: Structure too large.
+var v,p:array[0..18010]of longint;
+                                 ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+58 lines, 4464 bytes code, 61108 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.934	Okay!
+2	10	0.934	Okay!
+3	10	0.934	Okay!
+4	0	1.044	Time limit exceeded!
+5	0	0.934	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	10	0.385	Okay!
+8	10	0.385	Okay!
+9	0	1.044	Time limit exceeded!
+TOTAL	60	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(1): Error 22: Structure too large.
+var v:array[0..55010]of longint;
+                               ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0092006	Stan	Serban-Andrei	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4126656
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.275	Okay!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	40	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4113040
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.165	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.879	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4112708
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.110	Okay!
+4	10	0.110	Okay!
+5	10	0.110	Okay!
+6	10	0.000	Okay!
+7	10	0.055	Okay!
+8	10	0.000	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	80	--	--
+
+--- TOTAL SCORE: 140
+
+ID	Nume	Prenume	Judet
+0092007	Taloi	Bogdan-Cristian	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 2: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4147852
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4124816
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 2: Array size too large
+Error teatru.cpp 2: Array size too large
+Error teatru.cpp 3: Too much global data defined in file
+*** 3 errors in Compile ***
+
+        Available memory 4147836
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092008	Zernoveanu	Radu	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 3: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4148956
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4123908
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 4: Too much global data defined in file
+*** 1 errors in Compile ***
+
+        Available memory 4147836
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092002	Pripoaie	Teodor-Anton	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.c:
+Warning auto.c 74: Call to function 'start' with no prototype in function main
+Warning auto.c 76: Call to function 'scan' with no prototype in function main
+Warning auto.c 77: Call to function 'diviz' with no prototype in function main
+Warning auto.c 78: Call to function 'solve' with no prototype in function main
+Warning auto.c 80: Call to function 'end' with no prototype in function main
+Warning auto.c 81: Function should return a value in function main
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4120904
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.055	Wrong answer in: auto.out
+5	0	0.055	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.c:
+Error div.c 6: Array size too large
+Error div.c 8: Array size too large
+Error div.c 8: Array size too large
+Error div.c 8: Array size too large
+Error div.c 8: Array size too large
+Warning div.c 96: Call to function 'scan' with no prototype in function main
+Warning div.c 97: Call to function 'solve' with no prototype in function main
+Warning div.c 98: Call to function 'print' with no prototype in function main
+Warning div.c 99: Function should return a value in function main
+*** 5 errors in Compile ***
+
+        Available memory 4126296
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.c:
+Warning teatru.c 92: Call to function 'cati' with no prototype in function sterge_tot
+Warning teatru.c 107: Call to function 'cati' with no prototype in function solve
+Warning teatru.c 113: Call to function 'sterge_tot' with no prototype in function solve
+Warning teatru.c 148: Call to function 'scan' with no prototype in function main
+Warning teatru.c 149: Call to function 'solve' with no prototype in function main
+Warning teatru.c 150: Function should return a value in function main
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4130492
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.000	Okay!
+7	0	0.220	Time limit exceeded!
+8	10	0.000	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0092003	Plop	Teodor-Daniel	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+AUTO.PAS(5): Error 3: Unknown identifier.
+  readln(f,t);
+           ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+64 lines, 4240 bytes code, 16216 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+36 lines, 3376 bytes code, 56424 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092004	Vlad	Radu-Cristian	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4108844
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.275	Wrong answer in: auto.out
+8	0	0.275	Wrong answer in: auto.out
+9	0	0.275	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4095980
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.000	Wrong answer in: div.out
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4120644
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.055	Wrong answer in: teatru.out
+4	10	0.055	Okay!
+5	0	0.055	Wrong answer in: teatru.out
+6	0	0.000	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.000	Wrong answer in: teatru.out
+9	0	0.055	Wrong answer in: teatru.out
+10	0	0.055	Wrong answer in: teatru.out
+TOTAL	10	--	--
+
+--- TOTAL SCORE: 30
+
+ID	Nume	Prenume	Judet
+0092001	Naiba	Lucian	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+47 lines, 3904 bytes code, 37224 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.659	Okay!
+4	0	0.824	Time limit exceeded!
+5	10	0.769	Okay!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	50	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+86 lines, 5296 bytes code, 16496 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	1.044	Time limit exceeded!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	10	0.000	Okay!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	0	1.044	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+32 lines, 3344 bytes code, 56242 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0092009	Barbulescu	Dan	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+47 lines, 2992 bytes code, 37204 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.055	Okay!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+80 lines, 4352 bytes code, 56210 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	10	0.000	Okay!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	30	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+49 lines, 2944 bytes code, 56232 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 40
+
+ID	Nume	Prenume	Judet
+0092010	Tataranu	Vlad-Bogdan	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 1: Unable to open include file 'cstdio'
+Error auto.cpp 2: Unable to open include file 'vector'
+Error auto.cpp 3: Unable to open include file 'algorithm'
+Error auto.cpp 4: Declaration syntax error
+Error auto.cpp 11: Declaration syntax error
+Error auto.cpp 12: Variable 'bool' is initialized more than once
+Error auto.cpp 12: Declaration syntax error
+Error auto.cpp 13: Declaration syntax error
+Error auto.cpp 16: Undefined symbol 'prim' in function ciur()
+Error auto.cpp 16: Undefined symbol 'true' in function ciur()
+Error auto.cpp 18: Multiple declaration for 'i' in function ciur()
+Error auto.cpp 20: Undefined symbol 'false' in function ciur()
+Error auto.cpp 20: Undefined symbol 'divi' in function ciur()
+Error auto.cpp 23: Variable 'bool' is initialized more than once
+Error auto.cpp 23: Declaration syntax error
+*** 15 errors in Compile ***
+
+        Available memory 4165908
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 1: Unable to open include file 'cstdio'
+Error div.cpp 4: Function 'freopen' should have a prototype in function main()
+Error div.cpp 4: Undefined symbol 'stdin' in function main()
+Error div.cpp 5: Undefined symbol 'stdout' in function main()
+Error div.cpp 6: Function 'printf' should have a prototype in function main()
+*** 5 errors in Compile ***
+
+        Available memory 4168364
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 4: Unable to open include file 'cstdio'
+Error teatru.cpp 12: Array must have at least one element
+Error teatru.cpp 13: Array must have at least one element
+Error teatru.cpp 14: Array must have at least one element
+Error teatru.cpp 15: Array must have at least one element
+Error teatru.cpp 19: Storage class 'inline' is not allowed here
+Error teatru.cpp 19: Declaration syntax error
+*** 7 errors in Compile ***
+
+        Available memory 4167084
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092011	Tache	Alexandru	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 3: Array size too large
+*** 1 errors in Compile ***
+
+        Available memory 4139152
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Warning div.cpp 51: Parameter 'i2' is never used in function comp(int,int,int,int)
+Warning div.cpp 152: Function should return a value in function main()
+Warning div.cpp 152: 'aux' is assigned a value that is never used in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4115724
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	0	0.000	Wrong answer in: div.out
+3	10	0.000	Okay!
+4	10	0.000	Okay!
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	10	0.000	Okay!
+9	10	0.000	Okay!
+TOTAL	60	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Warning teatru.cpp 58: Function should return a value in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4131508
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.000	Okay!
+7	0	0.000	Wrong answer in: teatru.out
+8	10	0.000	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+0092012	Pandele	Ioana	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4137408
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.275	Wrong answer in: auto.out
+8	0	0.330	Wrong answer in: auto.out
+9	0	0.330	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Warning div.cpp 25: 'i' is assigned a value that is never used in function compara()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4119956
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	0.000	Wrong answer in: div.out
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	10	0.000	Okay!
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 6: Array size too large
+Error teatru.cpp 6: Array size too large
+Error teatru.cpp 7: Too much global data defined in file
+*** 3 errors in Compile ***
+
+        Available memory 4135172
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 20
+
+ID	Nume	Prenume	Judet
+0092013	Poenaru	Andrei	Bucuresti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4142360
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4122108
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.055	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4131240
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.000	Okay!
+5	10	0.055	Okay!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+0092014	Tiganus	Mihai	Buzau
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4052740
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4068176
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4054596
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.110	Okay!
+4	10	0.000	Okay!
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 60
+
+ID	Nume	Prenume	Judet
+0092015	Mircea	Dragos	Braila
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4051380
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.110	Okay!
+4	10	0.165	Okay!
+5	10	0.110	Okay!
+6	10	0.220	Okay!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4053980
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4050852
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.000	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 80
+
+ID	Nume	Prenume	Judet
+0092016	Matei	Silviu	Braila
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4062988
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.000	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4053504
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4047008
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	>0.200	Timeout! (program crashes DOS environment)
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092017	Harabula	Adrian	Braila
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Error auto.cpp 1: Unable to open include file 'cstdio'
+Error auto.cpp 5: Function 'freopen' should have a prototype in function main()
+Error auto.cpp 5: Undefined symbol 'stdin' in function main()
+Error auto.cpp 6: Undefined symbol 'stdout' in function main()
+Error auto.cpp 9: Function 'scanf' should have a prototype in function main()
+Error auto.cpp 15: Function 'printf' should have a prototype in function main()
+*** 6 errors in Compile ***
+
+        Available memory 4166760
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 1: Unable to open include file 'cstdio'
+Error div.cpp 50: Function 'printf' should have a prototype in function Case()
+Error div.cpp 61: Function 'freopen' should have a prototype in function main()
+Error div.cpp 61: Undefined symbol 'stdin' in function main()
+Error div.cpp 62: Undefined symbol 'stdout' in function main()
+Error div.cpp 64: Function 'scanf' should have a prototype in function main()
+Error div.cpp 67: Undefined symbol 'EOF' in function main()
+Warning div.cpp 74: 'tree' is assigned a value that is never used in function main()
+*** 7 errors in Compile ***
+
+        Available memory 4162464
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 1: Unable to open include file 'cstdio'
+Error teatru.cpp 9: Too much global data defined in file
+*** 2 errors in Compile ***
+
+        Available memory 4170324
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092018	Patru	Mihai-Ovidiu	Arges
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4054612
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.330	Okay!
+2	10	0.275	Okay!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	30	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4054376
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.055	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4054344
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.000	Okay!
+5	10	0.110	Okay!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+0092019	Tudor	Ana-Maria-Mihaela	Arges
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Warning auto.cpp 43: Possibly incorrect assignment in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4051716
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.275	Wrong answer in: auto.out
+2	0	0.220	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+102 lines, 3616 bytes code, 6208 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 1: Unable to open include file 'fstream'
+*** 1 errors in Compile ***
+
+        Available memory 4174428
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092020	Ivan	Cristian	Calarasi
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+27 lines, 2800 bytes code, 19192 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.110	Wrong answer in: auto.out
+8	0	0.110	Wrong answer in: auto.out
+9	0	0.110	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+18 lines, 2896 bytes code, 6198 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: div.out
+1	0	0.000	Missing output file: div.out
+2	0	0.000	Missing output file: div.out
+3	0	0.000	Missing output file: div.out
+4	0	0.000	Missing output file: div.out
+5	0	0.000	Missing output file: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Missing output file: div.out
+8	0	0.000	Missing output file: div.out
+9	0	0.000	Missing output file: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+28 lines, 2816 bytes code, 56188 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092021	Mavrodin	Manuela	Calarasi
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+33 lines, 2912 bytes code, 37198 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.000	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.000	Wrong answer in: auto.out
+7	0	0.055	Wrong answer in: auto.out
+8	0	0.055	Wrong answer in: auto.out
+9	0	0.055	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+15 lines, 2688 bytes code, 11188 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+No source file! (teatru.c, teatru.cpp or teatru.pas)
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092022	Hulparu	Adrian	Constanta
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4128440
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	10	0.055	Okay!
+4	10	0.055	Okay!
+5	10	0.055	Okay!
+6	10	0.110	Okay!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	70	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4142680
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4055532
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.220	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	20	--	--
+
+--- TOTAL SCORE: 100
+
+ID	Nume	Prenume	Judet
+0092023	Memet	Arif	Constanta
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4042408
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	1.044	Time limit exceeded!
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4057852
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	10	0.000	Okay!
+7	0	0.000	Wrong answer in: teatru.out
+8	10	0.000	Okay!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	40	--	--
+
+--- TOTAL SCORE: 50
+
+ID	Nume	Prenume	Judet
+0092024	Ciocan	Andrei	Galati
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4056828
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.055	Wrong answer in: auto.out
+5	0	0.055	Wrong answer in: auto.out
+6	0	0.055	Wrong answer in: auto.out
+7	0	0.604	Wrong answer in: auto.out
+8	0	0.604	Wrong answer in: auto.out
+9	0	0.659	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4044072
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	1.044	Time limit exceeded!
+2	0	1.044	Time limit exceeded!
+3	0	1.044	Time limit exceeded!
+4	0	1.044	Time limit exceeded!
+5	0	0.055	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	1.044	Time limit exceeded!
+8	0	1.044	Time limit exceeded!
+9	10	0.000	Okay!
+TOTAL	20	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4043304
+>>>
+
+Test	Score	Time	Message
+1	10	0.000	Okay!
+2	10	0.000	Okay!
+3	0	0.220	Time limit exceeded!
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	10	0.000	Okay!
+7	10	0.000	Okay!
+8	10	0.000	Okay!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	50	--	--
+
+--- TOTAL SCORE: 70
+
+ID	Nume	Prenume	Judet
+0092025	Dadalau	Bogdan	Gorj
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 12: Statement missing ; in function main()
+Error div.cpp 12: Compound statement missing } in function main()
+*** 2 errors in Compile ***
+
+        Available memory 4070632
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Error teatru.cpp 9: Declaration terminated incorrectly
+*** 1 errors in Compile ***
+
+        Available memory 4043568
+>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092026	Raica	Cristian-Dumitru	Mures
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+auto.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4055988
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.000	Wrong answer in: auto.out
+2	0	0.000	Wrong answer in: auto.out
+3	0	0.000	Wrong answer in: auto.out
+4	0	0.055	Wrong answer in: auto.out
+5	0	0.000	Wrong answer in: auto.out
+6	0	0.055	Wrong answer in: auto.out
+7	0	0.000	Wrong answer in: auto.out
+8	0	0.055	Wrong answer in: auto.out
+9	0	0.000	Wrong answer in: auto.out
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Error div.cpp 8: Undefined symbol 'i' in function test(char *)
+Error div.cpp 8: Undefined symbol 'k' in function test(char *)
+Error div.cpp 9: Undefined symbol 'nr2' in function test(char *)
+Error div.cpp 10: Undefined symbol 's' in function test(char *)
+Error div.cpp 11: Undefined symbol 'nr' in function test(char *)
+Error div.cpp 17: Declaration syntax error in function test(char *)
+Error div.cpp 30: Declaration missing ; in function test(char *)
+Error div.cpp 30: Compound statement missing } in function test(char *)
+Error div.cpp 30: Compound statement missing } in function test(char *)
+Error div.cpp 30: Compound statement missing } in function test(char *)
+Warning div.cpp 30: Function should return a value in function test(char *)
+Warning div.cpp 30: Parameter 'a' is never used in function test(char *)
+*** 10 errors in Compile ***
+
+        Available memory 4071404
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Warning teatru.cpp 66: 'x' is assigned a value that is never used in function main()
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4047320
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	>0.200	Timeout! (program crashes DOS environment)
+4	0	>0.200	Timeout! (program crashes DOS environment)
+5	0	0.220	Time limit exceeded!
+6	0	0.220	Time limit exceeded!
+7	0	0.220	Time limit exceeded!
+8	0	0.220	Time limit exceeded!
+9	0	0.220	Time limit exceeded!
+10	0	0.220	Time limit exceeded!
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092027	Morariu	Razvan	Mures
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+52 lines, 3120 bytes code, 37200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: auto.out
+1	0	0.165	Wrong answer in: auto.out
+2	0	0.055	Wrong answer in: auto.out
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+57 lines, 3568 bytes code, 6212 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	0	0.000	Wrong answer in: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+33 lines, 2928 bytes code, 56230 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.000	Wrong answer in: teatru.out
+4	0	0.000	Wrong answer in: teatru.out
+5	0	0.000	Wrong answer in: teatru.out
+6	0	0.220	Time limit exceeded!
+7	0	0.000	Wrong answer in: teatru.out
+8	0	0.220	Time limit exceeded!
+9	0	0.000	Wrong answer in: teatru.out
+10	0	0.000	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092028	Neghina	Cornel	Ialomita
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+31 lines, 2720 bytes code, 37200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.824	Time limit exceeded!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+DIV.PAS(2): Error 3: Unknown identifier.
+    n:int64;
+      ^>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+TEATRU.PAS(1): Error 22: Structure too large.
+var a,v,v2,v3:array[1..55000] of 1..1000;
+                                        ^>>>
+
+Test	Score	Time	Message
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+10	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 0
+
+ID	Nume	Prenume	Judet
+0092029	Burileanu	Doru-Daniel	Mehedinti
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+69 lines, 3296 bytes code, 37300 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	10	0.000	Okay!
+1	0	0.824	Time limit exceeded!
+2	0	0.824	Time limit exceeded!
+3	0	0.824	Time limit exceeded!
+4	0	0.824	Time limit exceeded!
+5	0	0.824	Time limit exceeded!
+6	0	0.824	Time limit exceeded!
+7	0	0.824	Time limit exceeded!
+8	0	0.824	Time limit exceeded!
+9	0	0.824	Time limit exceeded!
+TOTAL	10	--	--
+
+### Problema: div
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+29 lines, 3520 bytes code, 1200 bytes data.
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Missing output file: div.out
+1	0	0.000	Missing output file: div.out
+2	0	0.000	Missing output file: div.out
+3	0	0.000	Missing output file: div.out
+4	0	0.000	Missing output file: div.out
+5	0	0.000	Missing output file: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Missing output file: div.out
+8	0	0.000	Missing output file: div.out
+9	0	0.000	Missing output file: div.out
+TOTAL	0	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Turbo Pascal  Version 7.0  Copyright (c) 1983,92 Borland International
+125 lines, 4016 bytes code, 56214 bytes data.
+>>>
+
+Test	Score	Time	Message
+1	0	0.000	Wrong answer in: teatru.out
+2	0	0.000	Wrong answer in: teatru.out
+3	0	0.165	Wrong answer in: teatru.out
+4	0	0.165	Wrong answer in: teatru.out
+5	0	0.165	Wrong answer in: teatru.out
+6	0	0.055	Wrong answer in: teatru.out
+7	0	0.110	Wrong answer in: teatru.out
+8	0	0.055	Wrong answer in: teatru.out
+9	0	0.165	Wrong answer in: teatru.out
+10	0	0.165	Wrong answer in: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+
+ID	Nume	Prenume	Judet
+0092030	Tanase	Theodor	Tulcea
+
+Results for: total
+
+### Problema: auto
+Compiler output: <<<
+No source file! (auto.c, auto.cpp or auto.pas)
+>>>
+
+Test	Score	Time	Message
+0	0	-.---	Missing executable file
+1	0	-.---	Missing executable file
+2	0	-.---	Missing executable file
+3	0	-.---	Missing executable file
+4	0	-.---	Missing executable file
+5	0	-.---	Missing executable file
+6	0	-.---	Missing executable file
+7	0	-.---	Missing executable file
+8	0	-.---	Missing executable file
+9	0	-.---	Missing executable file
+TOTAL	0	--	--
+
+### Problema: div
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+div.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4117396
+>>>
+
+Test	Score	Time	Message
+0	0	0.000	Wrong answer in: div.out
+1	0	0.000	Wrong answer in: div.out
+2	0	0.000	Wrong answer in: div.out
+3	0	0.000	Wrong answer in: div.out
+4	0	0.000	Wrong answer in: div.out
+5	0	0.000	Wrong answer in: div.out
+6	0	0.000	Wrong answer in: div.out
+7	0	0.000	Wrong answer in: div.out
+8	0	0.000	Wrong answer in: div.out
+9	10	0.000	Okay!
+TOTAL	10	--	--
+
+### Problema: teatru
+Compiler output: <<<
+Borland C++  Version 3.1 Copyright (c) 1992 Borland International
+teatru.cpp:
+Turbo Link  Version 5.1 Copyright (c) 1992 Borland International
+
+        Available memory 4133296
+>>>
+
+Test	Score	Time	Message
+1	0	0.220	Time limit exceeded!
+2	0	0.220	Time limit exceeded!
+3	0	0.000	Missing output file: teatru.out
+4	0	0.220	Time limit exceeded!
+5	0	0.220	Time limit exceeded!
+6	0	0.000	Missing output file: teatru.out
+7	0	0.000	Missing output file: teatru.out
+8	0	0.000	Missing output file: teatru.out
+9	0	0.000	Missing output file: teatru.out
+10	0	0.000	Missing output file: teatru.out
+TOTAL	0	--	--
+
+--- TOTAL SCORE: 10
+

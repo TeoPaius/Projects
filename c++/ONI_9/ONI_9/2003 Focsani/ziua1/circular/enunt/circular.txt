@@ -1,0 +1,43 @@
+circular
+Unele numere naturale sunt formate doar din cifre distincte nenule. Dintre acestea, unele,  
+numite numere circulare, au urmatoarea proprietate: pornind de la prima cifra si numarand 
+spre dreapta atâtea cifre cât indica aceasta cifra, se determina o noua cifra. 
+Procedand la fel si pentru aceasta si pentru toate cele care urmeaza se va ajunge din 
+nou la prima cifra. Daca toate cifrele au fost vizitate exact o data, numarul se numeste 
+circular. 
+
+De exemplu numarul
+1894256
+este numar circular deoarece:
+  * are numai cifre distincte
+  * nu contine cifra 0
+  * pornind de la 1 obtinem, pe rând: 8, 9, 2, 6, 5, 4, 1
+
+Cerinta
+Scrieti un program care, pentru un N dat, determina câte numere circulare sunt mai mici sau 
+egale cu N, precum si cel mai mare numar circular mai mic sau egal cu N. 
+
+Date de intrare
+Pe prima linie a fisierului de intrare circular.in se afla numarul natural N.
+
+Iesire
+Fisierul de iesire circular.out contine o singura linie, pe care se afla numarul de numere 
+circulare mai mici ca N precum si numarul circular maxim cerut, separate printr-un spatiu.
+Daca nu exista nici un numar circular mai mic ca N, în fisierul de iesire se vor afisa doua 
+valori 0 separate printr-un spatiu.
+
+Restrictii
+  * 10 <= N < 10000000 
+
+Exemplu
+circular.in
+1894250
+
+circular.out
+347 1849625
+
+Semnificatie
+Exista 347 numere circulare mai mici ca 1894250 cel mai mare dintre acestea fiind 1849625
+
+Timp de executie/test: 1 secunda
+

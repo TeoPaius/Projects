@@ -1,0 +1,10 @@
+F:\c#\school\Graphics\Graphics\bin\Debug\Graphics.exe.config
+F:\c#\school\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\c#\school\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+F:\c#\school\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\c#\school\Graphics\Graphics\obj\Debug\Graphics.Resource1.resources
+F:\c#\school\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+F:\c#\school\Graphics\Graphics\bin\Debug\Graphics.exe
+F:\c#\school\Graphics\Graphics\bin\Debug\Graphics.pdb
+F:\c#\school\Graphics\Graphics\obj\Debug\Graphics.exe
+F:\c#\school\Graphics\Graphics\obj\Debug\Graphics.pdb

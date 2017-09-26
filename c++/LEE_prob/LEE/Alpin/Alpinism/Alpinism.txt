@@ -1,0 +1,112 @@
+//Sursele in surse4.rar
+
+
+
+ ----------------------------------
+| PROBLEMA 14: Alpinism            |
+| PUNCTAJ: 55 Dexteri              |
+| DEADLINE: Luni, 5 Aprilie        |
+| TIMP DE IMPLEMENTARE: 60 minute  |
+| TIMP DE EXECUTIE:   1 sec./      |
+|                 Pentium 166 Mhz. |
+ ----------------------------------
+
+   Imaginati-va ca sunteti un alpinist inrait. Vreti sa urcati, sa urcati, si
+iar sa urcati. Pentru a va satisface setea de urcus, trebuie sa va selectati
+un traseu pe care sa urcati cat mai mult timp.
+   Regiunea muntoasa in care va aflati este codificata sub forma unei matrici
+patratice de ordinul n, fiecare element al matricii reprezentand altitudinea
+respectivei portiuni de teren.
+   Traseul poate incepe din orice punct al regiunii (deci de la oricare dintre
+elementele matricii) si poate avansa intr-un punct vecin la stanga, la dreapta,
+in sus sau in jos (deci nu si pe diagonala) atata timp cat traseul urca (deci
+altitudinea punctului curent este strict mai mica decat altitudinea punctului
+urmator). Fiecare deplasare dureaza o unitate de timp.
+
+   Datele de intrare se citesc din fisierul "alpin.in" sub urmatorul format:
+n
+a11 a12 ......  a1n
+a21 a22 ......  a2n
+....
+an1 an2 ......  ann
+
+   Datele de iesire sunt scrise in fisierul "alpin.out" sub
+urmatorul format: 
+l - lungimea traseului parcurs 
+l1 c1 l2 c2 - (l1,c1) reprezinta coordonatele punctului de plecare,
+          iar (l2,c2) reprezinta coordonatele punctului de sosire.
+
+Exemplu:
+
+alpin.in                           alpin.out (o solutie posibila)
+--------                           ---------
+6                                  15
+29 10  8  9  8 10                  4 3 4 4
+22 11  7  3  7 20
+17 15  3 14 45 30
+19  5  2 41 19 17
+23  8 90 39 20 18
+27 30 32 35 70 19
+
+
+
+
+   Problema nu a fost foarte grea avand in vedere ca exista o metoda destul
+   de simpla si foarte eficienta de rezolvare.
+   Aceasta era:
+     - folosim o matrice auxiliara B (avand dimeniunile matricii A),
+       B(i,j) retinand numarul maxim de pasi cu care am putut ajunge in
+       punctul (i,j)
+     - iterativ, cat timp mai exista modificari, pornim de la elementul
+       cu valoarea cea mai mica (element neselectat pana la momentul
+       respectiv) si incercam sa urcam in matrice. Daca am ajuns intr-un
+       anumit punct (i,j) al matricii cu un numar de pasi mai mare decat
+       numarul de pasi inregistrat in b(i,j), modificam valoarea lui b(i,j)
+       si ne continuam "urcarea" in matrice; in caz contrar, ne oprim.
+
+     Algoritmul in pseudocod este urmatorul:
+     B=0 // B este matricea nula
+     cat timp s-au mai facut modificari
+       {
+        selectez elementul de valoare minima (xmin,ymin)
+        rec(xm,ym,0)
+       }
+
+     procedura recursiva rec este:
+     rec(x,y,k) // k este numarul de pasi cu care am ajuns in punctul (x,y)
+     {
+      daca B(x,y)<k
+      {
+        B(x,y)=k;
+        rec(x+1,y,k+1);
+        rec(x-1,y,k+1);
+        rec(x,y+1,k+1);
+        rec(x,y-1,k+1);
+      }
+     }
+
+     Acest algoritm are complexitatea medie O(n^3), desi poate ajunge pe
+cazul cel mai nefavorabil la O(n^4).
+
+     Algorimul optim de rezolvare este unul de complexitate O(n^2 log n).
+Este un algoritm "destept", si ii felicit pe cei cativa care l-au gasit (care
+nu sunt obligatoriu cei din capul clasamentului; asa ca, cei care au obtinut
+punctaj maxim pe aceasta problema, fara a folosi unul din cei doi algoritmi
+descrisi aici, sunt rugati sa-si posteze solutia pe lista).
+     Algoritmul incepea prin sortarea elementelor matricii in ordine cresca-
+toare a valorii elementelor.
+     Apoi parcurgem aceste elemente sortate si pentru fiecare element (i,j)
+realizam urmatoarele:
+    {
+      daca unul dintre cei 4 vecini este mai mic decat el atunci,
+          daca B(i,j)<B(i+1,j)+1
+               atunci B(i,j)=B(i+1,j)+1; // exemplu pentru vecinul "de sus"
+      // matricea B are aceasi semnificatie ca si la primul algoritm
+    }
+
+    In acest caz nu este suficienta decat o singura parcurgere a vectorului
+sortat, deoarece in mod sigur elementele mai mici decat elementul curent au
+fost prelucrate inaintea acestuia (ceea ce nu se intampla si la primul
+algoritm).
+    Cam asta este.
+

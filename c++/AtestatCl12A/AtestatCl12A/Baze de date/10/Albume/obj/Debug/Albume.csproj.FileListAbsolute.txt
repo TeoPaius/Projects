@@ -1,0 +1,10 @@
+D:\12 A\C#\Albume\Albume\bin\Debug\Albume.exe.config
+D:\12 A\C#\Albume\Albume\bin\Debug\Albume.mdf
+D:\12 A\C#\Albume\Albume\bin\Debug\Albume_log.ldf
+D:\12 A\C#\Albume\Albume\bin\Debug\Albume.exe
+D:\12 A\C#\Albume\Albume\bin\Debug\Albume.pdb
+D:\12 A\C#\Albume\Albume\obj\Debug\Albume.Form1.resources
+D:\12 A\C#\Albume\Albume\obj\Debug\Albume.Properties.Resources.resources
+D:\12 A\C#\Albume\Albume\obj\Debug\Albume.csproj.GenerateResource.Cache
+D:\12 A\C#\Albume\Albume\obj\Debug\Albume.exe
+D:\12 A\C#\Albume\Albume\obj\Debug\Albume.pdb
