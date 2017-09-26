@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/widget.o
+./debug/GrView2d.o
+./debug/-.o
+./debug/myshape.o
+./debug/GrView2d.o
+./debug/-.o
+./debug/myshape.o
+./debug/myshape.o
+./debug/moc_widget.o
+./debug/moc_myshape.o
+);

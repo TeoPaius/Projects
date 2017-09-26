@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/widget.o
+./release/GrView2d.o
+./release/-.o
+./release/myshape.o
+./release/GrView2d.o
+./release/-.o
+./release/myshape.o
+./release/myshape.o
+./release/moc_widget.o
+./release/moc_myshape.o
+);
